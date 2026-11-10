@@ -25,7 +25,7 @@ const BG = {
   'Flights':'Полети','Stays':'Настаняване','Transfers between bases':'Преходи между базите','Trivia':'Любопитни факти','Useful phrases':'Полезни фрази','Emergency':'Спешни случаи','Packing':'Багаж','Before departure':'Преди заминаване',
   '📅 Dates':'📅 Дати','📍 Address':'📍 Адрес','📞 Phone':'📞 Телефон','🕒 Times':'🕒 Часове','🔖 Booking':'🔖 Резервация','ℹ️ Extra':'ℹ️ Допълнително','🚆 How':'🚆 Как','🧳 Luggage':'🧳 Багаж',
   'Ticks are saved only in this browser.':'Отметките се пазят само в този браузър.','Info':'Инфо','Tap a section to open it.':'Докосни раздел, за да го отвориш.',
-  'Japan in general':'Япония като цяло','Tokyo':'Tokyo','Kyoto, Himeji and Uji':'Kyoto, Himeji и Uji','Yoshino':'Yoshino','Osaka and Nara':'Osaka и Nara','🔊 plays the phrase, 🐢 plays it slowly.':'🔊 пуска фразата, 🐢 я пуска бавно.',
+  'Basics':'Основни','Restaurant':'Ресторант','Shops and temples':'Магазини и храмове','Getting around':'Придвижване','Stays and luggage':'Хотели и багаж',  'Japan in general':'Япония като цяло','Tokyo':'Tokyo','Kyoto, Himeji and Uji':'Kyoto, Himeji и Uji','Yoshino':'Yoshino','Osaka and Nara':'Osaka и Nara','🔊 plays the phrase, 🐢 plays it slowly.':'🔊 пуска фразата, 🐢 я пуска бавно.',
   'Days':'Дни','Places':'Места','10–23 Nov · Tokyo · Kyoto · Yoshino · Osaka':'10–23 ноември · Tokyo · Kyoto · Yoshino · Osaka'
 };
 let lang = 'en';
@@ -506,8 +506,8 @@ async function renderInfo() {
       const ids = Object.keys(tr).filter(id => triviaGroup(tr[id]) === key);
       return ids.length ? `<h3>${L(label)}</h3>${await triviaList(ids)}` : '';
     }))).join('')),
-    block('💬', 'Useful phrases', (i.phrases || []).length, `<p class="muted small">${L('🔊 plays the phrase, 🐢 plays it slowly.')}</p>` + (i.phrases || []).map((p, n, all) =>
-      `${p.group && p.group !== all[n - 1]?.group ? `<h3>${L(p.group)}</h3>` : ''}<div class="phrase"><b>${esc(p.en)}</b><div class="jp">${esc(p.jp)}</div><div><i>${esc(p.say)}</i></div>${audioMap[p.jp] ? `<div class="say"><button data-say="${esc(audioMap[p.jp].f)}" aria-label="Play">🔊</button><button data-say="${esc(audioMap[p.jp].s)}" aria-label="Play slowly">🐢</button></div>` : ''}<div class="meta">${esc(p.use)}</div></div>`).join('')
+    block('💬', 'Useful phrases', (i.phrases || []).length, `<div class="seg phf">${['All', ...new Set((i.phrases || []).map(p => p.group))].map(g => `<button data-phf="${esc(g)}" class="${g === 'All' ? 'on' : ''}">${L(g)}</button>`).join('')}</div><p class="muted small">${L('🔊 plays the phrase, 🐢 plays it slowly.')}</p>` + (i.phrases || []).map((p, n, all) =>
+      `${p.group && p.group !== all[n - 1]?.group ? `<h3 data-g="${esc(p.group)}">${L(p.group)}</h3>` : ''}<div class="phrase" data-g="${esc(p.group)}"><b>${esc(p.en)}</b><div class="jp">${esc(p.jp)}</div><div><i>${esc(p.say)}</i></div>${audioMap[p.jp] ? `<div class="say"><button data-say="${esc(audioMap[p.jp].f)}" aria-label="Play">🔊</button><button data-say="${esc(audioMap[p.jp].s)}" aria-label="Play slowly">🐢</button></div>` : ''}<div class="meta">${esc(p.use)}</div></div>`).join('')
 ),
     block('🚨', 'Emergency', (i.emergency || []).length, (i.emergency || []).map(e =>
       `<div class="emg"><span>${esc(e.what)}</span><b>${esc(e.number)}</b></div>`).join('')),
@@ -518,6 +518,11 @@ async function renderInfo() {
       + `<p class="muted small"><i>${L('Ticks are saved only in this browser.')}</i></p>`)
   ];
   view.innerHTML = `<div class="card"><h2>${L('Info')}</h2><p class="muted">${L('Tap a section to open it.')}</p></div>${sections.join('')}`;
+  view.querySelectorAll('[data-phf]').forEach(btn => btn.addEventListener('click', () => {
+    const g = btn.dataset.phf;
+    view.querySelectorAll('[data-phf]').forEach(x => x.classList.toggle('on', x === btn));
+    view.querySelectorAll('.phrase[data-g], h3[data-g]').forEach(el => { el.hidden = g !== 'All' && el.dataset.g !== g; });
+  }));
   view.querySelectorAll('[data-ck]').forEach(c => c.addEventListener('change', () => {
     const d = store.get('jp-checklist'); d[c.dataset.ck] = c.checked; store.set('jp-checklist', d);
   }));
