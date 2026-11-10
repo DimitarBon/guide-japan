@@ -173,6 +173,24 @@ const placeLine = (code, p, label) => p
   ? `<button class="place" data-code="${esc(code)}">${placeDone(code) ? '<span class="donemark">✔️</span> ' : ''}${esc(code)} ${p.icon || ''} <b>${esc(label || p.name)}</b>
        <span class="muted">(${esc(p.desc)} · ${P[p.p] || ''})</span></button>`
   : `<span>${esc(code)}</span>`;
+// iPhone on the GitHub site: Map links open the Google Maps app (comgooglemaps://), so the guide stays open.
+// If the app does not open within 1.5 s, the web map opens instead. The Claude page blocks app links, so it keeps web links.
+const IOS = /iP(hone|ad|od)/.test(navigator.userAgent) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+const APP_LINKS = IOS && !/claude\.ai$|claudeusercontent\.com$|claude\.site$/.test(location.hostname);
+document.addEventListener('click', e => {
+  const a = e.target.closest('a.map');
+  if (!a || !APP_LINKS) return;
+  let q;
+  try { q = new URL(a.href).searchParams.get('query'); } catch (_) { return; }
+  if (!q) return;
+  e.preventDefault();
+  let left = false;
+  const away = () => { left = true; };
+  document.addEventListener('visibilitychange', away, { once: true });
+  window.addEventListener('pagehide', away, { once: true });
+  location.href = 'comgooglemaps://?q=' + encodeURIComponent(q);
+  setTimeout(() => { if (!left && document.visibilityState === 'visible') location.href = a.href; }, 1500);
+});
 const mapLink = p => p?.map ? ` <a class="map" href="${esc(p.map)}" target="_blank" rel="noopener">${L('Map ↗')}</a>` : '';
 
 async function renderItem(it) {
