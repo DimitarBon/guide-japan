@@ -1,0 +1,118 @@
+{
+  "title": "Решаваш според времето в четвъртък вечер",
+  "pace": "A натоварено · B спокойно",
+  "stay": "APA Hotel Asakusa Tawaramachi Ekimae",
+  "items": [
+    {
+      "type": "head",
+      "text": "Вариант A: хубаво време (натоварено)"
+    },
+    {
+      "type": "note",
+      "time": "07:30",
+      "text": "Тръгване от хотела."
+    },
+    {
+      "type": "travel",
+      "mode": "🚇",
+      "text": "Ginza Line до района на Shinjuku, после Keio Line от Shinjuku до Takaosanguchi (~50 мин).",
+      "dur": "~1 ч 15 мин",
+      "est": true
+    },
+    {
+      "type": "stop",
+      "time": "~08:45",
+      "end": "~14:00",
+      "place": "T11",
+      "stay": "~5 ч",
+      "stamp": true,
+      "text": "Пътека 1 до Yakuōin и върха; обяд със соба. 📿 печат в Yakuōin."
+    },
+    {
+      "type": "travel",
+      "mode": "🚆",
+      "text": "Keio Line от Takaosanguchi до Shinjuku.",
+      "dur": "~50 мин",
+      "est": true
+    },
+    {
+      "type": "optional",
+      "time": "~14:45",
+      "place": "T9",
+      "stay": "30–45 мин",
+      "text": "Свободно време ~1.5 ч в Shinjuku; площадката на Tochō, ако е ясно."
+    },
+    {
+      "type": "stop",
+      "time": "16:30",
+      "place": "T22",
+      "stay": "1.5 ч",
+      "status": "todo",
+      "booking": "t22-unatetsu",
+      "text": "Ранна вечеря. Резервирай 1–2 дни предварително."
+    },
+    {
+      "type": "travel",
+      "mode": "🚇",
+      "text": "Обратно до хотела.",
+      "dur": "~35 мин",
+      "est": true
+    },
+    {
+      "type": "head",
+      "text": "Вариант B: лошо време (спокойно)"
+    },
+    {
+      "type": "note",
+      "text": "Сутрин: свободно."
+    },
+    {
+      "type": "optional",
+      "place": "T18",
+      "stay": "1.5 ч",
+      "text": "Обяд по избор в деня."
+    },
+    {
+      "type": "optional",
+      "place": "T20",
+      "stay": "45 мин",
+      "text": "Обяд по избор в деня."
+    },
+    {
+      "type": "optional",
+      "place": "T21",
+      "text": "Обяд по избор в деня."
+    },
+    {
+      "type": "optional",
+      "place": "T15",
+      "stay": "5 мин",
+      "text": "С обяда от депачика."
+    },
+    {
+      "type": "optional",
+      "place": "T9",
+      "stay": "30–45 мин",
+      "text": "Следобед по избор в деня."
+    },
+    {
+      "type": "stop",
+      "time": "16:30",
+      "place": "T22",
+      "stay": "1.5 ч",
+      "status": "todo",
+      "booking": "t22-unatetsu",
+      "text": "Ранна вечеря. Или го вземи на обяд и иди на T19 вечерта."
+    },
+    {
+      "type": "optional",
+      "place": "T19",
+      "stay": "1.5–2 ч",
+      "text": "Вечерта, ако Unatetsu е бил на обяд."
+    }
+  ],
+  "trivia": [
+    "vending-machines",
+    "adams-anjin"
+  ]
+}

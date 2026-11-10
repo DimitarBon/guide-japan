@@ -1,0 +1,143 @@
+{
+ "Y1": {
+  "name": "Yoshino",
+  "icon": "🛕🌲",
+  "p": 1,
+  "inc": "yes",
+  "days": [
+   "D8",
+   "D9"
+  ],
+  "desc": "Mountain temple town: Kinpusen-ji, autumn colour",
+  "map": "https://www.google.com/maps/search/?api=1&query=Kinpusen-ji%20Yoshino",
+  "why": "Mountain temple town with autumn colour and a night in temple lodging; very quiet in November.",
+  "hours": "Town 24 h; temples ~8:30/9:00–16:00/17:00. Ropeway Senbonguchi ↔ Yoshinoyama runs daily 23 Oct–30 Nov 2026 (cash).",
+  "price": "Free to walk. Ropeway ~¥500 one way.",
+  "stay": "~2 h on Wed 18 + morning of Thu 19",
+  "access": "Kintetsu Yoshino Stn; Chikurinin free shuttle (14:30, requested). Ropeway 3 min, or Nanamagari slope ~20 min on foot.",
+  "booking": "Stay BOOKED: Chikurinin Gunpoen, Wed 18 → Thu 19 (Booking.com 5477.961.959).",
+  "see": [
+   "The main street along the ridge: old inns, kuzu (arrowroot) sweet shops, persimmon-leaf sushi.",
+   "Copper torii (Kane no Torii) at the start of the sacred area.",
+   "Kinpusen-ji Zaō-dō (Y1b).",
+   "Yoshimizu Shrine and its view (Y1a).",
+   "Chikurin-in's Gunpō-en garden (for guests)."
+  ],
+  "route": {
+   "enter": "From the shuttle drop at Chikurinin, leave bags (check-in from 15:00).",
+   "walk": [
+    "Wed 18, 15:00–16:45: walk the ridge street down past Kinpusen-ji and back up; autumn colour at Naka Senbon.",
+    "Back at Chikurinin before sunset (~16:55)."
+   ],
+   "exit": "Thu 19: walk down via Y1a and Y1b to the ropeway (~9:45), train 10:07."
+  },
+  "facts": [
+   "About 30,000 cherry trees cover the mountain; the slopes are named Shimo, Naka, Kami and Oku Senbon (lower, middle, upper and inner 'thousand trees').",
+   "Yoshino is part of the UNESCO 'Sacred Sites and Pilgrimage Routes in the Kii Mountain Range' (2004).",
+   "Emperor Go-Daigo set up the Southern Court here in 1336, rival to the shogun's court in Kyoto for almost 60 years."
+  ],
+  "tips": [
+   "Steep, uneven streets; much cooler than Kyoto in the evening.",
+   "Most shops close by ~17:00: buy snacks in the afternoon."
+  ],
+  "trivia": [
+   "hideyoshi-hanami",
+   "yoshitsune-yoshino",
+   "purity-water",
+   "momijigari",
+   "yukata-left",
+   "shugendo"
+  ],
+  "pending": null,
+  "decision": null,
+  "verified": "6 Nov 2026"
+ },
+ "Y1a": {
+  "name": "Yoshimizu Shrine",
+  "icon": "⛩️",
+  "p": 1,
+  "inc": "yes",
+  "days": [
+   "D9"
+  ],
+  "desc": "Famous view up the mountain",
+  "map": "https://www.google.com/maps/search/?api=1&query=Yoshimizu%20Shrine%20Yoshino",
+  "why": "Quiet shrine with the classic Yoshino view, on the way down.",
+  "hours": "9:00–17:00 (gate opens 9:00; Shoin and stamps until 16:30). Open daily.",
+  "price": "Grounds free. Shoin ¥600 (one source ¥400).",
+  "stay": "25 min",
+  "access": "Short side lane off the main street, between Chikurinin and Kinpusen-ji (~10 min from Chikurinin, ~5 min from Zaō-dō).",
+  "booking": "No booking.",
+  "see": [
+   "'Hitome Senbon' view: a thousand trees at one glance, from the terrace by the gate.",
+   "Shoin: one of Japan's oldest shoin-style rooms; Yoshitsune's hiding room and Go-Daigo's 'jeweled seat' room.",
+   "Objects linked to Yoshitsune, Benkei and Hideyoshi in the Shoin."
+  ],
+  "route": {
+   "enter": "Gate off the main street (sign 吉水神社).",
+   "walk": [
+    "Terrace view → Shoin (paid) → shrine hall."
+   ],
+   "exit": "Back to the main street and down to the ropeway."
+  },
+  "facts": [
+   "It was a Buddhist temple, Yoshimizu-in, until the Meiji separation of Shinto and Buddhism (1868).",
+   "Its Shoin is an Important Cultural Property and part of the UNESCO site."
+  ],
+  "tips": [
+   "⚠️ The gate opens at 9:00, so 8:40 (old plan) is too early: see the day plan."
+  ],
+  "trivia": [
+   "yoshitsune-yoshino",
+   "hideyoshi-hanami"
+  ],
+  "pending": null,
+  "decision": null,
+  "verified": "6 Nov 2026"
+ },
+ "Y1b": {
+  "name": "Kinpusen-ji Zaō-dō",
+  "icon": "🛕",
+  "p": 1,
+  "inc": "yes",
+  "days": [
+   "D9"
+  ],
+  "desc": "Huge wooden hall, head temple of Shugendō",
+  "map": "https://www.google.com/maps/search/?api=1&query=Kinpusen-ji%20Yoshino",
+  "why": "One of Japan's biggest wooden halls, seen the same day as Tōdai-ji's.",
+  "hours": "8:30–16:00, open daily. Morning service in the hall from 6:30 (visitors may attend).",
+  "price": "¥800. ⚠️ Doubled (~¥1,600) when the hidden Zaō Gongen statues are shown; that is done every spring and autumn (autumn 2025: 24 Oct–end Nov). 2026 autumn dates not found: check at the gate.",
+  "stay": "30 min",
+  "access": "On the main street, ~10 min from the ropeway top; ~15 min down from Chikurinin.",
+  "booking": "No booking.",
+  "see": [
+   "Zaō-dō hall, ~34 m tall, rebuilt in 1592.",
+   "The three blue Zaō Gongen statues (central one ~7 m), if on show.",
+   "Niō-mon gate (National Treasure; under long restoration).",
+   "Copper torii, a few minutes below."
+  ],
+  "route": {
+   "enter": "Steps up from the main street into the courtyard.",
+   "walk": [
+    "Hall interior (shoes off), courtyard with the four cherry trees and the Southern Court memorial."
+   ],
+   "exit": "Down the main street to the ropeway (~10 min)."
+  },
+  "facts": [
+   "Founded, by tradition, by En no Gyōja, the 7th-century founder of Shugendō (mountain ascetic practice); head temple of the Kinpusen Shugen sect.",
+   "Zaō Gongen is a Japanese deity, not from India or China: a fierce blue protector En no Gyōja is said to have called up on Mt. Sanjō."
+  ],
+  "tips": [
+   "Cash only.",
+   "📿 stamp."
+  ],
+  "trivia": [
+   "wooden-halls",
+   "shugendo"
+  ],
+  "pending": null,
+  "decision": null,
+  "verified": "6 Nov 2026"
+ }
+}

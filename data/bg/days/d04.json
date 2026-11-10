@@ -1,0 +1,141 @@
+{
+  "title": "Himeji, после Kyoto",
+  "pace": "натоварено",
+  "stay": "HOTEL TAVINOS Kyoto",
+  "trivia": [
+    "himeji-terumasa",
+    "himeji-okiku",
+    "sanjusangendo-arrows"
+  ],
+  "items": [
+    {
+      "type": "head",
+      "text": "Tokyo → Himeji"
+    },
+    {
+      "type": "note",
+      "time": "05:20",
+      "text": "Напускане на APA само с дневните чанти (куфарите вече са изпратени до HOTEL TAVINOS)."
+    },
+    {
+      "type": "travel",
+      "mode": "🚇",
+      "text": "Ginza Line от Tawaramachi до Kanda, JR Yamanote/Chūō Line до Tokyo. Или такси (~20 мин, ~¥3,000).",
+      "dur": "~25 мин",
+      "est": true
+    },
+    {
+      "type": "travel",
+      "time": "06:06",
+      "mode": "🚄",
+      "text": "Nozomi 111 от Tokyo до Himeji, Green Car вагон 10, места 13-C и 13-D (Fuji вдясно след ~40 мин). Закуска: екибен от Tokyo Station.",
+      "dur": "2 ч 54 мин",
+      "status": "booked",
+      "booking": "nozomi-111"
+    },
+    {
+      "type": "note",
+      "time": "09:00",
+      "text": "Пристигане в Himeji. Шкафчета за дневните чанти (размерите не са проверени), северен изход."
+    },
+    {
+      "type": "travel",
+      "mode": "🚶",
+      "text": "Ōtemae-dōri право на север до замъка, мост Sakuramon, порта Otemon.",
+      "dur": "15–20 мин"
+    },
+    {
+      "type": "stop",
+      "time": "09:50",
+      "end": "12:30",
+      "place": "K21",
+      "stay": "2.5 ч",
+      "status": "booked",
+      "booking": "k21-himeji",
+      "ref": "GetYourGuide GYGG45F7WN99",
+      "text": "Среща в 9:50 пред портата Otemon, гид с табела „Himeji Tourism Concierge“. Обиколка 10:00–12:30, билетите са включени. Вземи чорапи; вътре се събуваш."
+    },
+    {
+      "type": "travel",
+      "mode": "🚶",
+      "text": "Пеша на запад покрай рова до Kōko-en.",
+      "dur": "~5 мин"
+    },
+    {
+      "type": "stop",
+      "time": "12:35",
+      "end": "13:20",
+      "place": "K21",
+      "stay": "45 мин",
+      "text": "Градина Kōko-en (не е в обиколката): ¥400 на човек, последен вход 16:30. Девет оградени градини с кулата зад тях."
+    },
+    {
+      "type": "meal",
+      "time": "13:30",
+      "end": "14:00",
+      "text": "Обяд близо до станция Himeji, избираш на място: оден по Himeji (с джинджифил и соя) или ориз с анаго.",
+      "stay": "30 мин"
+    },
+    {
+      "type": "head",
+      "text": "Himeji → Kyoto"
+    },
+    {
+      "type": "travel",
+      "time": "~14:15",
+      "mode": "🚄",
+      "text": "Шинкансен от Himeji до Kyoto (резервирай в smartEX до пт, 13-и). Резервен вариант: JR Special Rapid, ~1.5 ч, ¥2,210, без резервация.",
+      "dur": "43 мин",
+      "cost": "~¥5,470 на човек",
+      "status": "todo",
+      "booking": "shinkansen-himeji-kyoto"
+    },
+    {
+      "type": "travel",
+      "mode": "🚕",
+      "text": "Kyoto Station, изход Hachijō или Karasuma → Sanjūsangen-dō. Или градски автобус 100/206/208 до Hakubutsukan Sanjūsangendō-mae.",
+      "dur": "~10 мин",
+      "cost": "такси ~¥1,200",
+      "est": true
+    },
+    {
+      "type": "stop",
+      "time": "15:15",
+      "end": "16:15",
+      "place": "K10",
+      "stay": "1 ч",
+      "stamp": true,
+      "text": "Отворено 8:30–17:00 в сб, 14-и (последен вход 16:30). Събуваш се, вътре без снимки. 📿 печат на изхода."
+    },
+    {
+      "type": "travel",
+      "mode": "🚶",
+      "text": "Пеша на северозапад до HOTEL TAVINOS (Kawaramachi Gojō).",
+      "dur": "~20 мин",
+      "est": true
+    },
+    {
+      "type": "note",
+      "time": "~16:40",
+      "text": "Самостоятелно настаняване в HOTEL TAVINOS (автомати от 15:00; номер за настаняване A26103018851 + паспорти). Куфарите би трябвало да те чакат.",
+      "status": "booked",
+      "booking": "tavinos"
+    },
+    {
+      "type": "note",
+      "text": "Свободно време ~2–3 ч. Вечеря близо до хотела, избираш на място, или вечеря по избор по-долу."
+    },
+    {
+      "type": "optional",
+      "place": "K16",
+      "stay": "1.5–2 ч",
+      "text": "Сукияки от уагю, последен вход 19:30, ~20 мин пеша. Изисква резервация."
+    },
+    {
+      "type": "optional",
+      "place": "K15",
+      "stay": "2 ч",
+      "text": "Вечеря кайсеки, ако е резервирана."
+    }
+  ]
+}

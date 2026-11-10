@@ -1,0 +1,209 @@
+{
+ "days": [
+  {
+   "chip": "Arr",
+   "label": "Tue 10 Nov",
+   "base": "Tokyo",
+   "file": "d00",
+   "date": "2026-11-10",
+   "places": [
+    "Tokyo"
+   ]
+  },
+  {
+   "chip": "D1",
+   "label": "Wed 11 Nov",
+   "base": "Tokyo",
+   "file": "d01",
+   "date": "2026-11-11",
+   "places": [
+    "Tokyo"
+   ]
+  },
+  {
+   "chip": "D2",
+   "label": "Thu 12 Nov",
+   "base": "Tokyo",
+   "file": "d02",
+   "date": "2026-11-12",
+   "places": [
+    "Tokyo"
+   ]
+  },
+  {
+   "chip": "D3",
+   "label": "Fri 13 Nov",
+   "base": "Tokyo",
+   "file": "d03",
+   "date": "2026-11-13",
+   "places": [
+    "Tokyo"
+   ]
+  },
+  {
+   "chip": "D4",
+   "label": "Sat 14 Nov",
+   "base": "Himeji → Kyoto",
+   "file": "d04",
+   "date": "2026-11-14",
+   "places": [
+    "Himeji",
+    "Kyoto"
+   ]
+  },
+  {
+   "chip": "D5",
+   "label": "Sun 15 Nov",
+   "base": "Kyoto",
+   "file": "d05",
+   "date": "2026-11-15",
+   "places": [
+    "Kyoto"
+   ]
+  },
+  {
+   "chip": "D6",
+   "label": "Mon 16 Nov",
+   "base": "Kyoto",
+   "file": "d06",
+   "date": "2026-11-16",
+   "places": [
+    "Kyoto"
+   ]
+  },
+  {
+   "chip": "D7",
+   "label": "Tue 17 Nov",
+   "base": "Kyoto",
+   "file": "d07",
+   "date": "2026-11-17",
+   "places": [
+    "Kyoto"
+   ]
+  },
+  {
+   "chip": "D8",
+   "label": "Wed 18 Nov",
+   "base": "Uji → Yoshino",
+   "file": "d08",
+   "date": "2026-11-18",
+   "places": [
+    "Kyoto",
+    "Yoshino"
+   ]
+  },
+  {
+   "chip": "D9",
+   "label": "Thu 19 Nov",
+   "base": "Yoshino → Nara → Osaka",
+   "file": "d09",
+   "date": "2026-11-19",
+   "places": [
+    "Yoshino",
+    "Nara",
+    "Osaka"
+   ]
+  },
+  {
+   "chip": "D10",
+   "label": "Fri 20 Nov",
+   "base": "Osaka",
+   "file": "d10",
+   "date": "2026-11-20",
+   "places": [
+    "Osaka"
+   ]
+  },
+  {
+   "chip": "D11",
+   "label": "Sat 21 Nov",
+   "base": "Osaka",
+   "file": "d11",
+   "date": "2026-11-21",
+   "places": [
+    "Osaka"
+   ]
+  },
+  {
+   "chip": "Hnd",
+   "label": "Sun 22 Nov",
+   "base": "Osaka → Haneda",
+   "file": "d12",
+   "date": "2026-11-22",
+   "places": [
+    "Osaka",
+    "Tokyo"
+   ]
+  },
+  {
+   "chip": "Dep",
+   "label": "Mon 23 Nov",
+   "base": "Flight 08:55 HND",
+   "file": "d13",
+   "date": "2026-11-23",
+   "places": [
+    "Tokyo"
+   ]
+  }
+ ],
+ "placeFiles": {
+  "T": "places-tokyo",
+  "H": "places-tokyo",
+  "K": "places-kyoto",
+  "Y": "places-yoshino",
+  "O": "places-osaka"
+ },
+ "bases": [
+  {
+   "id": "T",
+   "name": "Tokyo",
+   "nights": "4 nights (10–13 Nov)"
+  },
+  {
+   "id": "K",
+   "name": "Kyoto",
+   "nights": "4 nights (14–17 Nov), Himeji on the way"
+  },
+  {
+   "id": "Y",
+   "name": "Yoshino",
+   "nights": "1 night (18 Nov)"
+  },
+  {
+   "id": "O",
+   "name": "Osaka",
+   "nights": "3 nights (19–21 Nov), Nara on the way"
+  },
+  {
+   "id": "H",
+   "name": "Haneda",
+   "nights": "1 night (22 Nov)"
+  }
+ ],
+ "colors": {
+  "Tokyo": [
+   "#dfe8fa",
+   "#2f5fb3"
+  ],
+  "Himeji": [
+   "#ece3f6",
+   "#7a4bb0"
+  ],
+  "Kyoto": [
+   "#fbe1dc",
+   "#c8402c"
+  ],
+  "Yoshino": [
+   "#dcf0e0",
+   "#2e7d43"
+  ],
+  "Nara": [
+   "#fbedcf",
+   "#a8701a"
+  ],
+  "Osaka": [
+   "#d9f0f1",
+   "#13777d"
+  ]
+ }
+}

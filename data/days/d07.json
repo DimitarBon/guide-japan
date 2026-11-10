@@ -1,0 +1,142 @@
+{
+ "title": "Looser day, Gion at night",
+ "pace": "relaxed",
+ "stay": "HOTEL TAVINOS Kyoto",
+ "trivia": [
+  "eisai-tea",
+  "maiko-collar",
+  "five-hanamachi",
+  "nishiki-jakuchu",
+  "shogunzuka"
+ ],
+ "items": [
+  {
+   "type": "head",
+   "text": "Morning: suitcases, then choose"
+  },
+  {
+   "type": "note",
+   "time": "09:00",
+   "text": "Suitcases to Osaka. First option: Yamato Shimogyo Center (Oe-cho 556, Matsubara, Higashitoin-dori; ~1 km), hold at Yamato Namba Station Center, collect Thu 19 ~18:30. Second option: Japan Post at Yanagibaba-Matsubara Post Office (counter 9:00), hold at Nishinari Tamade Post Office, collect Fri 20. Keep small bags for Yoshino.",
+   "status": "todo",
+   "booking": "lug-kyoto-osaka"
+  },
+  {
+   "type": "travel",
+   "mode": "🚶",
+   "text": "Walk north to Nishiki Market (west end, Takakura).",
+   "dur": "~15–20 min",
+   "est": true
+  },
+  {
+   "type": "optional",
+   "time": "09:45",
+   "place": "K31",
+   "stay": "1–1.25 h",
+   "text": "Most probable. Eat at the stall where you buy. Aritsugu knives at the east end."
+  },
+  {
+   "type": "optional",
+   "time": "11:15",
+   "place": "K23",
+   "stay": "1 h",
+   "text": "Most probable, if booked: shared English tour, ~10 min from Nishiki."
+  },
+  {
+   "type": "optional",
+   "place": "K29",
+   "stay": "45 min",
+   "text": "Other option for the morning: potter's house, opens 10:00 (open Tuesdays), ~15 min walk from the hotel."
+  },
+  {
+   "type": "optional",
+   "time": "10:15",
+   "end": "11:15",
+   "place": "K37",
+   "stay": "1 h",
+   "text": "Other option for the morning, instead of K23: Ryōan-ji rock garden (¥600). Taxi from Gojō Karasuma ~9:30; back at Nishiki ~12:00, snacking there instead of lunch."
+  },
+  {
+   "type": "meal",
+   "time": "12:30",
+   "end": "13:15",
+   "text": "Lunch near Shijō or Gion, chosen on the spot (snacking at Nishiki can replace it).",
+   "stay": "45 min"
+  },
+  {
+   "type": "head",
+   "text": "Afternoon: Zen garden and the city view"
+  },
+  {
+   "type": "travel",
+   "mode": "🚶",
+   "text": "To Kennin-ji, south end of Hanamikoji.",
+   "dur": "~10–15 min",
+   "est": true
+  },
+  {
+   "type": "stop",
+   "time": "13:30",
+   "end": "14:30",
+   "place": "K3",
+   "stay": "1 h",
+   "stamp": true,
+   "text": "Twin dragons, Wind and Thunder Gods screens, ○△□ garden. ¥800, last entry 16:00. 📿 stamp."
+  },
+  {
+   "type": "travel",
+   "time": "14:30",
+   "mode": "🚕",
+   "text": "Taxi up the Higashiyama Driveway to Shōgunzuka (no weekday bus).",
+   "dur": "~15 min",
+   "cost": "~¥1,500",
+   "est": true
+  },
+  {
+   "type": "stop",
+   "time": "14:45",
+   "end": "16:15",
+   "place": "K9",
+   "stay": "1.5 h",
+   "text": "Deck over the city, Blue Fudō hall, maple garden. ¥600, closes 17:00 (sunset ~16:50 comes after closing)."
+  },
+  {
+   "type": "travel",
+   "time": "16:15",
+   "mode": "🚕",
+   "text": "Taxi back down to Gion (ask reception to call one if none is waiting).",
+   "dur": "~15 min",
+   "est": true
+  },
+  {
+   "type": "note",
+   "text": "Free gap ~16:30–17:45: snack or rest (the hotel is ~20 min walk)."
+  },
+  {
+   "type": "head",
+   "text": "Evening: Gion night walk (booked)"
+  },
+  {
+   "type": "stop",
+   "time": "17:50",
+   "end": "20:00",
+   "place": "K2",
+   "stay": "2 h",
+   "status": "booked",
+   "booking": "k2-gion",
+   "ref": "GetYourGuide GYG996QHG68N",
+   "text": "Meet 17:50 at the Minamiza Theater entrance. Route: Shirakawa (K2a), Tatsumi shrine, Yasaka Shrine, Ryōzen Kannon, Ninenzaka, Hōkan-ji, Yasui Kompira-gū, Hanamikoji (K2b), Ichiriki-tei (K2c)."
+  },
+  {
+   "type": "optional",
+   "time": "~20:15",
+   "place": "K11",
+   "stay": "1.5 h",
+   "text": "Dinner in Pontochō, ~10 min west across the river; indoor only in November, last orders vary."
+  },
+  {
+   "type": "note",
+   "text": "Early night: Wed 18 starts at 5:35 (Fushimi Inari at dawn)."
+  }
+ ]
+}

@@ -1,0 +1,1350 @@
+{
+ "O6": {
+  "name": "Nara",
+  "icon": "🚆",
+  "p": 1,
+  "inc": "yes",
+  "days": [
+   "D9"
+  ],
+  "desc": "Tōdai-ji, Kasuga Taisha forest, Naramachi (O6a–O6g)",
+  "map": "https://www.google.com/maps/search/?api=1&query=Todai-ji",
+  "why": "Japan's first permanent capital: Great Buddha, forest shrine, old merchant quarter; on the way from Yoshino to Osaka.",
+  "hours": "Tōdai-ji 8:00–17:00 (Nov–Mar); Kasuga 7:00–17:00; Nigatsu-dō 24 h.",
+  "price": "~¥2,000–3,500 pp for the paid halls.",
+  "stay": "~5.5 h (11:40–17:10)",
+  "access": "Kintetsu-Nara Stn; everything is on foot (the loop is ~5 km).",
+  "booking": "No booking. Self-guided (decided).",
+  "see": [
+   "O6f Naramachi and lunch.",
+   "O6a Kōfuku-ji.",
+   "O6g Yoshikien.",
+   "O6b Nara Park and the deer.",
+   "O6c Tōdai-ji.",
+   "O6d Kasuga Taisha.",
+   "O6e Nigatsu-dō sunset."
+  ],
+  "route": {
+   "enter": "Kintetsu-Nara Stn, exit 2, south to Naramachi.",
+   "walk": [
+    "Naramachi → Kōfuku-ji → Yoshikien → Tōdai-ji → Kasuga Taisha → Nigatsu-dō."
+   ],
+   "exit": "Nigatsu-dō → Kintetsu-Nara ~20–25 min on foot, 17:47 train to Osaka-Namba."
+  },
+  "facts": [
+   "Heijō-kyō (Nara) was the capital from 710 to 784.",
+   "The temples and shrines form the UNESCO site 'Historic Monuments of Ancient Nara' (1998)."
+  ],
+  "tips": [
+   "Keep paper and maps out of the deer's reach; they eat them."
+  ],
+  "trivia": null,
+  "pending": null,
+  "decision": null,
+  "verified": "6 Nov 2026"
+ },
+ "O6a": {
+  "name": "Kōfuku-ji",
+  "icon": "🛕",
+  "p": 1,
+  "inc": "yes",
+  "days": [
+   "D9"
+  ],
+  "desc": "Fujiwara family temple; the Ashura statue (pagoda hidden by repairs)",
+  "map": "https://www.google.com/maps/search/?api=1&query=Kofuku-ji%20Nara",
+  "why": "Old statues and golden halls, 10 min from Naramachi. ⚠️ The five-storey pagoda is fully covered for repairs (until ~2031) and can't be seen.",
+  "hours": "Grounds 24 h. Halls and National Treasure Museum 9:00–17:00 (last entry 16:45).",
+  "price": "Grounds free. Central Golden Hall ¥500, Eastern Golden Hall ¥500, National Treasure Museum ¥900; all three ¥1,600.",
+  "stay": "30 min (grounds) or 45–60 min with the museum",
+  "access": "5 min from Kintetsu-Nara; 10 min north of Naramachi via Sarusawa Pond.",
+  "booking": "No booking.",
+  "see": [
+   "National Treasure Museum: the three-faced, six-armed Ashura (734).",
+   "Central Golden Hall, rebuilt in 2018 for the first time in 300 years.",
+   "Eastern Golden Hall (Tōkondō).",
+   "Sarusawa Pond below the temple.",
+   "Northern Octagonal Hall (outside)."
+  ],
+  "route": {
+   "enter": "From Sarusawa Pond up the 52 steps (Gojūni-dan).",
+   "walk": [
+    "Central Golden Hall → (museum) → Eastern Golden Hall → covered pagoda site → Northern Octagonal Hall."
+   ],
+   "exit": "North-east across Noborioji-dōri to Yoshikien (~7 min)."
+  },
+  "facts": [
+   "Family temple of the Fujiwara, the clan that ran the imperial court for centuries; moved to Nara in 710.",
+   "The pagoda (1426, ~50 m) is Japan's second-tallest wooden pagoda after Tō-ji's in Kyoto."
+  ],
+  "tips": [
+   "If time is short, pick the museum (Ashura) over the halls."
+  ],
+  "trivia": [
+   "kofukuji-ashura"
+  ],
+  "pending": null,
+  "decision": null,
+  "verified": "6 Nov 2026"
+ },
+ "O6b": {
+  "name": "Nara Park",
+  "icon": "🦌",
+  "p": 1,
+  "inc": "yes",
+  "days": [
+   "D9"
+  ],
+  "desc": "Deer park between the temples",
+  "map": "https://www.google.com/maps/search/?api=1&query=Nara%20Park",
+  "why": "Walk-through between the sights; the deer are pushiest 10:00–15:00.",
+  "hours": "24 h.",
+  "price": "Free; deer crackers (shika senbei) ~¥200.",
+  "stay": "15 min (passing through)",
+  "access": "Between Kōfuku-ji, Tōdai-ji and Kasuga Taisha.",
+  "booking": "No booking.",
+  "see": [
+   "The deer bowing for crackers.",
+   "Ukimidō, the pavilion on Sagi-ike pond (south side, if passing)."
+  ],
+  "route": null,
+  "facts": [
+   "The deer are protected as a National Natural Monument; about 1,700 were counted in 2026.",
+   "Legend: Kasuga's god arrived on a white deer, so deer became sacred messengers."
+  ],
+  "tips": [
+   "Feed only shika senbei, show empty hands when done, and watch for head-butts and bites.",
+   "Don't feed them human food or plastic."
+  ],
+  "trivia": [
+   "nara-deer"
+  ],
+  "pending": null,
+  "decision": null,
+  "verified": "6 Nov 2026"
+ },
+ "O6c": {
+  "name": "Tōdai-ji",
+  "icon": "🛕",
+  "p": 1,
+  "inc": "yes",
+  "days": [
+   "D9"
+  ],
+  "desc": "Great Buddha Hall",
+  "map": "https://www.google.com/maps/search/?api=1&query=Todai-ji",
+  "why": "Nearly 15 m bronze Buddha in a huge wooden hall.",
+  "hours": "Daibutsuden Nov–Mar 8:00–17:00. Hokke-dō and Kaidan-dō 8:30–16:00. Museum 9:30–17:00.",
+  "price": "Daibutsuden ¥800 (with museum ¥1,200). Cash only.",
+  "stay": "1 h",
+  "access": "~10 min north of Yoshikien through the park.",
+  "booking": "No booking.",
+  "see": [
+   "Nandaimon gate and its two 8.4 m Niō guardians (1203, by Unkei and Kaikei).",
+   "Daibutsu (Vairocana Buddha), ~15 m.",
+   "The pillar with a hole the size of the Buddha's nostril.",
+   "Binzuru statue by the exit: rub the part of him that matches where you hurt."
+  ],
+  "route": {
+   "enter": "Nandaimon → Chūmon side entrance (ticket) → Daibutsuden.",
+   "walk": [
+    "Clockwise inside the hall: Buddha, side bodhisattvas, guardian kings, the pillar."
+   ],
+   "exit": "East exit, then up the stone lane towards Nigatsu-dō or south-east to Kasuga Taisha."
+  },
+  "facts": [
+   "The Buddha was dedicated in 752; the head and hands are later recasts after fires.",
+   "The hall was rebuilt in 1709 at about two-thirds of its original width and is still one of the largest wooden buildings in the world."
+  ],
+  "tips": [
+   "📿 stamp."
+  ],
+  "trivia": [
+   "daibutsu-nostril",
+   "wooden-halls"
+  ],
+  "pending": null,
+  "decision": null,
+  "verified": "6 Nov 2026"
+ },
+ "O6d": {
+  "name": "Kasuga Taisha",
+  "icon": "⛩️",
+  "p": 1,
+  "inc": "yes",
+  "days": [
+   "D9"
+  ],
+  "desc": "Lantern-lined forest shrine",
+  "map": "https://www.google.com/maps/search/?api=1&query=Kasuga%20Taisha",
+  "why": "Forest paths and thousands of lanterns.",
+  "hours": "Nov–Feb 7:00–17:00. Special worship (inner corridor) 9:00–16:00. Museum 10:00–17:00.",
+  "price": "Grounds free. Special worship ¥700 (the English official page still says ¥500).",
+  "stay": "45 min",
+  "access": "~15 min south-east of Tōdai-ji along the lantern path; bus stop Kasuga Taisha Honden.",
+  "booking": "No booking.",
+  "see": [
+   "Path of about 2,000 stone lanterns from the first torii.",
+   "Vermilion main sanctuary inside the corridor (special worship).",
+   "Fujinami-no-ya: a dark hall lit by hanging bronze lanterns.",
+   "Kasugayama Primeval Forest along the path."
+  ],
+  "route": {
+   "enter": "First torii (Ichi-no-torii) on the west side of the park, then the lantern path; or from Tōdai-ji via the Wakakusa side.",
+   "walk": [
+    "Main hall area → special worship → Fujinami-no-ya → back out."
+   ],
+   "exit": "North path ~15 min uphill to Nigatsu-dō (past Wakakusa-yama base)."
+  },
+  "facts": [
+   "Founded in 768 by the Fujiwara to protect the new capital.",
+   "About 3,000 lanterns in total (stone and bronze), donated over 1,000 years; all are lit only at the Mantōrō festivals in February and August."
+  ],
+  "tips": [
+   "Enter the special worship before 16:00.",
+   "📿 stamp."
+  ],
+  "trivia": null,
+  "pending": null,
+  "decision": null,
+  "verified": "6 Nov 2026"
+ },
+ "O6e": {
+  "name": "Nigatsu-dō",
+  "icon": "🌅",
+  "p": 1,
+  "inc": "yes",
+  "days": [
+   "D9"
+  ],
+  "desc": "Wooden balcony over Nara at sunset",
+  "map": "https://www.google.com/maps/search/?api=1&query=Nigatsu-do%20Nara",
+  "why": "Free sunset view over the Great Buddha Hall roof; sunset ~16:50.",
+  "hours": "24 h, free.",
+  "price": "Free.",
+  "stay": "30 min",
+  "access": "Up the stone steps east of the Daibutsuden (~10 min), part of Tōdai-ji.",
+  "booking": "No booking.",
+  "see": [
+   "Balcony view west over the Daibutsuden roof to the Ikoma hills.",
+   "Covered stone stairway on the north side.",
+   "Hokke-dō (Sangatsu-dō) next door, Tōdai-ji's oldest building (closes 16:00)."
+  ],
+  "route": {
+   "enter": "Covered stairs on the north side.",
+   "walk": [
+    "Balcony around the hall."
+   ],
+   "exit": "Down through the Tōdai-ji lanes, west to Kintetsu-Nara (~20–25 min)."
+  },
+  "facts": [
+   "Shuni-e (Omizutori), with giant torches on this balcony, has been held every March since 752 without a single year missed.",
+   "The present hall was rebuilt in 1669 after a fire during the ceremony."
+  ],
+  "tips": [
+   "Dark paths after sunset: phone torch."
+  ],
+  "trivia": [
+   "omizutori"
+  ],
+  "pending": null,
+  "decision": null,
+  "verified": "6 Nov 2026"
+ },
+ "O6f": {
+  "name": "Naramachi",
+  "icon": "🏘️",
+  "p": 1,
+  "inc": "yes",
+  "days": [
+   "D9"
+  ],
+  "desc": "Old merchant quarter, lunch",
+  "map": "https://www.google.com/maps/search/?api=1&query=Naramachi%20Nara",
+  "why": "Old streets and kakinoha-zushi (persimmon-leaf sushi) for lunch.",
+  "hours": "Streets 24 h; shops ~10:00–17:00.",
+  "price": "Lunch ~¥1,500–2,500 pp.",
+  "stay": "1 h",
+  "access": "~10 min south of Kintetsu-Nara.",
+  "booking": "No booking.",
+  "see": [
+   "Narrow machiya houses with lattice fronts.",
+   "Red migawari-zaru (substitute monkey) charms hanging under eaves.",
+   "Gangō-ji (World Heritage, roof tiles from the 6th century) at the centre, outside view.",
+   "Kōshin-dō, the small hall of the monkey charms."
+  ],
+  "route": {
+   "enter": "From Sarusawa Pond south along Mochiidono shopping street.",
+   "walk": [
+    "Gangō-ji → Kōshin-dō → lunch → north back to the pond."
+   ],
+   "exit": "Sarusawa Pond → Kōfuku-ji steps."
+  },
+  "facts": [
+   "Naramachi grew in the Edo period on land that once belonged to Gangō-ji, one of Japan's oldest temples."
+  ],
+  "tips": [
+   "Kakinoha-zushi keeps well: buy some for the evening train."
+  ],
+  "trivia": [
+   "migawari-zaru"
+  ],
+  "pending": null,
+  "decision": null,
+  "verified": "6 Nov 2026"
+ },
+ "O6g": {
+  "name": "Yoshikien Garden",
+  "icon": "🍁",
+  "p": 1,
+  "inc": "yes",
+  "days": [
+   "D9"
+  ],
+  "desc": "Moss garden, pond, tea house",
+  "map": "https://www.google.com/maps/search/?api=1&query=Yoshikien%20Garden%20Nara",
+  "why": "Garden between Kōfuku-ji and Tōdai-ji, autumn colours, few visitors.",
+  "hours": "9:00–17:00, last entry 16:30. Closed only in late February.",
+  "price": "Free for foreign visitors (show passports).",
+  "stay": "35 min",
+  "access": "~7 min from Kōfuku-ji; next to Isuien (paid, skipped).",
+  "booking": "No booking.",
+  "see": [
+   "Pond garden.",
+   "Moss garden with a thatched tea house.",
+   "Tea-flower garden."
+  ],
+  "route": {
+   "enter": "Main gate on the lane by the Yoshiki River.",
+   "walk": [
+    "Pond → moss garden → tea garden (one loop)."
+   ],
+   "exit": "Same gate; north through the park to Tōdai-ji (~10 min)."
+  },
+  "facts": [
+   "Built in 1919 on the site of a Kōfuku-ji sub-temple; the prefecture opened it to the public in 1989."
+  ],
+  "tips": [
+   "Bring passports for free entry."
+  ],
+  "trivia": null,
+  "pending": null,
+  "decision": null,
+  "verified": "6 Nov 2026"
+ },
+ "O23": {
+  "name": "Nara National Museum",
+  "icon": "🏛️",
+  "p": 3,
+  "inc": "maybe",
+  "days": [
+   "D9"
+  ],
+  "desc": "Buddhist Sculpture Hall; rain backup",
+  "map": "https://www.google.com/maps/search/?api=1&query=Nara%20National%20Museum",
+  "why": "Japan's best Buddhist statue collection, in the park between Tōdai-ji and Kasuga Taisha; rain backup, no detour.",
+  "hours": "9:30–17:00, last entry 16:30; closed Mon (open Thu 19). Shōsōin exhibition ended 9 Nov.",
+  "price": "¥700.",
+  "stay": "1 h",
+  "access": "Nara Park, ~5 min from Yoshikien.",
+  "booking": "No booking.",
+  "see": [
+   "Nara Buddhist Sculpture Hall: about 100 statues from the 600s to the 1300s.",
+   "Ancient Chinese bronzes hall (underground corridor)."
+  ],
+  "route": null,
+  "facts": [
+   "The sculpture hall (1894) by Katayama Tōkuma was Nara's first Western-style building."
+  ],
+  "tips": [
+   "Pick up the English brochure on the statues at the entrance."
+  ],
+  "trivia": null,
+  "pending": null,
+  "decision": "Optional on the Nara day (rain)",
+  "verified": "6 Nov 2026"
+ },
+ "O24": {
+  "name": "Mt. Wakakusa",
+  "icon": "🌄🌲",
+  "p": 2,
+  "inc": "maybe",
+  "days": [
+   "D9"
+  ],
+  "desc": "Grassy hill, view over Nara",
+  "map": "https://www.google.com/maps/search/?api=1&query=Mount%20Wakakusa%20Nara",
+  "why": "Open grass hill with a wide view over Nara and deer on the slopes; instead of Nigatsu-dō, not both.",
+  "hours": "9:00–17:00; open until the 2nd Sunday of December.",
+  "price": "¥150 (cash).",
+  "stay": "1–1.5 h",
+  "access": "South gate ~5–10 min from Nigatsu-dō.",
+  "booking": "No booking.",
+  "see": [
+   "First viewpoint (~15 min up): the city and the Daibutsuden roof.",
+   "Summit (342 m), ~30 min."
+  ],
+  "route": null,
+  "facts": [
+   "Every January the whole hillside is set on fire after fireworks (Yamayaki)."
+  ],
+  "tips": [
+   "Gates close 17:00 and sunset is ~16:50: be on your way down by then."
+  ],
+  "trivia": null,
+  "pending": null,
+  "decision": "Optional, instead of Nigatsu-dō",
+  "verified": "6 Nov 2026"
+ },
+ "O1": {
+  "name": "Osaka Castle",
+  "icon": "🏯",
+  "p": 1,
+  "inc": "yes",
+  "days": [
+   "D11"
+  ],
+  "desc": "1620s Tokugawa walls and moats; where Adams met Ieyasu",
+  "map": "https://www.google.com/maps/search/?api=1&query=Osaka%20Castle",
+  "why": "Where William Adams met Ieyasu in 1600; the walls and moats are the original Tokugawa rebuild.",
+  "hours": "Park 24 h, free. Keep 9:00–18:00 (last entry 17:30). Autumn turret openings are weekends only.",
+  "price": "Grounds free. Keep ¥1,200 (includes the Toyotomi Stone Wall Museum, opened 2025). Keep skipped (decided).",
+  "stay": "2 h tour",
+  "access": "Osakajōkōen Stn (JR Loop Line) for the tour meeting point; Tanimachi 4-chōme for Nishinomaru Garden.",
+  "booking": "BOOKED: Ghosts of Osaka Castle tour, Sat 21 17:00–19:00, grounds only, ref GYGBLG88YW8R.",
+  "see": [
+   "Ōte-mon gate (1628) and its huge stone blocks.",
+   "Tako-ishi ('octopus stone') inside Sakura-mon: the largest stone in the walls, about 130 tonnes.",
+   "Daimyō crests carved on the wall stones.",
+   "The keep from the Honmaru plaza (outside).",
+   "Inner and outer moats; the 30 m walls of the Honmaru on the east side.",
+   "Optional: Toyotomi Stone Wall Museum, showing Hideyoshi's original buried wall (needs the keep ticket)."
+  ],
+  "route": {
+   "enter": "Nishinomaru Garden side at ~15:45, then walk past the walls to the meeting point at the Starbucks on Jo Terrace, in front of Osaka-Jo Hall (by 16:50).",
+   "walk": [
+    "The Ghosts of Osaka Castle tour route, 17:00–19:00, grounds only."
+   ],
+   "exit": "Ends at the meeting point, right outside JR Osakajōkōen Stn."
+  },
+  "facts": [
+   "Hideyoshi built the first castle from 1583; it was destroyed in the 1615 siege that ended the Toyotomi line.",
+   "The Tokugawa rebuilt it from 1620 to 1629 on top of the old castle; about 60 daimyō each built a section of wall.",
+   "The keep is a 1931 concrete reconstruction, paid for by public donations from Osaka citizens."
+  ],
+  "tips": [
+   "Gojōin card at the keep shop, not a 📿 stamp.",
+   "Morinomiya side has konbini and cafés for lunch."
+  ],
+  "trivia": [
+   "adams-anjin",
+   "toranaga-ieyasu",
+   "rikyu-gold",
+   "osaka-keep-1931"
+  ],
+  "verified": "6 Nov 2026",
+  "pending": "",
+  "decision": ""
+ },
+ "O1a": {
+  "name": "Nishinomaru Garden",
+  "icon": "🌳",
+  "p": 2,
+  "inc": "maybe",
+  "days": [
+   "D11"
+  ],
+  "desc": "Castle garden, autumn colour",
+  "map": "https://www.google.com/maps/search/?api=1&query=Osaka%20Castle%20Nishinomaru%20Garden",
+  "why": "Lawn garden below the keep with the best view of it; optional after the guide.",
+  "hours": "Nov–Feb 9:00–16:30, last entry 16:00. Closed Mondays.",
+  "price": "¥300 (cash).",
+  "stay": "30–45 min",
+  "access": "West side of the castle, inside the Ōte-mon area.",
+  "booking": "No booking.",
+  "see": [
+   "The keep across the moat, framed by trees.",
+   "Hōshō-an teahouse in the north-east corner (outside view)."
+  ],
+  "route": null,
+  "facts": [
+   "The site was the residence of Nene, Hideyoshi's wife, before she moved to Kyoto (Kōdai-ji, K1e).",
+   "The Hōshō-an teahouse was donated in 1969 by Matsushita Kōnosuke, founder of Panasonic."
+  ],
+  "tips": [],
+  "decision": "Sat 21 ~15:45, before the tour",
+  "verified": "6 Nov 2026",
+  "pending": "",
+  "trivia": []
+ },
+ "O2": {
+  "name": "Noda Central Market, Endo Sushi",
+  "icon": "🐟🍜",
+  "p": 2,
+  "inc": "no",
+  "days": null,
+  "desc": "Market sushi breakfast since 1931",
+  "map": "https://www.google.com/maps/search/?api=1&query=Endo%20Sushi%20Osaka%20Central%20Wholesale%20Market",
+  "why": "Sushi breakfast inside a working wholesale market; dropped for a lighter Friday (Kizu instead).",
+  "hours": "Endo 5:00–14:00 Mon–Sat; market closed Sun, holidays and some Wed (not re-checked: not included).",
+  "price": "~¥1,100–2,500 per set.",
+  "stay": "45 min",
+  "access": "JR Noda / Tamagawa Stn, ~10 min.",
+  "booking": "Online booking possible.",
+  "see": [
+   "Five pieces of sushi per plate, the classic order."
+  ],
+  "route": null,
+  "facts": [
+   "Endo has served market workers since 1931."
+  ],
+  "tips": [],
+  "decision": "Lighter Fri",
+  "verified": "6 Nov 2026",
+  "pending": "",
+  "trivia": []
+ },
+ "O3": {
+  "name": "Tenjinbashi-suji",
+  "icon": "🛍️🍜",
+  "p": 1,
+  "inc": "yes",
+  "days": [
+   "D10"
+  ],
+  "desc": "Longest shopping street in Japan, local snacks",
+  "map": "https://www.google.com/maps/search/?api=1&query=Tenjinbashisuji%20Shopping%20Street",
+  "why": "2.6 km of everyday Osaka shops and snacks, almost no tourists.",
+  "hours": "Arcade 24 h; shops ~10:00–20:00.",
+  "price": "Free; snacks ¥100–500.",
+  "stay": "1 h 15 min",
+  "access": "South end at Osaka Tenmangū (Minami-morimachi / Ōsaka-Temmangū Stn); north end at Tenjinbashisuji 6-chōme Stn.",
+  "booking": "No booking.",
+  "see": [
+   "Osaka Tenmangū shrine at the 1-chōme end.",
+   "Croquette and fried-snack stands.",
+   "Old kissaten coffee shops, sweet shops, cheap clothing and household shops.",
+   "Ōsaka Kurashi no Konjakukan (housing museum) near 6-chōme, if time (closed Tue)."
+  ],
+  "route": {
+   "enter": "1-chōme, right next to Osaka Tenmangū.",
+   "walk": [
+    "North through 1- to 6-chōme; side lanes have small bars and izakaya."
+   ],
+   "exit": "Around 4–5-chōme, cut west to Nakazakichō (O11) or continue to 6-chōme Stn."
+  },
+  "facts": [
+   "About 600 shops; the arcade grew from the market street to Osaka Tenmangū, founded in 949 for the scholar Sugawara no Michizane."
+  ],
+  "tips": [
+   "Snack as you go, but eat standing at the stall."
+  ],
+  "verified": "6 Nov 2026",
+  "pending": "",
+  "decision": "",
+  "trivia": [
+   "kansai-kanto",
+   "osaka-tokyo"
+  ]
+ },
+ "O4": {
+  "name": "Shinsekai kushikatsu",
+  "icon": "🍜",
+  "p": 1,
+  "inc": "yes",
+  "days": [
+   "D9"
+  ],
+  "desc": "Retro district, fried skewers",
+  "map": "https://www.google.com/maps/search/?api=1&query=Shinsekai%20Osaka",
+  "why": "Retro 1910s district, home of kushikatsu, two stops from our stay.",
+  "hours": "Most kushikatsu shops ~11:00–22:30; many open late.",
+  "price": "~¥2,000–3,500 pp.",
+  "stay": "1.5 h",
+  "access": "Dōbutsuen-mae Stn (Midōsuji / Sakaisuji Line) or Ebisuchō Stn; ~10 min from Tamade.",
+  "booking": "No booking; walk in.",
+  "see": [
+   "Tsūtenkaku tower (1956, 103 m) and the lucky god Billiken.",
+   "Jan-Jan Yokochō, the narrow covered alley of cheap eateries and shōgi parlours.",
+   "Neon puffer-fish and dragon signs."
+  ],
+  "route": {
+   "enter": "Dōbutsuen-mae Stn exit 1 → Jan-Jan Yokochō.",
+   "walk": [
+    "Up to Tsūtenkaku; choose a kushikatsu shop in the side streets (Daruma is the famous chain; smaller local ones are quieter)."
+   ],
+   "exit": "Ebisuchō or Dōbutsuen-mae; Daikokuchō → Tamade ~7 min."
+  },
+  "facts": [
+   "Shinsekai ('New World') opened in 1912, its north half modelled on Paris and its south half on New York's Coney Island.",
+   "Kushikatsu became the area's food in the 1920s: cheap fried skewers for labourers."
+  ],
+  "tips": [
+   "Never dip a bitten skewer into the shared sauce; use the cabbage to scoop sauce.",
+   "Rough at night in places but safe; keep to the main streets."
+  ],
+  "trivia": [
+   "no-double-dip",
+   "osaka-tokyo",
+   "billiken"
+  ],
+  "verified": "6 Nov 2026",
+  "pending": "",
+  "decision": "P1, fits; moved from Fri 20"
+ },
+ "O5": {
+  "name": "Kobe beef dinner",
+  "icon": "🍜",
+  "p": 1,
+  "inc": "yes",
+  "days": [
+   "D10",
+   "D11"
+  ],
+  "desc": "Certified restaurant; O5a or O5e, decided on the fly",
+  "map": null,
+  "why": "The trip's splurge dinner; Kobe itself was dropped.",
+  "hours": "See O5a and O5e.",
+  "price": "~¥13,000–20,000 pp.",
+  "stay": "1.5 h",
+  "access": "O5a Shinsaibashi (Sat 21), O5e Umeda (Fri 20).",
+  "booking": "Not booked; book the same day or the day before.",
+  "see": [
+   "Ask for the cut's certificate number; certified shops show a bronze nojigiku (wild chrysanthemum) statue and a membership plaque."
+  ],
+  "route": null,
+  "facts": [
+   "Only Tajima-breed cattle born and raised in Hyōgo that pass strict grading can be sold as Kobe beef; each animal has a 10-digit ID you can look up.",
+   "The brand association was set up in 1983."
+  ],
+  "tips": [
+   "Check the shop at kobe-niku.jp/shop before going."
+  ],
+  "pending": "Choose O5e (Fri 20 lunch or evening) or O5a (Sat 21) on the fly.",
+  "decision": "P1; lunch or dinner, decide later",
+  "verified": "6 Nov 2026",
+  "trivia": [
+   "kobe-nose"
+  ]
+ },
+ "O5a": {
+  "name": "Techangum Shinsaibashi Honten",
+  "icon": "🍜",
+  "p": 1,
+  "inc": "maybe",
+  "days": [
+   "D11"
+  ],
+  "desc": "Certified Kobe yakiniku",
+  "map": "https://www.google.com/maps/search/?api=1&query=Kobebeef%20Techangum%20Shinsaibashi",
+  "why": "Yakiniku with certified Kobe beef, ~¥13,000 pp; 10–15 min walk from Dōtonbori.",
+  "hours": "Lunch 11:30–14:30; dinner 16:30–24:00 (L.O. 23:45); Mon 17:00–22:30.",
+  "price": "~¥13,310 pp for Kobe beef.",
+  "stay": "1.5 h",
+  "access": "Shinsaibashi Stn (Midōsuji Line), ~5 min.",
+  "booking": "Gurunavi online, free and instant (gurunavi.com/ja/ka42605/rst), or tel. 06-6121-8803.",
+  "see": [
+   "Kobe beef cuts grilled yourself at the table."
+  ],
+  "route": null,
+  "facts": [
+   "Yakiniku (Korean-style table grilling) took off in Osaka after WWII."
+  ],
+  "tips": [
+   "⚠️ The Gurunavi listing marks it as smoking allowed: ask for non-smoking when booking.",
+   "Confirm the Kobe beef certificate on the menu."
+  ],
+  "decision": "Option for Sat 21 ~20:15, decide on the fly",
+  "verified": "6 Nov 2026",
+  "pending": "",
+  "trivia": []
+ },
+ "O5e": {
+  "name": "Kobe Steak Ishida LINKS Umeda",
+  "icon": "🍜",
+  "p": 2,
+  "inc": "maybe",
+  "days": [
+   "D10"
+  ],
+  "desc": "Teppanyaki counter steak",
+  "map": "https://www.google.com/maps/search/?api=1&query=Kobe%20Steak%20Ishida%20LINKS%20UMEDA",
+  "why": "Chef-grilled Kobe beef at the counter, 1 min from JR Osaka, right after Umeda Sky.",
+  "hours": "11:00–23:00 (L.O. 21:30), open daily.",
+  "price": "Dinner courses from ¥6,380 (A5 wagyu); Kobe beef courses higher (~¥13,000+).",
+  "stay": "1.5–2 h",
+  "access": "LINKS UMEDA 8F, Ōfukachō, Kita-ku; JR Osaka Stn 1 min.",
+  "booking": "Gurunavi online (gurunavi.com/ja/c192812/rst), or My Concierge Japan (prepayment, +10% fee). Tel. 06-6147-8325.",
+  "see": [
+   "Teppanyaki: the chef cooks in front of you."
+  ],
+  "route": null,
+  "facts": [
+   "Ishida is a Kobe-based group; a Kansai Walker article says the shop serves Kobe beef with its 'Kobe-no-niku' certificate."
+  ],
+  "tips": [
+   "Courses with 'A5 黒毛和牛' are wagyu, not Kobe beef: choose a course labelled 神戸牛 / Kobe beef."
+  ],
+  "decision": "Option 3, Fri 20 lunch; or Fri 20 evening",
+  "verified": "6 Nov 2026",
+  "pending": "",
+  "trivia": []
+ },
+ "O7": {
+  "name": "Hankai tram + Sumiyoshi Taisha",
+  "icon": "⛩️",
+  "p": 2,
+  "inc": "yes",
+  "days": [
+   "D11"
+  ],
+  "desc": "Osaka's last streetcar to one of Japan's oldest shrines",
+  "map": "https://www.google.com/maps/search/?api=1&query=Sumiyoshi%20Taisha",
+  "why": "Osaka's last streetcar line to the head shrine of 2,300 Sumiyoshi shrines.",
+  "hours": "Oct–Mar 6:30–17:00 (outer gate 16:00); shrine office for stamps ~9:00–17:00.",
+  "price": "Free. Tram ¥230; goshuin ¥300–500.",
+  "stay": "1 h 25 min",
+  "access": "Hankai Uemachi Line Tennōji-ekimae → Sumiyoshi-toriimae (~20 min); stop at the gate. Back: Nankai Sumiyoshitaisha Stn, 3 min.",
+  "booking": "No booking.",
+  "see": [
+   "Sori-hashi, the steep red arched bridge.",
+   "Four main halls in Sumiyoshi-zukuri style (National Treasures, rebuilt 1810).",
+   "Gosho-gozen: a fenced gravel plot where people search for stones marked 五, 大 and 力.",
+   "Over 600 stone lanterns donated by merchants and shipowners."
+  ],
+  "route": {
+   "enter": "Main torii by the tram stop → Sori-hashi.",
+   "walk": [
+    "First to fourth halls → Gosho-gozen (behind the first hall area) → sub-shrines."
+   ],
+   "exit": "West to Nankai Sumiyoshitaisha Stn (3 min)."
+  },
+  "facts": [
+   "Traditionally founded in 211; its building style predates Buddhist influence on shrine architecture.",
+   "The gods are sea deities who protect sailors and diplomats."
+  ],
+  "tips": [
+   "Tram: pay ¥230 when you get off (IC cards work).",
+   "📿 stamp."
+  ],
+  "trivia": [
+   "godairiki-stones",
+   "shinto-buddhism",
+   "hankai-tram",
+   "sumiyoshi-style"
+  ],
+  "decision": "Sat 21 ~11:05 (tram from Tennōji)",
+  "verified": "6 Nov 2026",
+  "pending": ""
+ },
+ "O8": {
+  "name": "Umeda Sky Building",
+  "icon": "🌄",
+  "p": 2,
+  "inc": "yes",
+  "days": [
+   "D10"
+  ],
+  "desc": "Open-air rooftop deck, night view",
+  "map": "https://www.google.com/maps/search/?api=1&query=Umeda%20Sky%20Building",
+  "why": "Open-air rooftop ring 173 m over Osaka, on the route.",
+  "hours": "9:30–22:30, last entry 22:00; open daily.",
+  "price": "¥2,000 (since 2026).",
+  "stay": "1 h",
+  "access": "~7–10 min walk north-west of JR Osaka, through an underpass (follow the signs).",
+  "booking": "No booking needed; tickets on 39F.",
+  "see": [
+   "The glass-tube escalator from 35F to 39F, crossing between the towers.",
+   "The open-air Floating Garden on the roof (40F+).",
+   "Glowing floor and night view over the Yodo River."
+  ],
+  "route": {
+   "enter": "East tower lift to 35F, then the escalator to 39F (ticket desk).",
+   "walk": [
+    "39F indoor deck → stairs/escalator to the rooftop ring."
+   ],
+   "exit": "Same way; Umeda Stn (Midōsuji Line) ~10 min."
+  },
+  "facts": [
+   "Opened in 1993; architect Hara Hiroshi. The top floors were built on the ground and lifted into place between the towers."
+  ],
+  "tips": [
+   "Windy and cold on the roof in November: jacket.",
+   "Sunset ~16:50; at 18:15 it's the night view."
+  ],
+  "decision": "Your pick; on the route",
+  "verified": "6 Nov 2026",
+  "pending": "",
+  "trivia": [
+   "umeda-lift"
+  ]
+ },
+ "O9": {
+  "name": "Hōzen-ji Yokochō",
+  "icon": "🛕🏘️",
+  "p": 2,
+  "inc": "yes",
+  "days": [
+   "D11"
+  ],
+  "desc": "Stone lantern alley, moss-covered Fudō statue",
+  "map": "https://www.google.com/maps/search/?api=1&query=Hozenji%20Yokocho",
+  "why": "A slice of old Osaka right behind Dōtonbori.",
+  "hours": "Temple 24 h; alley restaurants vary.",
+  "price": "Free.",
+  "stay": "30 min",
+  "access": "Between Dōtonbori and Sennichimae, ~5 min from Namba Stn.",
+  "booking": "No booking.",
+  "see": [
+   "Mizukake Fudō: the statue completely green with moss from centuries of splashed water.",
+   "The two flagstone alleys (80 m) with lanterns and old restaurants.",
+   "Meoto Zenzai (1883): sweet red-bean soup served in two small bowls for couples."
+  ],
+  "route": null,
+  "facts": [
+   "The temple was founded in 1637; the 1945 air raids destroyed everything except the Fudō statue."
+  ],
+  "tips": [
+   "Ladle water onto the statue and make a wish; it's how the moss grew."
+  ],
+  "decision": "Sat 21 ~14:45",
+  "verified": "6 Nov 2026",
+  "pending": "",
+  "trivia": [
+   "mizukake-fudo"
+  ]
+ },
+ "O10": {
+  "name": "Shitennō-ji",
+  "icon": "🛕",
+  "p": 2,
+  "inc": "yes",
+  "days": [
+   "D11"
+  ],
+  "desc": "Temple founded 593; flea market on the 21st",
+  "map": "https://www.google.com/maps/search/?api=1&query=Shitennoji",
+  "why": "One of Japan's oldest temples, and on Sat 21 its big monthly flea market.",
+  "hours": "Outer grounds 24 h. Central precinct and garden Oct–Mar 8:30–16:00; on the 21st 8:00–16:30. Last entry 30 min before closing.",
+  "price": "Outer grounds free. Central precinct ¥300–500 (sources differ); garden ¥300; Treasure House ¥500.",
+  "stay": "1 h 50 min",
+  "access": "Shitennoji-mae Yūhigaoka Stn (Tanimachi Line), ~5 min; Tamade ~22 min, ¥240.",
+  "booking": "No booking.",
+  "see": [
+   "Daishi-e flea market (~500 stalls): antiques, kimono, tools, food; best before 10:00.",
+   "Central precinct: Chūmon gate, five-storey pagoda, Kondō and Kōdō in one straight line.",
+   "Gokuraku-jōdo garden (pond, stone bridges).",
+   "Ishi-no-torii (1294), one of the oldest stone torii in Japan."
+  ],
+  "route": {
+   "enter": "Nishi-mon (west gate) and the stone torii.",
+   "walk": [
+    "Flea market in the outer grounds first (before 10:00) → central precinct → garden."
+   ],
+   "exit": "Back to Shitennoji-mae Yūhigaoka, or walk ~12 min south to Tennōji for the tram."
+  },
+  "facts": [
+   "Founded in 593 by Prince Shōtoku as Japan's first state-built Buddhist temple.",
+   "The present buildings are mostly a 1963 concrete reconstruction of the original layout."
+  ],
+  "tips": [
+   "Cash for the market.",
+   "Goshuin not verified."
+  ],
+  "trivia": [
+   "kongo-gumi",
+   "shinto-buddhism"
+  ],
+  "decision": "Sat 21 ~8:40 (flea market)",
+  "verified": "6 Nov 2026",
+  "pending": ""
+ },
+ "O11": {
+  "name": "Nakazakichō",
+  "icon": "🏘️",
+  "p": 2,
+  "inc": "maybe",
+  "days": [
+   "D10",
+   "Hnd"
+  ],
+  "desc": "Pre-war houses turned into cafés",
+  "map": "https://www.google.com/maps/search/?api=1&query=Nakazakicho%20Osaka",
+  "why": "Quiet pre-war lanes next to busy Umeda.",
+  "hours": "Streets 24 h; cafés ~11:00–18:00/19:00 (vary, many close early or on Tue/Wed).",
+  "price": "Free; coffee ~¥600.",
+  "stay": "30 min",
+  "access": "Nakazakichō Stn (Tanimachi Line), exit 2; ~10 min walk from Umeda.",
+  "booking": "No booking.",
+  "see": [
+   "Nagaya (row houses) with tiled roofs and tiny gardens.",
+   "Ivy-covered cafés, zakka shops and galleries."
+  ],
+  "route": null,
+  "facts": [
+   "The area escaped the 1945 firebombing, so it kept its pre-war houses next to Umeda's towers."
+  ],
+  "tips": [
+   "Residential: quiet voices, no photos of people's homes."
+  ],
+  "decision": "Fri 20, by option, or Sun 22 morning",
+  "verified": "6 Nov 2026",
+  "pending": "",
+  "trivia": []
+ },
+ "O12": {
+  "name": "Kuromon Market",
+  "icon": "🐟",
+  "p": 2,
+  "inc": "yes",
+  "days": [
+   "D11"
+  ],
+  "desc": "Walk-through only; touristy",
+  "map": "https://www.google.com/maps/search/?api=1&query=Kuromon%20Market",
+  "why": "Quick look only; touristy and overpriced.",
+  "hours": "Shops vary, roughly 9:00/9:30–17:00/18:00.",
+  "price": "Free to walk.",
+  "stay": "30 min",
+  "access": "Nippombashi Stn, ~5 min; ~10 min walk from Nankai Namba.",
+  "booking": "No booking.",
+  "see": [
+   "580 m covered arcade, ~150 shops: fugu, crab, scallops, wagyu skewers, fruit."
+  ],
+  "route": null,
+  "facts": [
+   "The name ('black gate') comes from the black gate of Enmyō-ji temple, which once stood nearby."
+  ],
+  "tips": [
+   "Prices are high; compare with Kizu (O15)."
+  ],
+  "decision": "Sat 21 ~13:10",
+  "verified": "6 Nov 2026",
+  "pending": "",
+  "trivia": [
+   "kansai-kanto"
+  ]
+ },
+ "O13": {
+  "name": "Dōtonbori",
+  "icon": "🏘️",
+  "p": 2,
+  "inc": "yes",
+  "days": [
+   "D11"
+  ],
+  "desc": "Neon canal street; evening walk",
+  "map": "https://www.google.com/maps/search/?api=1&query=Dotonbori",
+  "why": "The neon canal at night; walk, don't eat there.",
+  "hours": "24 h.",
+  "price": "Free.",
+  "stay": "1 h 15 min",
+  "access": "Namba Stn, ~5 min.",
+  "booking": "No booking.",
+  "see": [
+   "Glico running-man sign from Ebisu bridge.",
+   "Kani Dōraku's moving crab and Kuidaore Tarō the drummer clown.",
+   "Tombori river walk along the canal (quieter, below street level)."
+  ],
+  "route": null,
+  "facts": [
+   "The canal was dug from 1612 by the merchant Yasui Dōton, who died fighting for the Toyotomi in the 1615 siege; his cousin finished it and named it after him."
+  ],
+  "tips": [
+   "Pickpocket-aware in crowds."
+  ],
+  "trivia": [
+   "escalator-sides",
+   "osaka-tokyo",
+   "glico-man"
+  ],
+  "decision": "Sat 21 ~19:30",
+  "verified": "6 Nov 2026",
+  "pending": ""
+ },
+ "O14": {
+  "name": "Hosokawa Gracia statue",
+  "icon": "🏯",
+  "p": 3,
+  "inc": "maybe",
+  "days": [
+   "D11"
+  ],
+  "desc": "Shōgun's Mariko, at Osaka Cathedral on the Hosokawa mansion site",
+  "map": "https://www.google.com/maps/search/?api=1&query=Osaka%20Cathedral%20Tamatsukuri",
+  "why": "A real Shōgun site near the castle, 20–30 min.",
+  "hours": "Outdoor statues 24 h; cathedral usually open in the daytime.",
+  "price": "Free.",
+  "stay": "30 min",
+  "access": "~15 min walk from the castle's Tamatsukuri side; Tamatsukuri Stn 10 min.",
+  "booking": "No booking.",
+  "see": [
+   "Statues of Hosokawa Gracia and the Christian daimyō Takayama Ukon in front of St Mary's Cathedral.",
+   "Inside: large paintings of Gracia (if open)."
+  ],
+  "route": null,
+  "facts": [
+   "Gracia (Tama, 1563–1600) was a daughter of Akechi Mitsuhide and a Christian convert.",
+   "In 1600 she refused to become Ishida Mitsunari's hostage; as a Christian she could not take her own life, so her retainer killed her and burned the mansion."
+  ],
+  "tips": [
+   "Quiet: it's a working church."
+  ],
+  "trivia": [
+   "gracia-mariko"
+  ],
+  "decision": "Optional after the tour",
+  "verified": "6 Nov 2026",
+  "pending": ""
+ },
+ "O15": {
+  "name": "Kizu Market",
+  "icon": "🐟🍜",
+  "p": 3,
+  "inc": "yes",
+  "days": [
+   "D10"
+  ],
+  "desc": "300-year-old local wholesale market, fish breakfast",
+  "map": "https://www.google.com/maps/search/?api=1&query=Osaka%20Kizu%20Market",
+  "why": "Local market breakfast 3 metro stops from our stay, much cheaper and calmer than Kuromon.",
+  "hours": "Shops ~6:00–11:00 (eateries from ~5:00, some to 13:00). Closed Sun, holidays and some Wed.",
+  "price": "Kaisendon ~¥1,500–2,500.",
+  "stay": "1 h",
+  "access": "Daikokuchō Stn exit 1, 3 min; Tamade → Daikokuchō 3 stops (Yotsubashi Line).",
+  "booking": "No booking.",
+  "see": [
+   "Kizu Uoichi Shokudō: seafood bowls (opens 6:00, closes when sold out).",
+   "Fish, produce and pickle stalls for chefs.",
+   "Shokuzai Center ODA supermarket."
+  ],
+  "route": null,
+  "facts": [
+   "The market dates from around 1710 and is one of Japan's largest privately run wholesale markets."
+  ],
+  "tips": [
+   "Cash only.",
+   "Shops close towards 11:00: be there by 9:00."
+  ],
+  "decision": "Your pick; morning, near the stay",
+  "verified": "6 Nov 2026",
+  "pending": "",
+  "trivia": []
+ },
+ "O16": {
+  "name": "Usami-tei Matsubaya",
+  "icon": "🍜",
+  "p": 2,
+  "inc": "maybe",
+  "days": [
+   "D11"
+  ],
+  "desc": "Birthplace of kitsune udon, 1893",
+  "map": "https://www.google.com/maps/search/?api=1&query=Usami-tei%20Matsubaya",
+  "why": "Lets you check a fact from your trivia list; cheap and quick.",
+  "hours": "11:00–18:00 Mon–Sat; closed Sun and holidays.",
+  "price": "~¥700–1,200.",
+  "stay": "30–45 min",
+  "access": "3-8-1 Minami-Senba, ~10 min from Shinsaibashi Stn.",
+  "booking": "No booking.",
+  "see": [
+   "Kitsune udon (sweet fried tofu on udon).",
+   "Ojiya udon: udon with rice and egg in an iron pot."
+  ],
+  "route": null,
+  "facts": [
+   "Listed in Tabelog's 'Udon 100 West' 2024."
+  ],
+  "tips": [
+   "Queue at lunchtime; go before 12:00 or after 13:30."
+  ],
+  "trivia": [
+   "kitsune-udon"
+  ],
+  "decision": "Lunch, decide later",
+  "verified": "6 Nov 2026",
+  "pending": ""
+ },
+ "O17": {
+  "name": "Yoshino Sushi",
+  "icon": "🍜",
+  "p": 3,
+  "inc": "maybe",
+  "days": [
+   "D10"
+  ],
+  "desc": "Inventor of hako-zushi pressed sushi, since 1841",
+  "map": "https://www.google.com/maps/search/?api=1&query=%E5%90%89%E9%87%8E%E5%AF%BF%E5%8F%B8%20%E6%B7%A1%E8%B7%AF%E7%94%BA",
+  "why": "Great history, but closed Sat, Sun and holidays, so only Fri 20 lunch is possible.",
+  "hours": "Dine-in lunch 11:00–15:00 (L.O. 14:30); dinner 17:00–22:00 by reservation; closed Sat, Sun, holidays.",
+  "price": "Lunch ~¥3,000.",
+  "stay": "45 min",
+  "access": "Awajimachi 3-4-14; Yodoyabashi Stn exit 11, ~4 min.",
+  "booking": "Lunch walk-in; dinner by reservation (06-6231-7181).",
+  "see": [
+   "Hako-zushi: sea bream, conger eel, egg and prawn pressed in a box, cut in squares."
+  ],
+  "route": null,
+  "facts": [
+   "Its hako-zushi is nicknamed 'kaiseki in 2 sun 6 bu', after the size of the box (about 8 cm square)."
+  ],
+  "tips": [
+   "Takeaway boxes travel well."
+  ],
+  "decision": "Option 1, Fri 20 lunch",
+  "verified": "6 Nov 2026",
+  "pending": "",
+  "trivia": []
+ },
+ "O18": {
+  "name": "Takoyaki and okonomiyaki",
+  "icon": "🍜",
+  "p": 2,
+  "inc": "maybe",
+  "days": [
+   "D10",
+   "D11"
+  ],
+  "desc": "Osaka street classics",
+  "map": null,
+  "why": "Only a meal, no extra time needed.",
+  "hours": "Most stands ~11:00–22:00.",
+  "price": "Takoyaki ~¥600–800 for 8; okonomiyaki ~¥1,000–1,500.",
+  "stay": "15–60 min",
+  "access": "Everywhere around Namba and Dōtonbori.",
+  "booking": "No booking.",
+  "see": [
+   "Takoyaki: octopus in batter balls, turned with picks.",
+   "Okonomiyaki: cabbage pancake cooked on the table griddle."
+  ],
+  "route": null,
+  "facts": [
+   "Takoyaki was created in Osaka in 1935 by Endō Tomekichi of Aizuya."
+  ],
+  "tips": [
+   "Takoyaki are lava-hot inside: bite a hole first."
+  ],
+  "decision": "Meal, decide later",
+  "verified": "6 Nov 2026",
+  "pending": "",
+  "trivia": [
+   "takoyaki-1935"
+  ]
+ },
+ "O19": {
+  "name": "Genpin Hōzen-ji Sōhonten",
+  "icon": "🍜",
+  "p": 2,
+  "inc": "maybe",
+  "days": [
+   "D11"
+  ],
+  "desc": "Torafugu course: sashimi, skin, hot pot, zōsui",
+  "map": "https://www.google.com/maps/search/?api=1&query=%E7%8E%84%E5%93%81%20%E6%B3%95%E5%96%84%E5%AF%BA%E7%B7%8F%E6%9C%AC%E5%BA%97",
+  "why": "Fugu in Osaka, the classic fugu city, in season in November, next to Hōzen-ji Yokochō.",
+  "hours": "Weekdays 12:00–22:30, Sat, Sun and holidays 11:30–22:30; lunch menu L.O. 15:00.",
+  "price": "Autumn course 5 dishes ¥5,500 (Sep–Oct); November courses not yet listed.",
+  "stay": "1.5 h",
+  "access": "Namba 1-1-13, by Hōzen-ji; Namba Stn 2 min.",
+  "booking": "Ikyu online or tel. 06-6213-9444 (book by Wed 18).",
+  "see": [
+   "Tessa (thin fugu sashimi), skin, tecchiri hot pot, then zōsui rice soup in the broth."
+  ],
+  "route": null,
+  "facts": [
+   "Fugu chefs need a special licence; the poisonous parts are removed and locked away."
+  ],
+  "tips": [
+   "Non-smoking; cards and PayPay accepted."
+  ],
+  "decision": "Lunch, decide later",
+  "verified": "6 Nov 2026",
+  "pending": "",
+  "trivia": []
+ },
+ "O20": {
+  "name": "551 Hōrai",
+  "icon": "🍜",
+  "p": 2,
+  "inc": "yes",
+  "days": [
+   "D11",
+   "Hnd"
+  ],
+  "desc": "Pork buns since 1945; Namba main shop, Ebisubashi",
+  "map": "https://www.google.com/maps/search/?api=1&query=551%E8%93%AC%E8%8E%B1%20%E6%9C%AC%E5%BA%97",
+  "why": "Osaka's favourite butaman: cheap, freshly steamed, a local institution.",
+  "hours": "Main shop restaurant 11:00–22:00 (L.O. 21:30); closed 1st and 3rd Tue (open Sat 21). Shin-Osaka Stn shop 9:00–21:30 daily.",
+  "price": "Butaman 2 for ¥420.",
+  "stay": "15 min",
+  "access": "Namba 3-6-3; Namba Stn exit 11, 1 min.",
+  "booking": "No booking.",
+  "see": [
+   "Staff folding buns by hand behind the window."
+  ],
+  "route": null,
+  "facts": [
+   "Founded in 1945; the main shop sells about 170,000 buns a day across the chain, all hand-folded."
+  ],
+  "tips": [
+   "Strong smell: eat before boarding the Shinkansen or keep the box closed."
+  ],
+  "trivia": [
+   "number-551"
+  ],
+  "decision": "Sat 21 ~15:05",
+  "verified": "6 Nov 2026",
+  "pending": ""
+ },
+ "O21": {
+  "name": "Pathfinder XNOBU",
+  "icon": "☕",
+  "p": 2,
+  "inc": "yes",
+  "days": [
+   "D10"
+  ],
+  "desc": "Specialty coffee; Tenmangu takeaway stand / LUCUA café",
+  "map": "https://www.google.com/maps/search/?api=1&query=PATHFINDER%20XNOBU%20Osaka%20Tenmangu",
+  "why": "Your pick: specialty coffee right on the Day 10 route, no detour.",
+  "hours": "Tenmangu stand: hours not found (old note 10:00–18:00, verify). LUCUA 1100 4F: 10:30–20:00.",
+  "price": "Coffee ~¥600–800.",
+  "stay": "20 min",
+  "access": "Tenjinbashi 2-5-9, behind Osaka Tenmangū (start of Tenjinbashi-suji).",
+  "booking": "No booking.",
+  "see": [
+   "Melbourne-style flat whites and the 'rainbow latte'."
+  ],
+  "route": null,
+  "facts": [
+   "The menu is supervised by a barista who trained in Melbourne and twice won a world latte-art title."
+  ],
+  "tips": [
+   "Tenmangu stand is takeaway only."
+  ],
+  "decision": "Your pick; on the route",
+  "verified": "6 Nov 2026",
+  "pending": "",
+  "trivia": []
+ },
+ "O22": {
+  "name": "Katsuō-ji, Minoh",
+  "icon": "🛕🍁",
+  "p": 2,
+  "inc": "maybe",
+  "days": [
+   "D10"
+  ],
+  "desc": "Mountain 'winning daruma' temple, autumn colour",
+  "map": "https://www.google.com/maps/search/?api=1&query=Katsuoji%20Temple%20Minoh",
+  "why": "Daruma-filled mountain temple at peak foliage, but a half day away; dropped.",
+  "hours": "8:00–17:00 (verify).",
+  "price": "~¥500.",
+  "stay": "Half day",
+  "access": "Minoh-Kayano Stn + bus ~25 min.",
+  "booking": "No booking.",
+  "see": [
+   "Thousands of small red daruma on every ledge."
+  ],
+  "route": null,
+  "facts": [
+   "Its name means 'victory' temple; people leave daruma there after a win."
+  ],
+  "tips": [],
+  "decision": "Option 4, Fri 20",
+  "verified": "6 Nov 2026",
+  "pending": "",
+  "trivia": []
+ },
+ "O25": {
+  "name": "Sushi Bar Tsukinone, Uehonmachi",
+  "icon": "🍜",
+  "p": 2,
+  "inc": "maybe",
+  "days": [
+   "D11"
+  ],
+  "desc": "Casual sushi bar, late-night",
+  "map": "https://www.google.com/maps/search/?api=1&query=%E9%AE%A8%E3%83%90%E3%83%AB%20%E6%9C%88%E3%81%AE%E3%81%AD%20%E4%B8%8A%E6%9C%AC%E7%94%BA",
+  "why": "Your pick: relaxed sushi-and-drinks dinner at a fair price, open late.",
+  "hours": "18:00–3:00 (L.O. 2:00). ⚠️ 2026 listing shows no closing day; an older one said closed Mon.",
+  "price": "~¥4,000 pp.",
+  "stay": "1.5 h",
+  "access": "Ueshio 3-7-14; Tanimachi-kyūchōme Stn 2 min; from Tamade ~20 min.",
+  "booking": "Gurunavi online or tel. 06-6718-5588 (book by Wed 18).",
+  "see": [
+   "Sushi with wine and sake, small plates."
+  ],
+  "route": null,
+  "facts": [
+   "Sister shop of Sushi Tsukinone in Shinsaibashi (more formal counter)."
+  ],
+  "tips": [
+   "Cards and IC cards accepted."
+  ],
+  "decision": "Meal, decide later",
+  "verified": "6 Nov 2026",
+  "pending": "",
+  "trivia": []
+ },
+ "O26": {
+  "name": "Fukushima food district",
+  "icon": "🍜",
+  "p": 2,
+  "inc": "yes",
+  "days": [
+   "D10"
+  ],
+  "desc": "Locals' izakaya district, one stop from Umeda",
+  "map": "https://www.google.com/maps/search/?api=1&query=JR%20Fukushima%20Station%20Osaka",
+  "why": "Izakaya, standing bars and ramen for locals, right next to Umeda Sky; no tourist-trap feel.",
+  "hours": "Shops vary; best ~18:00–22:00.",
+  "price": "~¥3,000–8,000 pp.",
+  "stay": "1.5–2 h",
+  "access": "~15 min walk from Umeda Sky (estimate); JR Fukushima is one stop from Osaka Stn.",
+  "booking": "Optional: see O26a.",
+  "see": [
+   "Fukumaru Dori 57, under the Loop Line tracks, 3 min from JR Fukushima."
+  ],
+  "route": null,
+  "facts": [],
+  "tips": [
+   "Friday nights are lively: small places may be full, so book or arrive early."
+  ],
+  "trivia": null,
+  "pending": null,
+  "decision": "Your pick; Fri 20 dinner",
+  "verified": "9 Nov 2026"
+ },
+ "O26a": {
+  "name": "Ichiya Fukushima (chicken skin)",
+  "icon": "🍢",
+  "p": 2,
+  "inc": "maybe",
+  "days": [
+   "D10"
+  ],
+  "desc": "Charcoal yakitori izakaya with a chicken-skin skewer",
+  "map": "https://www.google.com/maps/search/?api=1&query=%E6%9C%AC%E6%B0%97%E7%82%AD%E7%81%AB%E7%84%BC%E3%81%8D%E9%B3%A5%E6%96%99%E7%90%86%20%E5%A3%B1%E5%B1%8B%20%E7%A6%8F%E5%B3%B6%E5%BA%97",
+  "why": "Your request: an izakaya for chicken skin. Its menu lists kawa (neck-skin skewers), grilled over charcoal, and it has an English menu.",
+  "hours": "⚠️ Opening hours not confirmed: check when booking.",
+  "price": "Dinner ~¥3,000 pp.",
+  "stay": "1.5 h",
+  "access": "7-11-52 Fukushima, Fukushima-ku; 1 min from JR Fukushima.",
+  "booking": "Gurunavi online (gurunavi.com/en/c238300/rst) or tel. 06-4796-6333.",
+  "see": [
+   "Kawa (首皮, neck skin) skewers.",
+   "Tsukune, the house speciality."
+  ],
+  "route": null,
+  "facts": [],
+  "tips": [
+   "Listed as smoking allowed: ask for non-smoking.",
+   "Backup: Yakitori Masaya Fukushima, 7-4-28 Fukushima, 15:00–24:00, English menu (chicken skin not confirmed)."
+  ],
+  "trivia": null,
+  "pending": null,
+  "decision": "Suggestion for Fri 20 dinner",
+  "verified": "9 Nov 2026"
+ }
+}

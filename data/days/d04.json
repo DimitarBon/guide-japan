@@ -1,0 +1,144 @@
+{
+ "title": "Himeji, then Kyoto",
+ "pace": "demanding",
+ "stay": "HOTEL TAVINOS Kyoto",
+ "trivia": [
+  "himeji-terumasa",
+  "himeji-okiku",
+  "sanjusangendo-arrows",
+  "power-split",
+  "train-punctual",
+  "himeji-white"
+ ],
+ "items": [
+  {
+   "type": "head",
+   "text": "Tokyo → Himeji"
+  },
+  {
+   "type": "note",
+   "time": "05:20",
+   "text": "Check out of APA with day bags only (suitcases already sent to HOTEL TAVINOS)."
+  },
+  {
+   "type": "travel",
+   "mode": "🚇",
+   "text": "Ginza Line Tawaramachi → Kanda, JR Yamanote/Chūō Line → Tokyo. Or taxi (~20 min, ~¥3,000).",
+   "dur": "~25 min",
+   "est": true
+  },
+  {
+   "type": "travel",
+   "time": "06:06",
+   "mode": "🚄",
+   "text": "Nozomi 111 Tokyo → Himeji, Green Car 10, seats 13-C and 13-D (Fuji on the right after ~40 min). Breakfast: ekiben from Tokyo Station.",
+   "dur": "2 h 54 min",
+   "status": "booked",
+   "booking": "nozomi-111"
+  },
+  {
+   "type": "note",
+   "time": "09:00",
+   "text": "Arrive Himeji. Coin lockers for the day bags (sizes not verified), north exit."
+  },
+  {
+   "type": "travel",
+   "mode": "🚶",
+   "text": "Ōtemae-dōri straight north to the castle, Sakuramon Bridge, Otemon Gate.",
+   "dur": "15–20 min"
+  },
+  {
+   "type": "stop",
+   "time": "09:50",
+   "end": "12:30",
+   "place": "K21",
+   "stay": "2.5 h",
+   "status": "booked",
+   "booking": "k21-himeji",
+   "ref": "GetYourGuide GYGG45F7WN99",
+   "text": "Meet 9:50 in front of Otemon Gate, guide with a 'Himeji Tourism Concierge' sign. Tour 10:00–12:30, tickets included. Socks; shoes off inside."
+  },
+  {
+   "type": "travel",
+   "mode": "🚶",
+   "text": "Walk west along the moat to Kōko-en.",
+   "dur": "~5 min"
+  },
+  {
+   "type": "stop",
+   "time": "12:35",
+   "end": "13:20",
+   "place": "K21",
+   "stay": "45 min",
+   "text": "Kōko-en garden (not in the tour): ¥400 each, last entry 16:30. Nine walled gardens with the keep behind."
+  },
+  {
+   "type": "meal",
+   "time": "13:30",
+   "end": "14:00",
+   "text": "Lunch near Himeji Station, chosen on the spot: Himeji oden (ginger soy) or anago rice.",
+   "stay": "30 min"
+  },
+  {
+   "type": "head",
+   "text": "Himeji → Kyoto"
+  },
+  {
+   "type": "travel",
+   "time": "~14:15",
+   "mode": "🚄",
+   "text": "Shinkansen Himeji → Kyoto (book on smartEX by Fri 13). Backup: JR Special Rapid, ~1.5 h, ¥2,210, no booking.",
+   "dur": "43 min",
+   "cost": "~¥5,470 pp",
+   "status": "todo",
+   "booking": "shinkansen-himeji-kyoto"
+  },
+  {
+   "type": "travel",
+   "mode": "🚕",
+   "text": "Kyoto Stn Hachijō or Karasuma exit → Sanjūsangen-dō. Or city bus 100/206/208 to Hakubutsukan Sanjūsangendō-mae.",
+   "dur": "~10 min",
+   "cost": "taxi ~¥1,200",
+   "est": true
+  },
+  {
+   "type": "stop",
+   "time": "15:15",
+   "end": "16:15",
+   "place": "K10",
+   "stay": "1 h",
+   "stamp": true,
+   "text": "Open 8:30–17:00 on Sat 14 (last entry 16:30). Shoes off, no photos inside. 📿 stamp at the exit."
+  },
+  {
+   "type": "travel",
+   "mode": "🚶",
+   "text": "Walk north-west to HOTEL TAVINOS (Kawaramachi Gojō).",
+   "dur": "~20 min",
+   "est": true
+  },
+  {
+   "type": "note",
+   "time": "~16:40",
+   "text": "Self check-in at HOTEL TAVINOS (machines from 15:00; check-in number A26103018851 + passports). Suitcases should be waiting.",
+   "status": "booked",
+   "booking": "tavinos"
+  },
+  {
+   "type": "note",
+   "text": "Free time ~2–3 h. Dinner near the hotel, chosen on the spot, or an optional dinner below."
+  },
+  {
+   "type": "optional",
+   "place": "K16",
+   "stay": "1.5–2 h",
+   "text": "Wagyu sukiyaki, last entry 19:30, ~20 min walk. Needs a reservation."
+  },
+  {
+   "type": "optional",
+   "place": "K15",
+   "stay": "2 h",
+   "text": "Kaiseki dinner, if booked."
+  }
+ ]
+}

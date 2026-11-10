@@ -1,0 +1,147 @@
+{
+  "title": "Arashiyama и дворецът на Иеясу",
+  "pace": "натоварено",
+  "stay": "HOTEL TAVINOS Kyoto",
+  "trivia": [
+    "nightingale-floors",
+    "toranaga-ieyasu"
+  ],
+  "items": [
+    {
+      "type": "note",
+      "time": "06:15",
+      "text": "Тръгване от хотела. Закуска от конбини по пътя."
+    },
+    {
+      "type": "travel",
+      "mode": "🚆",
+      "text": "Пеша или с такси до Kyoto Station, после JR Sagano Line от Kyoto до Saga-Arashiyama (¥240). Или Hankyu Kyoto-Kawaramachi → Katsura → Arashiyama (~20 мин).",
+      "dur": "~40 мин от врата до врата",
+      "est": true
+    },
+    {
+      "type": "travel",
+      "mode": "🚶",
+      "text": "От станция Saga-Arashiyama до бамбуковата пътека през Nonomiya Shrine (ползвай точката Bamboo Forest, не Togetsukyō).",
+      "dur": "~10 мин"
+    },
+    {
+      "type": "stop",
+      "time": "07:00",
+      "end": "07:30",
+      "place": "K5",
+      "stay": "30 мин",
+      "text": "Бамбукова пътека, преди тълпите. Отворено 24 ч, безплатно."
+    },
+    {
+      "type": "stop",
+      "time": "07:30",
+      "end": "08:30",
+      "place": "K14",
+      "stay": "1 ч",
+      "text": "Градината на Tenryū-ji през северната порта на бамбуковата пътека (¥500). ⚠️ Ранното отваряне в 7:30 за 2026 не е потвърдено: провери tenryuji.com в сб, 14-и. Залите от 8:30 (+¥300)."
+    },
+    {
+      "type": "optional",
+      "time": "08:30",
+      "place": "K25",
+      "stay": "30 мин",
+      "text": "Свободно време преди отварянето на Ōkōchi: кратко изкачване до гледката към клисурата."
+    },
+    {
+      "type": "optional",
+      "time": "08:30",
+      "place": "K26",
+      "stay": "30 мин",
+      "text": "Или тиха разходка в парк Kameyama."
+    },
+    {
+      "type": "optional",
+      "place": "K27",
+      "stay": "45 мин",
+      "text": "Вероятно не: отваря в 9:00 или 10:00 (източниците се разминават), след свободното време."
+    },
+    {
+      "type": "optional",
+      "place": "K28",
+      "stay": "1 ч",
+      "text": "Отваря в 9:00, съвпада с Ōkōchi."
+    },
+    {
+      "type": "travel",
+      "mode": "🚶",
+      "text": "Нагоре в края на бамбуковата пътека до Ōkōchi Sansō.",
+      "dur": "~5 мин"
+    },
+    {
+      "type": "stop",
+      "time": "09:00",
+      "end": "10:15",
+      "place": "K5",
+      "stay": "1 ч 15 мин",
+      "text": "Градината на вила Ōkōchi Sansō (¥1,000; запази билета за матчата и сладкиша). Това е закуската преди обиколката."
+    },
+    {
+      "type": "travel",
+      "mode": "🚶",
+      "text": "На север през уличките на Ogura-yama (Jōjakkō-ji, Nison-in) до Giō-ji.",
+      "dur": "~20 мин"
+    },
+    {
+      "type": "stop",
+      "time": "10:20",
+      "end": "10:50",
+      "place": "K5",
+      "stay": "30 мин",
+      "stamp": true,
+      "text": "Мъхестата градина на Giō-ji (¥300). 📿 печат."
+    },
+    {
+      "type": "travel",
+      "mode": "🚶",
+      "text": "Пеша обратно до станция JR Saga-Arashiyama.",
+      "dur": "~20 мин"
+    },
+    {
+      "type": "travel",
+      "time": "~12:15",
+      "mode": "🚆",
+      "text": "JR Sagano Line от Saga-Arashiyama до Nijō, после пеша на изток покрай стената на замъка до Higashi-Ōte-mon.",
+      "dur": "~15 мин + 10 мин пеша",
+      "est": true
+    },
+    {
+      "type": "note",
+      "text": "Без обяд преди обиколката: вземи нещо малко близо до станция Nijō, ако трябва."
+    },
+    {
+      "type": "stop",
+      "time": "12:50",
+      "end": "16:00",
+      "place": "K4",
+      "stay": "3 ч",
+      "status": "booked",
+      "booking": "k4-nijo",
+      "ref": "GetYourGuide GYG6H7ZV6QYX",
+      "text": "Самурайска пешеходна обиколка 13:00–16:00, входът е включен. Среща в 12:50 пред портата Higashi-Ōte-mon, табела TripTomo. Не купувай билети и не влизай предварително. Годжоин карта, не 📿 печат."
+    },
+    {
+      "type": "meal",
+      "time": "~16:15",
+      "end": "~17:00",
+      "text": "Късен обяд близо до замъка или на връщане: соба или юдофу, избираш на място.",
+      "stay": "45 мин"
+    },
+    {
+      "type": "travel",
+      "mode": "🚇",
+      "text": "Tōzai Line от Nijōjō-mae до Sanjō Keihan, Keihan до Kiyomizu-Gojō; или такси.",
+      "dur": "~25 мин",
+      "est": true
+    },
+    {
+      "type": "note",
+      "text": "Свободно време след ~17:00. Вечеря по избор на място, или K16 / K15, ако са резервирани."
+    }
+  ]
+}

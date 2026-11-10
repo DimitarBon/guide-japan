@@ -1,0 +1,174 @@
+{
+ "title": "Fushimi Inari, Uji, Yoshino",
+ "pace": "demanding",
+ "stay": "Chikurinin Gunpoen, Yoshino",
+ "trivia": [
+  "inari-torii",
+  "byodoin-coin",
+  "eisai-tea",
+  "hideyoshi-hanami",
+  "shugendo",
+  "rikyu-gold",
+  "tsuen-1160",
+  "matcha-shortage"
+ ],
+ "items": [
+  {
+   "type": "head",
+   "text": "Dawn: Fushimi Inari"
+  },
+  {
+   "type": "note",
+   "time": "05:35",
+   "text": "Check out of HOTEL TAVINOS with small bags only (key card opens the door before 6:00). Suitcases already sent to Osaka."
+  },
+  {
+   "type": "travel",
+   "mode": "🚶",
+   "text": "Walk to Keihan Kiyomizu-Gojō Stn.",
+   "dur": "~10 min"
+  },
+  {
+   "type": "travel",
+   "time": "05:49",
+   "mode": "🚆",
+   "text": "Keihan semi-express Kiyomizu-Gojō → Fushimi-Inari, then 5 min walk to the main gate.",
+   "dur": "7 min",
+   "cost": "¥240 pp"
+  },
+  {
+   "type": "stop",
+   "time": "06:00",
+   "end": "08:15",
+   "place": "K7",
+   "stay": "2 h 15 min",
+   "stamp": true,
+   "text": "Sunrise ~6:15. Senbon Torii up to the Yotsutsuji lookout (40–50 min) and a bit beyond, then back down. The full summit loop doesn't fit. 📿 stamp if the office is open."
+  },
+  {
+   "type": "travel",
+   "time": "08:33",
+   "mode": "🚆",
+   "text": "JR Nara Line Inari → Uji (station opposite the main gate). Earlier option 8:02 → 8:19.",
+   "dur": "17 min",
+   "cost": "¥240 pp"
+  },
+  {
+   "type": "head",
+   "text": "Morning: Uji"
+  },
+  {
+   "type": "travel",
+   "mode": "🚶",
+   "text": "JR Uji → Byōdō-in along the tea-shop street.",
+   "dur": "10–15 min"
+  },
+  {
+   "type": "stop",
+   "time": "09:00",
+   "end": "10:00",
+   "place": "K18",
+   "stay": "1 h",
+   "text": "Byōdō-in (opens 8:45, ¥700; Phoenix Hall interior +¥300, slots from 9:30). Hōshōkan museum. Hold up a 10-yen coin."
+  },
+  {
+   "type": "optional",
+   "time": "10:10",
+   "place": "K33",
+   "stay": "20 min",
+   "text": "Across the river by Asagiri bridge; free, opens 9:00."
+  },
+  {
+   "type": "stop",
+   "time": "10:50",
+   "end": "11:30",
+   "place": "K18",
+   "stay": "40 min",
+   "status": "booked",
+   "booking": "k18-taihoan",
+   "ref": "RSV_261118_16",
+   "text": "Be at Taihō-an 10:50 (~5 min from Byōdō-in). Usucha tea ceremony 11:00. Show the QR at reception."
+  },
+  {
+   "type": "travel",
+   "mode": "🚶",
+   "text": "Back to JR Uji; buy onigiri or a bento on the way (Nakamura Tōkichi is 1 min from the station).",
+   "dur": "~15 min"
+  },
+  {
+   "type": "head",
+   "text": "Afternoon: Uji → Yoshino"
+  },
+  {
+   "type": "travel",
+   "time": "11:52",
+   "mode": "🚆",
+   "text": "JR Nara Line Uji → Nara (arr. 12:21), change (6 min).",
+   "dur": "29 min"
+  },
+  {
+   "type": "travel",
+   "time": "12:30",
+   "mode": "🚆",
+   "text": "JR Nara → Ōji (arr. 12:45), change: 19 min wait, eat here.",
+   "dur": "15 min"
+  },
+  {
+   "type": "travel",
+   "time": "13:07",
+   "mode": "🚆",
+   "text": "JR Wakayama Line Ōji → Yoshinoguchi (arr. 13:42). The line showed an operations notice: check on the day. Change to Kintetsu (3 min).",
+   "dur": "35 min"
+  },
+  {
+   "type": "travel",
+   "time": "13:48",
+   "mode": "🚆",
+   "text": "Kintetsu Yoshino Line Yoshinoguchi → Yoshino (arr. 14:21). Uji → Yoshino ¥1,630 pp in total (JR ¥1,170 + Kintetsu ¥460).",
+   "dur": "33 min"
+  },
+  {
+   "type": "travel",
+   "time": "14:30",
+   "mode": "🚐",
+   "text": "Chikurinin free shuttle from Yoshino Station (confirmed by the inn).",
+   "dur": "~10 min",
+   "status": "booked",
+   "booking": "chikurinin-shuttle"
+  },
+  {
+   "type": "note",
+   "time": "~14:45",
+   "text": "Arrive at Chikurinin; check-in from 15:00, so leave the small bags (confirmed by the inn). Choose the private-bath slot and the dinner time at check-in.",
+   "status": "booked",
+   "booking": "chikurinin"
+  },
+  {
+   "type": "head",
+   "text": "Yoshino"
+  },
+  {
+   "type": "stop",
+   "time": "15:00",
+   "end": "16:45",
+   "place": "Y1",
+   "stay": "1 h 45 min",
+   "text": "Ridge street, autumn colour. Sunset ~16:55. Yoshimizu Shrine and Zaō-dō are tomorrow morning; Takagiyama removed (~90 min on foot)."
+  },
+  {
+   "type": "note",
+   "time": "~17:00",
+   "text": "Private bath (kashikiri, ¥3,300 per 50 min; available per the inn), slot chosen at check-in. Public bath 16:00–22:00 and 6:00–9:00."
+  },
+  {
+   "type": "meal",
+   "time": "18:00+",
+   "text": "Dinner at Chikurinin, time chosen at check-in (from 18:00). Only served if checked in by 19:30.",
+   "stay": "1.5 h"
+  },
+  {
+   "type": "note",
+   "text": "Skipped: K24 Tōfuku-ji (doesn't fit the 14:30 shuttle)."
+  }
+ ]
+}

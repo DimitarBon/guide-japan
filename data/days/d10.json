@@ -1,0 +1,381 @@
+{
+ "title": "Market, then Option 1, 3 or 4",
+ "pace": "medium",
+ "stay": "Hanastay Aya, Osaka",
+ "trivia": [
+  "umeda-lift"
+ ],
+ "items": [
+  {
+   "type": "head",
+   "text": "Morning, all options"
+  },
+  {
+   "type": "travel",
+   "time": "~08:30",
+   "mode": "🚇",
+   "text": "Yotsubashi Line Tamade → Daikokuchō (3 stops), exit 1, 3 min walk.",
+   "dur": "~15 min",
+   "cost": "¥240 pp",
+   "est": true
+  },
+  {
+   "type": "stop",
+   "time": "09:00",
+   "end": "10:00",
+   "place": "O15",
+   "stay": "1 h",
+   "text": "Seafood bowl at Kizu Uoichi Shokudō or another market eatery. Cash only; shops close towards 11:00."
+  },
+  {
+   "type": "travel",
+   "mode": "🚇",
+   "text": "Back to Tamade.",
+   "dur": "~15 min",
+   "est": true
+  },
+  {
+   "type": "note",
+   "time": "10:00",
+   "text": "Free time at the stay (~1 h 15 min). Only if the second luggage option was used: collect the suitcases at Nishinari Tamade Post Office (same block; counter Mon–Fri 9:00–17:00; passport + tracking number).",
+   "status": "todo",
+   "booking": "lug-kyoto-osaka"
+  },
+  {
+   "type": "note",
+   "text": "Same slot, Osaka → Haneda option A (not decided): Japan Post Airport Yu-Pack at the same post office, pickup JAL ABC T3 3F on Mon 23. Ask there if parcels can wait at the airport until Mon 23. Then overnight bags only.",
+   "status": "todo",
+   "booking": "lug-osaka-haneda"
+  },
+  {
+   "type": "note",
+   "text": "Afternoon: Option 1, 3 or 4, decided when the time comes. \"Added\" and \"Missing\" compare with the earlier Friday plan (free until ~16:00, Tenjinbashi 16:30, Umeda Sky ~18:15, dinner ~19:45, home ~21:15)."
+  },
+  {
+   "type": "head",
+   "text": "Option 1: old Osaka lunch, cafés, sunset (demanding)"
+  },
+  {
+   "type": "travel",
+   "mode": "🚇",
+   "text": "Yotsubashi Line Tamade → Hommachi, then walk.",
+   "dur": "~20 min",
+   "est": true,
+   "time": "~11:15"
+  },
+  {
+   "type": "stop",
+   "time": "11:40",
+   "end": "12:30",
+   "place": "O17",
+   "stay": "50 min",
+   "text": "Pressed sushi lunch, ~¥3,000. Lunch 11:00–15:00; closed Sat, Sun and holidays, so Fri is its only possible day."
+  },
+  {
+   "type": "travel",
+   "mode": "🚇",
+   "text": "Midōsuji Line Hommachi → Umeda (~5 min), then walk to Nakazakichō (~10 min).",
+   "dur": "~20 min",
+   "est": true,
+   "time": "~12:35"
+  },
+  {
+   "type": "stop",
+   "time": "13:00",
+   "end": "14:10",
+   "place": "O11",
+   "stay": "1 h 10 min",
+   "text": "Pre-war lanes with the cafés open."
+  },
+  {
+   "type": "travel",
+   "mode": "🚇",
+   "text": "Tanimachi Line Nakazakichō → Minami-morimachi, then 5 min walk.",
+   "dur": "~10 min",
+   "est": true,
+   "time": "~14:15"
+  },
+  {
+   "type": "stop",
+   "time": "14:30",
+   "place": "O21",
+   "stay": "20 min",
+   "text": "Coffee at the Tenmangu stand (takeaway; hours not confirmed)."
+  },
+  {
+   "type": "stop",
+   "time": "14:45",
+   "end": "16:15",
+   "place": "O3",
+   "stay": "1 h 30 min",
+   "text": "Walk north along the arcade; snacks."
+  },
+  {
+   "type": "travel",
+   "mode": "🚇",
+   "text": "Tanimachi Line to Higashi-Umeda, then walk to Umeda Sky.",
+   "dur": "~25 min",
+   "est": true,
+   "time": "~16:15"
+  },
+  {
+   "type": "stop",
+   "time": "16:40",
+   "end": "17:40",
+   "place": "O8",
+   "stay": "1 h",
+   "text": "¥2,000. Sunset ~16:55, then city lights."
+  },
+  {
+   "type": "travel",
+   "mode": "🚶",
+   "text": "Walk to Fukushima.",
+   "dur": "~15 min",
+   "est": true,
+   "time": "~17:45"
+  },
+  {
+   "type": "stop",
+   "time": "18:00",
+   "end": "19:45",
+   "place": "O26",
+   "stay": "~1.5 h",
+   "text": "Dinner in Fukushima. Suggestion for chicken skin: O26a Ichiya (book or check its hours).",
+   "alt": [
+    "O26a"
+   ]
+  },
+  {
+   "type": "optional",
+   "place": "O5e",
+   "stay": "1.5–2 h",
+   "text": "Instead of Fukushima, decide on the fly: Kobe beef teppanyaki at LINKS UMEDA, right by Umeda Sky (L.O. 21:30, dinner from ¥12,980).",
+   "status": "todo",
+   "booking": "o5-kobe"
+  },
+  {
+   "type": "travel",
+   "mode": "🚇",
+   "text": "Fukushima → Tamade. Home ~20:15.",
+   "dur": "~30 min",
+   "est": true,
+   "time": "~19:45"
+  },
+  {
+   "type": "note",
+   "text": "Added: O17; O11 with cafés open and 70 min instead of 30; O3 +15 min; O8 at sunset; home ~1 h 15 min earlier."
+  },
+  {
+   "type": "note",
+   "text": "Missing: nothing from the earlier plan. We lose the free gap, and O8 is dusk rather than full night."
+  },
+  {
+   "type": "head",
+   "text": "Option 3: Kobe beef at lunch (medium)"
+  },
+  {
+   "type": "travel",
+   "mode": "🚇",
+   "text": "Yotsubashi Line Tamade → Nishi-Umeda, walk to LINKS Umeda.",
+   "dur": "~15 min + walk",
+   "est": true,
+   "time": "~11:15"
+  },
+  {
+   "type": "stop",
+   "time": "12:00",
+   "end": "13:15",
+   "place": "O5e",
+   "stay": "1 h 15 min",
+   "text": "Kobe beef lunch from ¥5,280. Sources conflict on \"certified\": check its site.",
+   "status": "todo",
+   "booking": "o5-kobe"
+  },
+  {
+   "type": "stop",
+   "time": "13:30",
+   "end": "14:30",
+   "place": "O11",
+   "stay": "1 h",
+   "text": "Pre-war lanes with the cafés open; ~10 min from Umeda."
+  },
+  {
+   "type": "travel",
+   "mode": "🚇",
+   "text": "Tanimachi Line Nakazakichō → Minami-morimachi, then 5 min walk.",
+   "dur": "~10 min",
+   "est": true,
+   "time": "~14:35"
+  },
+  {
+   "type": "stop",
+   "time": "14:45",
+   "place": "O21",
+   "stay": "20 min",
+   "text": "Coffee at the Tenmangu stand (takeaway; hours not confirmed)."
+  },
+  {
+   "type": "stop",
+   "time": "15:00",
+   "end": "16:15",
+   "place": "O3",
+   "stay": "1 h 15 min",
+   "text": "Walk north along the arcade; snacks."
+  },
+  {
+   "type": "travel",
+   "mode": "🚇",
+   "text": "Tanimachi Line to Higashi-Umeda, then walk to Umeda Sky.",
+   "dur": "~25 min",
+   "est": true,
+   "time": "~16:15"
+  },
+  {
+   "type": "stop",
+   "time": "16:40",
+   "end": "17:40",
+   "place": "O8",
+   "stay": "1 h",
+   "text": "¥2,000. Sunset ~16:55, then city lights."
+  },
+  {
+   "type": "travel",
+   "mode": "🚶",
+   "text": "Walk to Fukushima.",
+   "dur": "~15 min",
+   "est": true,
+   "time": "~17:45"
+  },
+  {
+   "type": "stop",
+   "time": "18:00",
+   "end": "19:45",
+   "place": "O26",
+   "stay": "~1.5 h",
+   "text": "Dinner in Fukushima. Suggestion for chicken skin: O26a Ichiya (book or check its hours).",
+   "alt": [
+    "O26a"
+   ]
+  },
+  {
+   "type": "travel",
+   "mode": "🚇",
+   "text": "Fukushima → Tamade. Home ~20:15.",
+   "dur": "~30 min",
+   "est": true,
+   "time": "~19:45"
+  },
+  {
+   "type": "note",
+   "text": "Added: O5 Kobe beef done, about ¥7,700 pp cheaper than dinner; O11 with cafés open; O8 at sunset; Sat 21 dinner free of the Kobe question; home ~1 h 15 min earlier."
+  },
+  {
+   "type": "note",
+   "text": "Missing: O17 (Fri is its only possible day); the Kobe splurge as a dinner, and O5a Techangum becomes unnecessary. Beef and kushikatsu on the same day."
+  },
+  {
+   "type": "head",
+   "text": "Option 4: Katsuō-ji (demanding)"
+  },
+  {
+   "type": "travel",
+   "mode": "🚇",
+   "text": "Yotsubashi Line → Daikokuchō, Midōsuji Line → Minoh-Kayano (check the train goes all the way), Hankyu Bus 30 from stop No. 8 (~25 min, IC or exact cash). Buy onigiri on the way.",
+   "dur": "~1 h 20 min",
+   "est": true,
+   "time": "~11:15",
+   "cost": "¥800 pp bus + metro"
+  },
+  {
+   "type": "stop",
+   "time": "12:35",
+   "end": "14:30",
+   "place": "O22",
+   "stay": "~2 h",
+   "text": "Daruma-filled mountain temple, autumn colour. Last entry 16:30; ¥500 (verify). 📿 stamp.",
+   "stamp": true
+  },
+  {
+   "type": "travel",
+   "mode": "🚇",
+   "text": "Bus back, Midōsuji Line → Umeda, Tanimachi Line → Minami-morimachi.",
+   "dur": "~1 h 15 min",
+   "est": true,
+   "time": "~14:30"
+  },
+  {
+   "type": "stop",
+   "time": "15:50",
+   "place": "O21",
+   "stay": "20 min",
+   "text": "Coffee at the Tenmangu stand (takeaway; hours not confirmed)."
+  },
+  {
+   "type": "stop",
+   "time": "16:30",
+   "end": "17:45",
+   "place": "O3",
+   "stay": "1 h 15 min",
+   "text": "Walk north along the arcade; snacks."
+  },
+  {
+   "type": "optional",
+   "time": "17:50",
+   "place": "O11",
+   "stay": "20 min",
+   "text": "Pre-war lanes; most cafés close early."
+  },
+  {
+   "type": "travel",
+   "mode": "🚇",
+   "text": "Nakazakichō → Higashi-Umeda (Tanimachi Line, 2 min), then walk to Umeda Sky.",
+   "dur": "~15 min",
+   "est": true,
+   "time": "~18:10",
+   "cost": "¥190 pp"
+  },
+  {
+   "type": "stop",
+   "time": "18:15",
+   "end": "19:15",
+   "place": "O8",
+   "stay": "1 h",
+   "text": "¥2,000; rooftop night view."
+  },
+  {
+   "type": "stop",
+   "time": "19:30",
+   "end": "21:00",
+   "place": "O26",
+   "stay": "~1.5 h",
+   "text": "Dinner in Fukushima. Suggestion for chicken skin: O26a Ichiya (book or check its hours).",
+   "alt": [
+    "O26a"
+   ]
+  },
+  {
+   "type": "optional",
+   "place": "O5e",
+   "stay": "1.5–2 h",
+   "text": "Instead of Fukushima, decide on the fly: Kobe beef teppanyaki at LINKS UMEDA, right by Umeda Sky (L.O. 21:30, dinner from ¥12,980).",
+   "status": "todo",
+   "booking": "o5-kobe"
+  },
+  {
+   "type": "travel",
+   "mode": "🚇",
+   "text": "Fukushima → Tamade.",
+   "dur": "~30 min",
+   "est": true,
+   "time": "~21:00"
+  },
+  {
+   "type": "note",
+   "text": "Added: O22, the day's only nature and autumn colour, plus a 📿 stamp."
+  },
+  {
+   "type": "note",
+   "text": "Missing: O17; a sit-down lunch; rest. O11 stays rushed, and O8 misses sunset. About 2 h 35 min of commuting."
+  }
+ ]
+}

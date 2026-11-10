@@ -1,0 +1,761 @@
+{
+ "flights": [
+  {
+   "title": "Outbound: Sofia → Istanbul → Tokyo Haneda",
+   "when": "Mon 9 Nov 21:40 → Tue 10 Nov 19:45 (15 h 5 min)",
+   "legs": [
+    "TK1030 Turkish Airlines, Sofia (SOF) 21:40 → Istanbul (IST) 00:10",
+    "Layover 2 h 20 min in Istanbul, change of plane",
+    "TK198 Turkish Airlines, Istanbul (IST) 02:30 → Tokyo Haneda (HND) 19:45, Tue 10 Nov"
+   ],
+   "notes": "2 adults. Land 19:45, hotel about 22:00 (APA is informed). Getting to the hotel is decided on arrival."
+  },
+  {
+   "title": "Return: Tokyo Haneda → Istanbul → Sofia",
+   "when": "Mon 23 Nov 08:55 → 20:50 (18 h 55 min)",
+   "legs": [
+    "TK8364 (operated by All Nippon Airways), Tokyo Haneda (HND) 08:55 → Istanbul (IST) 16:45",
+    "Layover 3 h 45 min in Istanbul, change of plane",
+    "TK1029 Turkish Airlines, Istanbul (IST) 20:30 → Sofia (SOF) 20:50"
+   ],
+   "notes": "Leave Kc-III ~5:30 (taxi ~¥2,500–3,000). ANA-operated, so probably Terminal 2: confirm on ANA Flight Status on Sat 21. Collect the suitcases at the airport by ~6:00 (see Transfers)."
+  }
+ ],
+ "stays": [
+  {
+   "title": "Tokyo: APA Hotel Asakusa Tawaramachi Ekimae",
+   "when": "Tue 10 → Sat 14 Nov (4 nights)",
+   "address": "Nishiasakusa 1-2-3, Taitō-ku, Tokyo 111-0035",
+   "map": "https://www.google.com/maps/search/?api=1&query=APA%20Hotel%20Asakusa%20Tawaramachi%20Ekimae",
+   "phone": "+81 3 5830 0611",
+   "checkin": "Check-in from 15:00, check-out 10:00",
+   "ref": "Booking.com 9558287875493798588; check-in number 2610310024440367085 (show with passport)",
+   "extra": "Rooftop public bath 6:00–10:00 and 15:00–01:00, free. 1 min to Tawaramachi Stn (Ginza Line), 5 min walk to Kappabashi. Free cancellation until 8 Nov 23:59 (Japan time); €257.56 from 9 Nov; €505.01 from 10 Nov. No changes possible.",
+   "notes": "On arrival ask reception: can they send the suitcases to Kyoto (they only use the post, not Yamato), and phone Tama Sushi for Wed 11."
+  },
+  {
+   "title": "Kyoto: HOTEL TAVINOS Kyoto",
+   "when": "Sat 14 → Wed 18 Nov (4 nights)",
+   "address": "Azuchichō 612 (Kawaramachi-dōri Gojō-agaru), Shimogyō-ku, Kyoto 600-8040",
+   "map": "https://www.google.com/maps/search/?api=1&query=HOTEL%20TAVINOS%20Kyoto",
+   "phone": "+81 75 320 4111",
+   "checkin": "Self check-in machines from 15:00, check-out 11:00. Front door locked 00:00–6:00 (the room key card opens it).",
+   "ref": "Booking.com 8679902396128212992; check-in number A26103018851 (show with passport)",
+   "extra": "Kyoto accommodation tax ~¥400 pp per night may be collected at check-in. Free cancellation until 9 Nov 23:59 (Japan time); €279.67 from 10 Nov; €458.48 from 11 Nov. No changes possible. Accepts parcels before arrival (write the date of stay and guest name on the label). Does not send parcels.",
+   "notes": "The suitcases from Tokyo arrive here on Sat 14 by Japan Post."
+  },
+  {
+   "title": "Yoshino: Chikurinin Gunpoen (竹林院群芳園)",
+   "when": "Wed 18 → Thu 19 Nov (1 night)",
+   "address": "Yoshinoyama 2142, Yoshino-chō, Nara",
+   "map": "https://www.google.com/maps/search/?api=1&query=Chikurinin%20Gunpoen%20Yoshino",
+   "phone": "+81 746 32 8081",
+   "checkin": "Check-in 15:00–18:00 (dinner only if checked in by 19:30), check-out 10:00",
+   "ref": "Booking.com 5477.961.959",
+   "extra": "Japanese-style room (shared toilet), dinner + breakfast, ¥57,540 (~€326). Free shuttle from Yoshino Station at 14:30 (confirmed). Small bags can be left before check-in. Public bath 16:00–22:00 and 6:00–9:00 (most likely heated water, not onsen); private bath ¥3,300 per 50 min (available). Choose the bath slot and the dinner time (from 18:00) at check-in. Free cancellation until 14 Nov 23:59 (Japan time).",
+   "notes": "Small bags only: the suitcases stay in Kyoto/Osaka (see Transfers). Message 1 was sent on 5 Nov."
+  },
+  {
+   "title": "Osaka: Hanastay Aya (花渓居 绫)",
+   "when": "Thu 19 → Sun 22 Nov (3 nights)",
+   "address": "Tamade-naka 2-8-16, Nishinari, Osaka 557-0044",
+   "map": "https://www.google.com/maps/search/?api=1&query=Hanastay%20Aya%20Tamade%20Osaka",
+   "phone": "+81 70 8527 6068",
+   "checkin": "Self check-in from 15:00, check-out 11:00",
+   "ref": "Booking.com 6419.815.191",
+   "extra": "One-bedroom house, 34 m², tatami with 2 futons, kitchen, washing machine, bathtub. €258 (¥45,427 incl. ¥4,000 cleaning fee). 3 min walk to Tamade Stn (Yotsubashi Line). Free cancellation until 17 Nov 23:59 (Japan time); date changes not possible.",
+   "notes": "Message 2 (suitcases) sent on 5 Nov; waiting for the host's answer. We never wait at the house for a delivery."
+  },
+  {
+   "title": "Haneda: Kc-III (last night)",
+   "when": "Sun 22 → Mon 23 Nov (1 night)",
+   "address": "Higashi-Kōjiya 5-16-20, Ōta-ku, Tokyo 144-0033",
+   "map": "https://www.google.com/maps/search/?api=1&query=Higashi-Koujiya%205-16-20%20Ota-ku%20Tokyo",
+   "phone": "+81 3 6778 7790",
+   "checkin": "Self check-in 16:00–22:00 only (send the arrival time in advance), check-out 10:00. Quiet hours 21:00–8:00.",
+   "ref": "Booking.com 5402.306.538",
+   "extra": "One-bedroom apartment, 31 m², double bed + sofa bed, bathtub, kitchen, washing machine. €80 / ¥14,040 incl. VAT. 9 min walk to Ōtorii Stn (Keikyū Airport Line, ~7 min to Haneda T1/T2). Free cancellation until 7 Nov 23:59 (Japan time); ¥7,020 from 8 Nov; ¥14,040 from 23 Nov.",
+   "notes": "Unmanned, so it probably can't receive parcels. Arrival ~17:30 on Sun 22."
+  }
+ ],
+ "transfers": [
+  {
+   "title": "Tokyo → Himeji (→ Kyoto)",
+   "when": "Sat 14 Nov, 06:06 → 09:00",
+   "how": "Shinkansen Nozomi 111, Green Car, car 10, seats 13-C and 13-D (Fuji side). smartEX reservation 2000, ¥45,280 for two. QR ticket on the smartEX site; take the Seat Information slip at the gate. Leave the hotel ~5:20.",
+   "luggage": "Suitcases go ahead to HOTEL TAVINOS Kyoto by Japan Post (APA if they can, otherwise Asakusa Post Office on Thu 12 ~17:45; delivery Sat 14). Day bags only.",
+   "notes": "Himeji → Kyoto is not booked yet: reserve on smartEX by Fri 13 (tour ends 12:30, Kōko-en after, train about 14:15)."
+  },
+  {
+   "title": "Kyoto → Osaka suitcases",
+   "when": "Tue 17 ~9:00 hand-in, collect Thu 19 ~18:30 (or Fri 20 morning)",
+   "how": "First option: Yamato hold. Hand in at Yamato Shimogyo Center (Gojo Karasuma; Oe-cho 556, Matsubara, Higashitoin-dori), held at Yamato Namba Station Center (4-4-4 Namba). Collect Thu 19 ~18:30 with passport and tracking number (handover until 20:00 per Yamato's list). Second option, if Yamato refuses: Japan Post Yu-Pack at Yanagibaba-Matsubara Post Office (counter opens 9:00), held at Nishinari Tamade Post Office (Tamade-naka 2-10-17); collect Fri 20 morning.",
+   "luggage": "We travel to Yoshino and Nara with small bags only. No waiting at any apartment.",
+   "notes": "At the Kyoto counter ask that the Namba office accepts the hold, the price (about ¥4,700 for both) and the exact address line."
+  },
+  {
+   "title": "Kyoto → Fushimi Inari → Uji → Yoshino",
+   "when": "Wed 18 Nov, 5:35 → 14:21 (shuttle 14:30)",
+   "how": "Keihan Kiyomizu-Gojō 5:49 → Fushimi-Inari 5:56; JR Inari 8:33 → Uji 8:50; after the tea ceremony JR Uji 11:52 → Nara 12:21 → Ōji 13:07 → Yoshinoguchi 13:42, Kintetsu Yoshinoguchi 13:48 → Yoshino 14:21. Uji → Yoshino ¥1,630 each. The Wakayama Line showed an operations notice: check on the day. Chikurinin shuttle from Yoshino Station at 14:30.",
+   "luggage": "Small bags only.",
+   "notes": "Taihō-an tea ceremony is fixed at 11:00 (RSV_261118_16)."
+  },
+  {
+   "title": "Yoshino → Nara → Osaka",
+   "when": "Thu 19 Nov, ropeway ~9:45 → Osaka-Namba ~18:30",
+   "how": "Ropeway Yoshinoyama → Senbonguchi (~¥500, cash). Kintetsu Yoshino 10:07 → Kashiharajingu-mae; limited express 11:07 → Yamato-Saidaiji 11:27; Nara Line 11:34 → Kintetsu-Nara 11:40 (¥1,550 each with the limited express). Back: Kintetsu-Nara 17:47 → Osaka-Namba ~18:30 (~¥680). Then Yotsubashi Line Namba → Tamade (¥240) and 3 min walk.",
+   "luggage": "Collect the 2 suitcases at Yamato Namba Station Center on arrival (first option).",
+   "notes": "Train times are from Jorudan: verify on the day. Regular Kintetsu and JR local trains need no booking (tap Suica)."
+  },
+  {
+   "title": "Osaka → Haneda",
+   "when": "Sun 22 Nov, Nozomi 416 14:21 → 16:43",
+   "how": "Metro Tamade → Daikokuchō → Shin-Osaka (29 min, ¥290). Nozomi 416, car 14, seats 17-D and 17-E (Fuji side), smartEX reservation 2001, ¥29,440 for two. Shinagawa: Keikyū Rapid-Limited Express 17:00 → Keikyū-Kamata 17:06 (¥230), Airport Line to Ōtorii, 9 min walk to Kc-III.",
+   "luggage": "Not decided. Option A: Japan Post Airport Yu-Pack from Tamade Post Office on Fri 20 (about ¥6,670 for both), pickup JAL ABC counter, T3 3F. Option B/C: Yamato Airport TA-Q-BIN from Yamato Namba Station Center on Sat 21 (about ¥7,260), pickup T2 3F (5:45–23:00) or T3 2F (6:00–23:00). Overnight bags only from the hand-in.",
+   "notes": "Ask at a Japan Post office if the suitcases can wait at the airport until Mon 23. Check the TK8364 terminal on ANA Flight Status on Sat 21."
+  },
+  {
+   "title": "Kc-III → Haneda airport",
+   "when": "Mon 23 Nov, leave ~5:30",
+   "how": "Taxi to the terminal, ~¥2,500–3,000 (first train not verified). Terminal 2 expected for TK8364.",
+   "luggage": "Collect the suitcases by ~6:00 with the receipt and passport. Free terminal bus T3 → T1 → T2 if needed (first 4:47, every 4 min from 5:00).",
+   "notes": "Flight 08:55. The ANA check-in counter opening time is not verified."
+  }
+ ],
+ "phrases": [
+  {
+   "group": "Basics",
+   "en": "Excuse me / Sorry",
+   "jp": "すみません",
+   "say": "sumimasen",
+   "use": "To call staff, get past someone, or apologise. The most useful word of the trip."
+  },
+  {
+   "group": "Basics",
+   "en": "Thank you (very much)",
+   "jp": "ありがとうございます",
+   "say": "arigatō gozaimasu",
+   "use": "After any service, a meal or help."
+  },
+  {
+   "group": "Basics",
+   "en": "Hello / Good morning",
+   "jp": "こんにちは / おはようございます",
+   "say": "konnichiwa / ohayō gozaimasu",
+   "use": "Entering a shop, a guesthouse or a small restaurant."
+  },
+  {
+   "group": "Basics",
+   "en": "Good evening",
+   "jp": "こんばんは",
+   "say": "konbanwa",
+   "use": "After dark, instead of konnichiwa."
+  },
+  {
+   "group": "Basics",
+   "en": "Goodbye / see you",
+   "jp": "さようなら / では、また",
+   "say": "sayōnara / dewa, mata",
+   "use": "Sayōnara is quite final. Dewa, mata is the everyday one."
+  },
+  {
+   "group": "Basics",
+   "en": "Yes / No",
+   "jp": "はい / いいえ",
+   "say": "hai / iie",
+   "use": "Hai also means 'I hear you', not always 'I agree'."
+  },
+  {
+   "group": "Basics",
+   "en": "Please (asking for something)",
+   "jp": "お願いします",
+   "say": "onegaishimasu",
+   "use": "Add it to anything, or just point and say it."
+  },
+  {
+   "group": "Basics",
+   "en": "Do you speak English?",
+   "jp": "英語は話せますか？",
+   "say": "eigo wa hanasemasu ka?",
+   "use": "Before a longer question."
+  },
+  {
+   "group": "Basics",
+   "en": "I don't understand",
+   "jp": "わかりません",
+   "say": "wakarimasen",
+   "use": "Polite and enough on its own."
+  },
+  {
+   "group": "Basics",
+   "en": "Please say it once more",
+   "jp": "もう一度お願いします",
+   "say": "mō ichido onegaishimasu",
+   "use": "When you missed it."
+  },
+  {
+   "group": "Basics",
+   "en": "Sorry, I only speak a little Japanese",
+   "jp": "日本語は少しだけです",
+   "say": "nihongo wa sukoshi dake desu",
+   "use": "A good answer after someone starts talking quickly."
+  },
+  {
+   "group": "Restaurant and drinks",
+   "en": "Two people, please",
+   "jp": "二人です",
+   "say": "futari desu",
+   "use": "At the door of a restaurant. Show two fingers too."
+  },
+  {
+   "group": "Restaurant and drinks",
+   "en": "We have a reservation",
+   "jp": "予約しています",
+   "say": "yoyaku shite imasu",
+   "use": "Then give your name."
+  },
+  {
+   "group": "Restaurant and drinks",
+   "en": "Is there a non-smoking seat?",
+   "jp": "禁煙席はありますか？",
+   "say": "kin'en-seki wa arimasu ka?",
+   "use": "Some small izakaya still allow smoking."
+  },
+  {
+   "group": "Restaurant and drinks",
+   "en": "Menu, please",
+   "jp": "メニューをください",
+   "say": "menyū o kudasai",
+   "use": "Ask for an English menu: 'eigo no menyū'."
+  },
+  {
+   "group": "Restaurant and drinks",
+   "en": "Is there an English menu?",
+   "jp": "英語のメニューはありますか？",
+   "say": "eigo no menyū wa arimasu ka?",
+   "use": "Before you try to read the wall."
+  },
+  {
+   "group": "Restaurant and drinks",
+   "en": "Before eating",
+   "jp": "いただきます",
+   "say": "itadakimasu",
+   "use": "Said before the first bite, hands together. Ee-TAH-dah-kee-mahss."
+  },
+  {
+   "group": "Restaurant and drinks",
+   "en": "Excuse me, we would like to order",
+   "jp": "すみません、注文お願いします",
+   "say": "sumimasen, chūmon onegaishimasu",
+   "use": "How to call staff and order: raise a hand, and say it clearly. Many tables also have a call button."
+  },
+  {
+   "group": "Restaurant and drinks",
+   "en": "Can I order?",
+   "jp": "注文してもいいですか？",
+   "say": "chūmon shite mo ii desu ka?",
+   "use": "When someone is close by and looks free."
+  },
+  {
+   "group": "Restaurant and drinks",
+   "en": "This one, please",
+   "jp": "これをください",
+   "say": "kore o kudasai",
+   "use": "Point at the dish or the item."
+  },
+  {
+   "group": "Restaurant and drinks",
+   "en": "This and this, please",
+   "jp": "これとこれをお願いします",
+   "say": "kore to kore o onegaishimasu",
+   "use": "Point on the menu as you say each one."
+  },
+  {
+   "group": "Restaurant and drinks",
+   "en": "One of this, please",
+   "jp": "これを一つお願いします",
+   "say": "kore o hitotsu onegaishimasu",
+   "use": "Numbers: hitotsu 1, futatsu 2, mittsu 3."
+  },
+  {
+   "group": "Restaurant and drinks",
+   "en": "A beer, please",
+   "jp": "ビールをお願いします",
+   "say": "bīru o onegaishimasu",
+   "use": "Any beer."
+  },
+  {
+   "group": "Restaurant and drinks",
+   "en": "Two draft beers, please",
+   "jp": "生ビールを二つお願いします",
+   "say": "nama bīru o futatsu onegaishimasu",
+   "use": "Nama means draft. Hold up two fingers."
+  },
+  {
+   "group": "Restaurant and drinks",
+   "en": "Draft beer to start with!",
+   "jp": "とりあえず生で！",
+   "say": "toriaezu nama de!",
+   "use": "The classic izakaya first line: the drink comes while you read the menu."
+  },
+  {
+   "group": "Restaurant and drinks",
+   "en": "One more, please",
+   "jp": "おかわりお願いします",
+   "say": "okawari onegaishimasu",
+   "use": "A refill of the same drink or rice."
+  },
+  {
+   "group": "Restaurant and drinks",
+   "en": "Water, please",
+   "jp": "お水をください",
+   "say": "omizu o kudasai",
+   "use": "Often free, and sometimes self-service."
+  },
+  {
+   "group": "Restaurant and drinks",
+   "en": "What is this?",
+   "jp": "これは何ですか？",
+   "say": "kore wa nan desu ka?",
+   "use": "Point at the dish."
+  },
+  {
+   "group": "Restaurant and drinks",
+   "en": "What do you recommend?",
+   "jp": "おすすめは何ですか？",
+   "say": "osusume wa nan desu ka?",
+   "use": "At a counter or a small place where the chef decides."
+  },
+  {
+   "group": "Restaurant and drinks",
+   "en": "Chef's choice",
+   "jp": "おまかせ",
+   "say": "omakase",
+   "use": "At a sushi counter."
+  },
+  {
+   "group": "Restaurant and drinks",
+   "en": "No wasabi, please",
+   "jp": "わさび抜きでお願いします",
+   "say": "wasabi nuki de onegaishimasu",
+   "use": "Replace wasabi with any ingredient: \"... nuki de\"."
+  },
+  {
+   "group": "Restaurant and drinks",
+   "en": "Cheers!",
+   "jp": "乾杯",
+   "say": "kanpai",
+   "use": "Drinks."
+  },
+  {
+   "group": "Restaurant and drinks",
+   "en": "Delicious!",
+   "jp": "おいしい！",
+   "say": "oishii",
+   "use": "To the cook, with a nod."
+  },
+  {
+   "group": "Restaurant and drinks",
+   "en": "It was delicious",
+   "jp": "おいしかったです",
+   "say": "oishikatta desu",
+   "use": "When leaving or paying."
+  },
+  {
+   "group": "Restaurant and drinks",
+   "en": "What time is last order?",
+   "jp": "ラストオーダーは何時ですか？",
+   "say": "rasuto ōdā wa nanji desu ka?",
+   "use": "Often 30–60 minutes before closing."
+  },
+  {
+   "group": "Restaurant and drinks",
+   "en": "The bill, please",
+   "jp": "お会計お願いします",
+   "say": "okaikei onegaishimasu",
+   "use": "Say \"sumimasen\" first. Many places pay at the register, not at the table: take the slip there."
+  },
+  {
+   "group": "Restaurant and drinks",
+   "en": "Can I pay by card?",
+   "jp": "カードで払えますか？",
+   "say": "kādo de haraemasu ka?",
+   "use": "Markets, small restaurants and temples are often cash only."
+  },
+  {
+   "group": "Restaurant and drinks",
+   "en": "Thank you for the meal (after)",
+   "jp": "ごちそうさまでした",
+   "say": "gochisōsama deshita",
+   "use": "When leaving a restaurant."
+  },
+  {
+   "group": "Restaurant and drinks",
+   "en": "I have an allergy / I can't eat ...",
+   "jp": "…が食べられません",
+   "say": "... ga taberaremasen",
+   "use": "Show the written word on the phone. Audio example: \"I can't eat shrimp.\""
+  },
+  {
+   "group": "Shops and temples",
+   "en": "How much is it?",
+   "jp": "いくらですか？",
+   "say": "ikura desu ka?",
+   "use": "Markets and shops."
+  },
+  {
+   "group": "Shops and temples",
+   "en": "I'm just looking",
+   "jp": "見ているだけです",
+   "say": "mite iru dake desu",
+   "use": "If the staff come to help."
+  },
+  {
+   "group": "Shops and temples",
+   "en": "I don't need a bag",
+   "jp": "袋はいりません",
+   "say": "fukuro wa irimasen",
+   "use": "Bags cost a few yen."
+  },
+  {
+   "group": "Shops and temples",
+   "en": "Is it tax-free?",
+   "jp": "免税できますか？",
+   "say": "menzei dekimasu ka?",
+   "use": "Have your passport ready. Minimum ¥5,000 before tax."
+  },
+  {
+   "group": "Shops and temples",
+   "en": "Do you have Ginsan steel?",
+   "jp": "銀三はありますか？",
+   "say": "ginsan wa arimasu ka?",
+   "use": "Kappabashi knife shops."
+  },
+  {
+   "group": "Shops and temples",
+   "en": "Can you engrave my name?",
+   "jp": "名入れはできますか？",
+   "say": "na-ire wa dekimasu ka?",
+   "use": "Kappabashi. It can take 1–3 days."
+  },
+  {
+   "group": "Shops and temples",
+   "en": "Can I take a photo?",
+   "jp": "写真を撮ってもいいですか？",
+   "say": "shashin o totte mo ii desu ka?",
+   "use": "In shops, on tours and always before photographing a person. Never photograph geiko or maiko without asking."
+  },
+  {
+   "group": "Shops and temples",
+   "en": "A temple stamp, please",
+   "jp": "御朱印をお願いします",
+   "say": "goshuin o onegaishimasu",
+   "use": "At the stamp desk (御朱印 / 納経所), after praying. Hand over your book, open."
+  },
+  {
+   "group": "Getting around",
+   "en": "Where is the toilet?",
+   "jp": "トイレはどこですか？",
+   "say": "toire wa doko desu ka?",
+   "use": "Anywhere."
+  },
+  {
+   "group": "Getting around",
+   "en": "Where is ... station?",
+   "jp": "...駅はどこですか？",
+   "say": "... eki wa doko desu ka?",
+   "use": "Show the name on the phone if the answer is long. Audio example: Kyoto Station."
+  },
+  {
+   "group": "Getting around",
+   "en": "Does this train go to ...?",
+   "jp": "この電車は…に行きますか？",
+   "say": "kono densha wa ... ni ikimasu ka?",
+   "use": "On the platform. Audio example: Nara."
+  },
+  {
+   "group": "Getting around",
+   "en": "To this place, please",
+   "jp": "ここまでお願いします",
+   "say": "koko made onegaishimasu",
+   "use": "Taxi: show the address on the phone."
+  },
+  {
+   "group": "Getting around",
+   "en": "I'm lost",
+   "jp": "道に迷いました",
+   "say": "michi ni mayoimashita",
+   "use": "Show the map."
+  },
+  {
+   "group": "Stays and luggage",
+   "en": "Check-in / luggage hold",
+   "jp": "チェックイン / 荷物を預けたい",
+   "say": "chekku-in / nimotsu o azuketai",
+   "use": "At a hotel or a Yamato counter. For takkyūbin held at an office: 営業所止め (eigyōsho-dome)."
+  },
+  {
+   "group": "Stays and luggage",
+   "en": "I would like to send this suitcase",
+   "jp": "このスーツケースを送りたいです",
+   "say": "kono sūtsukēsu o okuritai desu",
+   "use": "At a post office or Yamato counter."
+  },
+  {
+   "group": "Stays and luggage",
+   "en": "Hold at the Yamato office, please",
+   "jp": "営業所止めでお願いします",
+   "say": "eigyōsho-dome de onegaishimasu",
+   "use": "Yamato Shimogyo, Tue 17."
+  },
+  {
+   "group": "Stays and luggage",
+   "en": "Hold at the post office, please",
+   "jp": "局留めでお願いします",
+   "say": "kyoku-dome de onegaishimasu",
+   "use": "Japan Post second option."
+  },
+  {
+   "group": "Emergency",
+   "en": "I feel unwell",
+   "jp": "気分が悪いです",
+   "say": "kibun ga warui desu",
+   "use": "Tell staff or anyone close by."
+  },
+  {
+   "group": "Emergency",
+   "en": "Where is a hospital?",
+   "jp": "病院はどこですか？",
+   "say": "byōin wa doko desu ka?",
+   "use": "Or ask the hotel reception."
+  },
+  {
+   "group": "Emergency",
+   "en": "Please help me",
+   "jp": "助けてください",
+   "say": "tasukete kudasai",
+   "use": "Emergencies."
+  },
+  {
+   "group": "Emergency",
+   "en": "Call an ambulance / the police",
+   "jp": "救急車 / 警察を呼んでください",
+   "say": "kyūkyūsha / keisatsu o yonde kudasai",
+   "use": "Or dial 119 / 110 yourself."
+  }
+ ],
+ "emergency": [
+  {
+   "what": "Police",
+   "number": "110"
+  },
+  {
+   "what": "Ambulance and fire",
+   "number": "119"
+  },
+  {
+   "what": "Coast Guard (sea)",
+   "number": "118"
+  },
+  {
+   "what": "Non-urgent medical advice (Tokyo)",
+   "number": "#7119"
+  },
+  {
+   "what": "Japan Visitor Hotline (JNTO, 24 h, English)",
+   "number": "050-3816-2787 (from abroad +81 50 3816 2787)"
+  },
+  {
+   "what": "Bulgarian Embassy, Tokyo (Yoyogi 5-36-3, Shibuya-ku)",
+   "number": "+81 3 3465 1021 to 1024"
+  },
+  {
+   "what": "Bulgarian Embassy out-of-hours emergency (EU consular page; verify before the trip)",
+   "number": "+81 80 7966 5608"
+  },
+  {
+   "what": "Emergency calls are free from any phone. Say 'kyūkyū' (ambulance) or 'jiko / keisatsu' and your address.",
+   "number": ""
+  },
+  {
+   "what": "Your travel insurance 24 h number: add before departure",
+   "number": "—"
+  }
+ ],
+ "packing": [
+  {
+   "item": "Passports (valid for the whole trip) and printed or offline copies of the bookings",
+   "why": "Hotels ask for passports at check-in; phone batteries die."
+  },
+  {
+   "item": "Clean socks without holes",
+   "why": "Shoes come off at Himeji Castle, temples and the Yoshino lodging."
+  },
+  {
+   "item": "Slip-on, comfortable walking shoes",
+   "why": "Shoes come off many times a day, and we walk 15,000+ steps on most days."
+  },
+  {
+   "item": "Layers: light fleece or sweater, packable jacket, a scarf",
+   "why": "Mid-November is 5–17 °C, cold mornings at 6:00–7:00 (Kyoto, Yoshino) and warm midday sun."
+  },
+  {
+   "item": "Compact umbrella or light rain jacket",
+   "why": "Showers are possible; Takao on Fri 13 is decided by the weather."
+  },
+  {
+   "item": "Cash in yen (a pouch for coins)",
+   "why": "Markets, Chanko Kawasaki, Kizu Market, ropeway, many temples and small restaurants are cash only."
+  },
+  {
+   "item": "Cards that work abroad, plus an IC card (Suica / ICOCA on the phone)",
+   "why": "Metro, buses, konbini and most trains: tap."
+  },
+  {
+   "item": "Power bank and short charging cables",
+   "why": "Maps, tickets and QR codes all live on the phone."
+  },
+  {
+   "item": "Plug adapter type A (Japan is 100 V)",
+   "why": "Bulgarian plugs do not fit; check chargers for 100–240 V."
+  },
+  {
+   "item": "eSIM or roaming plan",
+   "why": "Maps, translation, smartEX QR tickets and timetable checks."
+  },
+  {
+   "item": "Small hand towel or handkerchief",
+   "why": "Many public toilets have no towels or dryers."
+  },
+  {
+   "item": "Tissues and a small bag for rubbish",
+   "why": "Few public bins; carry rubbish until the hotel or a konbini."
+  },
+  {
+   "item": "Small gifts or a thank-you item (optional)",
+   "why": "For hosts and guides who helped."
+  },
+  {
+   "item": "Goshuin book (buy at Nezu Shrine on Wed 11)",
+   "why": "Collecting temple and shrine stamps along the route."
+  },
+  {
+   "item": "Compact day bag or backpack",
+   "why": "Day bags only on Sat 14 (Himeji), Wed 18–Thu 19 (Yoshino, Nara)."
+  },
+  {
+   "item": "Medication and a basic first-aid kit",
+   "why": "Pharmacies are easy to find, but some medicines common in Europe are restricted: check the Japan rules before you pack them."
+  },
+  {
+   "item": "Laundry sachets or a small detergent",
+   "why": "Washing machines at Aya and Kc-III."
+  },
+  {
+   "item": "Foldable bag for souvenirs and knife purchases",
+   "why": "Kappabashi knives go in the checked bags only, never in the cabin."
+  },
+  {
+   "item": "Earplugs and a sleep mask",
+   "why": "Overnight flight out, thin walls in the Yoshino lodging."
+  },
+  {
+   "item": "Face masks (optional)",
+   "why": "Many locals wear them in crowded trains."
+  }
+ ],
+ "checklist": [
+  {
+   "id": "apa-cancel",
+   "task": "APA Tokyo: free cancellation ends 8 Nov 23:59 (Japan time). Keep the booking or decide before then."
+  },
+  {
+   "id": "kc3-cancel",
+   "task": "Kc-III Haneda: free cancellation ends 7 Nov 23:59 (Japan time); ¥7,020 from 8 Nov. Keep it or decide now."
+  },
+  {
+   "id": "tavinos-cancel",
+   "task": "HOTEL TAVINOS Kyoto: free cancellation ends 9 Nov 23:59 (Japan time)."
+  },
+  {
+   "id": "chikurinin-cancel",
+   "task": "Chikurinin Yoshino: free cancellation ends 14 Nov 23:59; Hanastay Aya ends 17 Nov 23:59."
+  },
+  {
+   "id": "passports",
+   "task": "Passports valid and packed; Visit Japan Web done (immigration and customs QR codes saved)."
+  },
+  {
+   "id": "checkin-online",
+   "task": "Online check-in for TK1030 and TK198 (opens 24 h before departure); for TK8364 / TK1029 on Sun 22."
+  },
+  {
+   "id": "insurance",
+   "task": "Travel insurance bought; the 24 h number and policy number saved in the Emergency section and on the phone."
+  },
+  {
+   "id": "esim",
+   "task": "eSIM or roaming active; offline maps for Tokyo, Kyoto, Yoshino, Osaka downloaded."
+  },
+  {
+   "id": "suica",
+   "task": "Suica / ICOCA added to the phone wallet and topped up."
+  },
+  {
+   "id": "cash",
+   "task": "Yen cash ordered or planned for the first days; cards checked for foreign use."
+  },
+  {
+   "id": "smartex",
+   "task": "smartEX: Nozomi 111 and 416 QR tickets saved offline; Himeji → Kyoto to be reserved by Fri 13."
+  },
+  {
+   "id": "messages-answers",
+   "task": "Reply from Hanastay Aya (suitcases): check and answer. Chikurinin answered (shuttle, bags, bath, dinner)."
+  },
+  {
+   "id": "kc3-arrival",
+   "task": "Kc-III: arrival time (~17:30 on Sun 22) sent."
+  },
+  {
+   "id": "luggage-plan",
+   "task": "Luggage: ask APA on arrival; Thu 12 ~17:45 Asakusa Post Office if needed; Tue 17 ~9:00 Yamato Shimogyo Center. Osaka → Haneda option still to decide."
+  },
+  {
+   "id": "tama-sushi",
+   "task": "Tue 10 arrival: ask APA reception to phone Tama Sushi (dinner on Wed 11? ~17:30). Backups T24b / T24c."
+  },
+  {
+   "id": "unatetsu",
+   "task": "Book Shinjuku Unatetsu for Fri 13, 16:30, 2 people (Wed 11 or Thu 12; Ikyu, 100% cancellation fee)."
+  },
+  {
+   "id": "takao-weather",
+   "task": "Thu 12 evening: decide Takao (Option A) or the rain day (Option B) from the forecast."
+  },
+  {
+   "id": "restaurants-decide",
+   "task": "Decide and book by Wed 18: Kobe beef (O5a / O5e), fugu lunch (O19), Tsukinone (O25), Kyoto dinners (K11, K15, K16)."
+  },
+  {
+   "id": "osaka-guide",
+   "task": "Confirm the Osaka Castle volunteer guide (Fri 20 13:00) when the confirmation arrives; agree the meeting point."
+  },
+  {
+   "id": "tenryuji",
+   "task": "Sat 14: check tenryuji.com for the early opening (7:30) on Sun 15."
+  },
+  {
+   "id": "terminal",
+   "task": "Sat 21: check the terminal for TK8364 on ANA Flight Status (probably T2)."
+  },
+  {
+   "id": "wakayama",
+   "task": "Wed 18 morning: check the JR Wakayama Line operations notice."
+  },
+  {
+   "id": "packed",
+   "task": "Pack the suitcases (150 cm and 137 cm) and day bags; check the size limits (158 cm on Turkish and ANA)."
+  }
+ ]
+}

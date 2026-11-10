@@ -1,0 +1,1214 @@
+{
+ "toranaga-ieyasu": {
+  "title": "Toranaga is Tokugawa Ieyasu",
+  "summary": "The Shōgun hero is based on the man who unified Japan. Find armour from his era in the museum.",
+  "detail": [
+   "Lord Toranaga in Shōgun is modelled on Tokugawa Ieyasu (1543–1616). Other matches: Blackthorne = William Adams, Ishido = Ishida Mitsunari, Mariko ≈ Hosokawa Gracia, the Taikō = Toyotomi Hideyoshi.",
+   "Ieyasu won the Battle of Sekigahara in 1600 and became shogun in 1603. His family ruled Japan from Edo (today's Tokyo) until 1868.",
+   "The museum stands on land of Kan'ei-ji, the Tokugawa family temple, built in 1625 to guard the north-east of Edo Castle, the direction believed to let in evil."
+  ],
+  "check": "Tokyo National Museum, Honkan rooms 5–6 (2nd floor): look for armour from the late 1500s and early 1600s (Momoyama and early Edo periods). Displays rotate, so a piece owned by Ieyasu himself may not be out.",
+  "places": [
+   "T3",
+   "K4",
+   "O1"
+  ]
+ },
+ "sekigahara": {
+  "title": "Sekigahara, 1600",
+  "summary": "One battle decided who ruled Japan for the next ~250 years.",
+  "detail": [
+   "On 21 October 1600, about 160,000 samurai met at Sekigahara, a valley in today's Gifu Prefecture: Ieyasu's Eastern Army against the Western Army led by Ishida Mitsunari (Ishido in Shōgun).",
+   "The battle turned in a few hours when Kobayakawa Hideaki switched sides and attacked the Western Army.",
+   "Ieyasu became shogun in 1603. The Tokugawa shogunate lasted until the Meiji Restoration of 1868, about 265 years of peace known as the Edo period.",
+   "After the battle Ieyasu rewarded his allies with land: Himeji went to his son-in-law Ikeda Terumasa, who built the castle we see on Sat 14."
+  ],
+  "check": "Linked across the trip: the museum armour (Wed 11), Himeji Castle (Sat 14), Nijō Castle (Sun 15) and Osaka Castle (Sat 21).",
+  "places": [
+   "T3",
+   "K21",
+   "K4",
+   "O1"
+  ]
+ },
+ "matcha-bowl": {
+  "title": "Turn the bowl before you drink",
+  "summary": "In a tea ceremony you turn the matcha bowl so you don't drink from its front.",
+  "detail": [
+   "Every tea bowl has a 'front' (shōmen): its most beautiful side, which the host turns towards the guest.",
+   "Out of modesty the guest turns the bowl about a quarter, usually clockwise twice, so as not to drink from the front, then turns it back before returning it.",
+   "Usucha (thin tea) is frothy and served one bowl per guest; koicha (thick tea) is kneaded and shared from one bowl.",
+   "Matcha is ground tencha: the bushes are shaded for ~3 weeks before harvest, and a stone mill grinds only ~40 g an hour."
+  ],
+  "check": "At Nakajima no Ochaya (Thu 12) and at the Taihō-an tea ceremony in Uji (Wed 18).",
+  "places": [
+   "T27",
+   "K18"
+  ]
+ },
+ "chasen-takayama": {
+  "title": "The whisk comes from one village",
+  "summary": "Over 90% of Japan's bamboo tea whisks are made in Takayama, Ikoma (Nara).",
+  "detail": [
+   "The chasen is carved from a single piece of bamboo, split into up to 100 or more fine tines.",
+   "Takayama in Ikoma city has made whisks for about 500 years; the craft is passed down in a few families.",
+   "Look at the whisk you get with your matcha and count the tines."
+  ],
+  "check": "At the teahouse in Hamarikyū (Thu 12) and Taihō-an (Wed 18).",
+  "places": [
+   "T27",
+   "K18"
+  ]
+ },
+ "vending-machines": {
+  "title": "Count the vending machines",
+  "summary": "Japan has fewer drink machines than ever, and still about 1.95 million.",
+  "detail": [
+   "In 2025 Japan had about 1.95 million soft-drink vending machines, the first time below 2 million since 1994.",
+   "The peak was about 2.47 million in 2014; rising prices and convenience stores have cut the number since.",
+   "That is still roughly one drink machine for every 60 people. Many sell hot drinks in winter: look for the red 'あたたかい' (warm) labels."
+  ],
+  "check": "Count them on the walk to Takao's cable car or around Shinjuku (Fri 13). Try a hot can.",
+  "places": []
+ },
+ "adams-anjin": {
+  "title": "Anjin: the Englishman who became a samurai",
+  "summary": "William Adams, the real Blackthorne, lived in Tokyo; 'anjin' means pilot.",
+  "detail": [
+   "William Adams reached Japan in 1600 as pilot of the Dutch ship Liefde, the first Englishman in Japan.",
+   "Ieyasu made him an adviser and a samurai with the name Miura Anjin: 'anjin' means pilot or navigator.",
+   "His Edo house stood in today's Nihonbashi Muromachi; the street was called Anjin-chō, marked by a small plaque.",
+   "He met Ieyasu first in Osaka in 1600 (Osaka Castle, Sat 21)."
+  ],
+  "check": "Anjin-chō plaque next to Mitsukoshi Nihombashi (Fri 13, Option B).",
+  "places": [
+   "T15",
+   "O1"
+  ]
+ },
+ "himeji-terumasa": {
+  "title": "Himeji was a reward for Sekigahara",
+  "summary": "Ieyasu gave Himeji to his son-in-law, who built the keep you climb today.",
+  "detail": [
+   "Ikeda Terumasa fought for Ieyasu at Sekigahara (1600) and was married to Ieyasu's daughter Tokuhime. As a reward he received the Harima domain, worth about 520,000 koku of rice.",
+   "He rebuilt Hideyoshi's smaller castle into the present complex between 1601 and 1609. The keep was meant to watch the western daimyō, many of whom had fought against Ieyasu.",
+   "Later Ieyasu's granddaughter Senhime, widow of Hideyori (Hideyoshi's son), married into the Honda family and lived in the Nishi-no-maru; the Hyakken corridor was her household's wing."
+  ],
+  "check": "In the Nishi-no-maru corridor, look for the panels on Senhime. In the keep, find the two great central pillars (east and west).",
+  "places": [
+   "K21"
+  ]
+ },
+ "himeji-okiku": {
+  "title": "The ghost in Okiku's Well",
+  "summary": "A maid accused of losing a precious plate haunts a well inside the castle.",
+  "detail": [
+   "In the Banshū Sarayashiki story, the servant Okiku is falsely accused of losing one of ten treasured plates and thrown into a well.",
+   "Each night her ghost counts the plates: 'one, two… nine', and screams at the missing tenth.",
+   "The well in the castle grounds is linked to the story. It is one of Japan's most famous ghost tales and inspired many later stories."
+  ],
+  "check": "Find Okiku's Well (Okiku-ido) near the Bizen-maru on the way to the keep; the guide usually stops there.",
+  "places": [
+   "K21"
+  ]
+ },
+ "nightingale-floors": {
+  "title": "Floors that sing to warn of intruders",
+  "summary": "Nijō's corridors chirp under every step, so nobody can sneak up on the shogun.",
+  "detail": [
+   "The 'uguisu-bari' floors chirp like a Japanese bush warbler (uguisu) when you walk on them.",
+   "Iron clamps under the boards rub against the nails as the boards move, making the sound.",
+   "It is often told as an anti-ninja alarm. Some historians think the sound may first have come from wear, then been kept and celebrated."
+  ],
+  "check": "In the Ninomaru Palace corridor, try to walk silently: it is almost impossible.",
+  "places": [
+   "K4"
+  ]
+ },
+ "kodaiji-ieyasu": {
+  "title": "Ieyasu paid for his rival's widow's temple",
+  "summary": "Kōdai-ji honours Hideyoshi, but much of it was paid for by the man who took his place.",
+  "detail": [
+   "Nene (Kita no Mandokoro) founded Kōdai-ji in 1606 to pray for Hideyoshi.",
+   "Tokugawa Ieyasu funded much of the building. Keeping Hideyoshi's respected widow friendly helped him win over the Toyotomi loyalists before he finished them off at Osaka in 1615.",
+   "Nene lived nearby for the rest of her life and is buried in the Otamaya with Hideyoshi."
+  ],
+  "check": "In the Otamaya, look for the gold makie lacquer and the wooden figures of Hideyoshi and Nene.",
+  "places": [
+   "K1e"
+  ]
+ },
+ "kiyomizu-jump": {
+  "title": "Jumping off the stage of Kiyomizu",
+  "summary": "The saying means 'to take the plunge', and people really did jump.",
+  "detail": [
+   "'Kiyomizu no butai kara tobioriru' means to make a bold decision, like jumping off the stage.",
+   "In the Edo period people jumped believing Kannon would grant their wish if they survived. Temple records list 234 jumps between 1694 and 1864, and about 85% survived (trees and soft soil broke the fall).",
+   "Jumping was banned in 1872."
+  ],
+  "check": "From the stage, look down: it is about 13 m to the slope. From Okuno-in, count the pillars under the stage.",
+  "places": [
+   "K1a"
+  ]
+ },
+ "sannenzaka": {
+  "title": "Three years of bad luck on Sannenzaka",
+  "summary": "Fall on the 'three-year slope' and, the legend says, you die within three years.",
+  "detail": [
+   "The superstition says a fall on Sannenzaka brings death (or bad luck) within three years.",
+   "The cure: buy a hollow gourd (hyōtan) at the shop at the bottom of the steps. Gourds are believed to absorb bad luck.",
+   "The legend may be a way to keep pilgrims careful on the steep, often wet steps to Kiyomizu."
+  ],
+  "check": "Find the gourd shop at the bottom of the Sannenzaka steps.",
+  "places": [
+   "K1b"
+  ]
+ },
+ "maiko-collar": {
+  "title": "Red collar for maiko, white for geiko",
+  "summary": "The collar colour tells you who is an apprentice and who is a full geiko.",
+  "detail": [
+   "Maiko (apprentices, usually 15–20) wear a red collar, long hanging obi (darari obi), tall okobo clogs and their own hair in elaborate styles.",
+   "When a maiko becomes a geiko, she 'turns her collar' (erikae) from red to white.",
+   "Geiko wear a shorter obi, lower zōri and usually a wig. They are the senior, fully trained artists."
+  ],
+  "check": "If you see one at dusk, look at the collar and the obi (no photos without asking).",
+  "places": [
+   "K2",
+   "K2b"
+  ]
+ },
+ "eisai-tea": {
+  "title": "The monk who brought tea back",
+  "summary": "Kennin-ji's founder brought tea seeds from China and wrote Japan's first book on tea.",
+  "detail": [
+   "Eisai (1141–1215) studied Zen in China and brought back tea seeds in 1191.",
+   "In 1211 he wrote the Kissa Yōjōki ('Drinking tea for health'), calling tea a medicine.",
+   "Every year on 20 April Kennin-ji holds a tea ceremony in his memory (Yotsugashira chakai)."
+  ],
+  "check": "At Kennin-ji, look for the small tea garden near the Hōjō, planted in Eisai's honour.",
+  "places": [
+   "K3",
+   "K18"
+  ]
+ },
+ "ginkakuji-silver": {
+  "title": "The Silver Pavilion has no silver",
+  "summary": "Ginkaku-ji was never covered in silver, and probably never meant to be.",
+  "detail": [
+   "The name 'Ginkaku' became common only in the Edo period, as a contrast to Kinkaku-ji, the Golden Pavilion built by Yoshimasa's grandfather.",
+   "A 2007 study of the building found no silver leaf, only traces of black lacquer.",
+   "Moonlight on the lacquer and on the raked sand may have given the 'silver' look."
+  ],
+  "check": "Look at the pavilion's dark wood. Then the sand cone (Kōgetsudai): it is said to reflect moonlight.",
+  "places": [
+   "K8c"
+  ]
+ },
+ "sanjusangendo-arrows": {
+  "title": "8,133 arrows in 24 hours",
+  "summary": "Archers once shot the full length of Sanjūsangen-dō's veranda all day and night.",
+  "detail": [
+   "In the Edo period samurai competed in the Tōshiya: shooting arrows along the 120 m west veranda without hitting the roof or pillars.",
+   "In 1686 Wasa Daihachirō shot 13,053 arrows in 24 hours, and 8,133 reached the end.",
+   "Today the Ōmato taikai is held each January: young archers in kimono shoot at 60 m in the garden."
+  ],
+  "check": "On the west veranda, look up at the roof beams: old arrow marks are still in the wood.",
+  "places": [
+   "K10"
+  ]
+ },
+ "eikan-mikaeri": {
+  "title": "The Buddha who looked back",
+  "summary": "Eikan-dō's Amida turns his head over his shoulder; legend says he called to a monk.",
+  "detail": [
+   "In 1082 the monk Eikan was walking around the Amida statue, chanting, at dawn.",
+   "The statue stepped down and walked ahead, then looked back and said: 'Eikan, you are slow.'",
+   "The statue has kept that pose ever since: the Mikaeri ('looking-back') Amida."
+  ],
+  "check": "In the Amida-dō, stand to the right of the statue to see its face.",
+  "places": [
+   "K20"
+  ]
+ },
+ "inari-torii": {
+  "title": "10,000 torii, all paid for",
+  "summary": "Every torii at Fushimi Inari was donated by a person or company.",
+  "detail": [
+   "About 10,000 torii line the mountain paths. The donor's name and the date are written on the back of each.",
+   "A small torii costs a few hundred thousand yen; a large one over a million.",
+   "Inari is the god of rice and business, so many donors are companies praying for success."
+  ],
+  "check": "Walk back down: you only see the writing on the uphill side of each torii.",
+  "places": [
+   "K7"
+  ]
+ },
+ "byodoin-coin": {
+  "title": "Byōdō-in is in your wallet",
+  "summary": "The Phoenix Hall is on the 10-yen coin.",
+  "detail": [
+   "The Phoenix Hall (1053) is on the back of the 10-yen coin.",
+   "Its bronze phoenix was on the old 10,000-yen note (2004 series).",
+   "The hall was built to show Amida's Western Paradise on earth, at a time when people believed the age of the Buddha's law was ending (1052)."
+  ],
+  "check": "Hold a 10-yen coin up in front of the hall and compare.",
+  "places": [
+   "K18"
+  ]
+ },
+ "wooden-halls": {
+  "title": "Japan's two biggest wooden halls in one day",
+  "summary": "Zaō-dō in the morning, the Great Buddha Hall in the afternoon: compare them.",
+  "detail": [
+   "Kinpusen-ji's Zaō-dō (rebuilt 1592) is about 34 m tall and is usually called the second-largest wooden building in Japan.",
+   "Tōdai-ji's Daibutsuden (rebuilt 1709) is about 49 m tall and 57 m wide. The original hall from the 8th century was even wider, about 86 m.",
+   "Both halls house giant figures: the 7 m blue Zaō Gongen and the 15 m bronze Buddha."
+  ],
+  "check": "Count the pillars across the front of each hall, and look at the roofs: cypress bark at Zaō-dō, tiles at Tōdai-ji.",
+  "places": [
+   "Y1b",
+   "O6c"
+  ]
+ },
+ "hideyoshi-hanami": {
+  "title": "Hideyoshi's 5,000-guest picnic",
+  "summary": "In 1594 Hideyoshi brought about 5,000 people to Yoshino for a five-day cherry party.",
+  "detail": [
+   "Toyotomi Hideyoshi, then ruler of Japan, held the great Yoshino flower-viewing in spring 1594, with daimyō including Tokugawa Ieyasu, poets and tea masters.",
+   "It rained for three days; legend says Hideyoshi threatened to burn the mountain if the rain did not stop, and the next day was clear.",
+   "He used Yoshimizu Shrine (then a temple) as his headquarters."
+  ],
+  "check": "In Yoshimizu Shrine's Shoin, look for objects from Hideyoshi's visit.",
+  "places": [
+   "Y1",
+   "Y1a"
+  ]
+ },
+ "yoshitsune-yoshino": {
+  "title": "Yoshitsune's hiding place",
+  "summary": "The tragic samurai hero hid at Yoshimizu with his lover Shizuka and the giant monk Benkei.",
+  "detail": [
+   "Minamoto no Yoshitsune won the Genpei War (1185) for his brother Yoritomo, who then turned against him.",
+   "Hunted, he hid in Yoshino in 1185 with Shizuka Gozen and Benkei before escaping north. Shizuka was captured in the snow on the mountain.",
+   "The kabuki play 'Yoshitsune Senbon Zakura' ('Yoshitsune and the Thousand Cherry Trees') is set here."
+  ],
+  "check": "In the Shoin, find the small room called 'Yoshitsune's hiding room' and Benkei's armour display.",
+  "places": [
+   "Y1",
+   "Y1a"
+  ]
+ },
+ "kofukuji-ashura": {
+  "title": "The three-faced Ashura",
+  "summary": "Nara's most loved statue is a former demon turned guardian, made of dry lacquer in 734.",
+  "detail": [
+   "Ashura was a fighting demon in Indian myth who became a protector of Buddhism.",
+   "Kōfuku-ji's statue has three faces and six thin arms and the face of a serious boy; it is hollow dry lacquer and weighs only about 15 kg.",
+   "It survived several fires because monks could carry it out."
+  ],
+  "check": "In the National Treasure Museum, compare the expressions on the three faces.",
+  "places": [
+   "O6a"
+  ]
+ },
+ "nara-deer": {
+  "title": "Deer that bow",
+  "summary": "Nara's deer bow for crackers, and are protected as a Natural Monument.",
+  "detail": [
+   "The deer are sacred messengers of Kasuga Taisha's god, who is said to have arrived riding a white deer.",
+   "Until 1637 killing one could be punished by death.",
+   "They learned to bow because people bow to them before giving shika senbei."
+  ],
+  "check": "Bow to a deer holding a cracker and see if it bows back.",
+  "places": [
+   "O6b",
+   "O6d"
+  ]
+ },
+ "daibutsu-nostril": {
+  "title": "Squeeze through the Buddha's nostril",
+  "summary": "A pillar in the Great Buddha Hall has a hole as big as the Buddha's nostril.",
+  "detail": [
+   "The hole at the base of a pillar behind the Buddha is about 30 by 37 cm, said to match one nostril.",
+   "Crawling through is believed to bring enlightenment in your next life (or good luck).",
+   "Children go through easily; adults sometimes get stuck."
+  ],
+  "check": "Find the pillar behind and to the right of the Buddha (north-east), usually with a queue.",
+  "places": [
+   "O6c"
+  ]
+ },
+ "omizutori": {
+  "title": "A ceremony never missed since 752",
+  "summary": "Nigatsu-dō's fire ritual has been held every year for over 1,270 years.",
+  "detail": [
+   "Shuni-e (Omizutori) runs for two weeks every March; monks run along the balcony with burning torches.",
+   "It has been held every year since 752, even during wars and the 1667 fire that destroyed the hall.",
+   "'Omizutori' means 'drawing sacred water' from the Wakasa well below the hall."
+  ],
+  "check": "On the balcony, look for the soot marks on the wood and the iron lanterns.",
+  "places": [
+   "O6e"
+  ]
+ },
+ "migawari-zaru": {
+  "title": "Red monkeys that take your bad luck",
+  "summary": "Naramachi houses hang red cloth monkeys that take misfortune in your place.",
+  "detail": [
+   "Migawari-zaru ('substitute monkeys') are red stuffed monkeys with their hands and feet tied, hung under the eaves.",
+   "They are linked to the Kōshin faith: the monkey takes illness and bad luck instead of the family.",
+   "People write a wish on the back, and must give up one desire for it to work."
+  ],
+  "check": "Count the monkeys on a street and find the Kōshin-dō hall that sells them.",
+  "places": [
+   "O6f"
+  ]
+ },
+ "no-double-dip": {
+  "title": "One dip only",
+  "summary": "In Shinsekai the kushikatsu sauce is shared, so dipping a bitten skewer twice is the one big sin.",
+  "detail": [
+   "Each table has a steel pot of thin sauce shared by everyone; signs say 二度づけ禁止 ('no second dipping').",
+   "If you need more sauce, scoop it with the free raw cabbage leaves and drip it on.",
+   "Kushikatsu began in Shinsekai in 1929 as cheap fried food for labourers."
+  ],
+  "check": "Find the 二度づけ禁止 sign at your table, and use the cabbage trick.",
+  "places": [
+   "O4"
+  ]
+ },
+ "godairiki-stones": {
+  "title": "Find the three lucky stones",
+  "summary": "At Sumiyoshi Taisha people search a gravel plot for small stones marked 五, 大 and 力.",
+  "detail": [
+   "Gosho-gozen is the spot where the shrine's gods are said to have first appeared; it is fenced and full of pebbles.",
+   "Finding three stones written 五 (five), 大 (great) and 力 (power) brings luck: the 'five great powers' of long life, wealth, wisdom, happiness and health.",
+   "When your wish comes true, you return the stones with three more of your own."
+  ],
+  "check": "Behind the first main hall: look for the small fenced gravel plot with a sign 五所御前.",
+  "places": [
+   "O7"
+  ]
+ },
+ "kongo-gumi": {
+  "title": "The world's oldest company built this temple",
+  "summary": "Kongō Gumi was founded in 578 to build Shitennō-ji and ran for over 1,400 years.",
+  "detail": [
+   "Prince Shōtoku brought carpenters from the Korean kingdom of Baekje to build Shitennō-ji; one of them founded Kongō Gumi in 578.",
+   "The family firm kept building and repairing temples for 40 generations.",
+   "It ran into debt in the 2000s and became part of a larger builder in 2006, but still works on Shitennō-ji under its old name."
+  ],
+  "check": "In the central precinct, note the straight line of gate, pagoda, main hall and lecture hall: the oldest temple layout in Japan.",
+  "places": [
+   "O10"
+  ]
+ },
+ "gracia-mariko": {
+  "title": "Mariko was a real woman",
+  "summary": "Shōgun's Lady Mariko is based on Hosokawa Gracia, who died in Osaka in 1600.",
+  "detail": [
+   "Tama was a daughter of Akechi Mitsuhide, the general who betrayed Oda Nobunaga in 1582.",
+   "She converted to Christianity and was baptised Gracia.",
+   "In 1600 Ishida Mitsunari tried to take daimyō wives as hostages; she refused, had her retainer kill her and the mansion burned. Her death turned many daimyō against Ishida, months before Sekigahara."
+  ],
+  "check": "At Osaka Cathedral (Tamatsukuri), find her statue and read the plaque; the cathedral stands on the Hosokawa mansion site.",
+  "places": [
+   "O14",
+   "O1"
+  ]
+ },
+ "kitsune-udon": {
+  "title": "Udon for foxes",
+  "summary": "Kitsune udon was invented in Osaka in 1893 at Matsubaya.",
+  "detail": [
+   "The owner started serving the sweet fried tofu (inari-age) from sushi on top of udon.",
+   "Kitsune means fox: foxes, messengers of Inari, are said to love fried tofu.",
+   "In Osaka you ask for 'kitsune'; in Kyoto the same name can mean something different."
+  ],
+  "check": "At Usami-tei Matsubaya, look for the framed history on the wall.",
+  "places": [
+   "O16",
+   "K7"
+  ]
+ },
+ "escalator-sides": {
+  "title": "Osaka stands on the right",
+  "summary": "Tokyo stands on the left of escalators; Osaka on the right.",
+  "detail": [
+   "The most common story: before the 1970 Osaka Expo, Hankyu railway asked passengers to stand right, following the international habit.",
+   "Tokyo kept the left, so the country has two rules.",
+   "Kyoto stations are mixed, depending on how many visitors use them."
+  ],
+  "check": "Compare on the Midōsuji Line in Osaka with what you saw in Tokyo.",
+  "places": [
+   "O13"
+  ]
+ },
+ "number-551": {
+  "title": "Why 551?",
+  "summary": "The name of Osaka's pork-bun chain comes from its old phone number.",
+  "detail": [
+   "The first shop's phone number ended in 551.",
+   "Read 'go-go-ichi', it also sounds like 'koko ga ichiban': 'this is the best'.",
+   "An old TV advert made the line '551 ga aru toki' ('when there's 551') famous across Kansai."
+  ],
+  "check": "Look at the red 551 logo on the box.",
+  "places": [
+   "O20"
+  ]
+ },
+ "winged-gyoza": {
+  "title": "Gyoza with wings",
+  "summary": "Kamata's winged gyoza were invented in 1983 by a cook from Dalian.",
+  "detail": [
+   "Yagi Isao, born in Dalian, opened Nihao in Kamata in 1983.",
+   "He adapted Shanghai's pan-fried buns: a thin flour-and-water batter poured in the pan forms a crisp 'wing' joining the dumplings.",
+   "Kamata now has several 'winged gyoza' houses run by his family and former staff."
+  ],
+  "check": "Lift the plate: the wing should come up as one sheet.",
+  "places": [
+   "H1"
+  ]
+ },
+ "edo-era": {
+  "title": "The Edo period in five minutes",
+  "summary": "For 265 years the shoguns kept Japan at peace, closed and busy.",
+  "detail": [
+   "From 1603 to 1868 the Tokugawa shoguns ruled from Edo, today's Tokyo. By the 1700s it had about a million people, among the largest cities in the world.",
+   "Sakoku, the closed-country policy of the 1630s, limited foreign trade mainly to the Dutch and Chinese at Nagasaki.",
+   "Under sankin-kōtai, each daimyō had to live in Edo every other year and leave his family there. The costly processions kept lords poor and loyal, and fed the roads and inns.",
+   "Peace and rich townspeople produced ukiyo-e prints, kabuki, professional sumo and Edo-mae sushi, once a fast food."
+  ],
+  "check": "At the museum, look for ukiyo-e and for screens showing daimyō processions. In Yanaka, picture the temple town that grew around Edo.",
+  "places": [
+   "T3",
+   "T4",
+   "K4"
+  ],
+  "topic": "general"
+ },
+ "shinto-buddhism": {
+  "title": "Born Shintō, buried Buddhist",
+  "summary": "Most Japanese use both religions, for different moments of life.",
+  "detail": [
+   "Shintō is the native worship of kami, spirits of places and forces. Buddhism arrived from Korea in the 6th century.",
+   "Traditionally, births and weddings go to the shrine and funerals to the temple.",
+   "For about 1,000 years the two were mixed in the same sites. A government order of 1868 forced them apart (shinbutsu bunri), and many temple treasures were destroyed."
+  ],
+  "check": "Each stop: torii and straw rope = shrine; big gate with guardians and incense = temple. See if you can tell before reading the sign.",
+  "places": [
+   "T4",
+   "T13",
+   "K7",
+   "O7",
+   "O10"
+  ],
+  "topic": "general"
+ },
+ "purity-water": {
+  "title": "Why everyone washes first",
+  "summary": "Hand-washing, shoes off and hot baths share one idea: purity.",
+  "detail": [
+   "Kegare is ritual pollution, and misogi is cleansing with water. In myth, the god Izanagi washes in a river after visiting the land of the dead.",
+   "The basin at a shrine is a small misogi. So, loosely, are taking off shoes and washing before getting into a bath.",
+   "Salt has the same job: sumo wrestlers throw it on the ring, and some restaurants put small cones of it by the door (morijio)."
+  ],
+  "check": "Look for small white cones of salt at restaurant entrances, mostly in the evening.",
+  "places": [
+   "T5",
+   "K7",
+   "Y1"
+  ],
+  "topic": "general"
+ },
+ "omotenashi": {
+  "title": "Why nobody wants your tip",
+  "summary": "Omotenashi means service given without expecting anything back.",
+  "detail": [
+   "Good service is simply part of the job, so a tip can embarrass staff. Some will chase you down the street to return it.",
+   "Payment goes on the small tray at the till, not hand to hand.",
+   "The word is linked to the tea ceremony, where the host anticipates what a guest needs before it is asked."
+  ],
+  "check": "Watch for the tray by the till. On the Shinkansen, watch the cleaning crew and conductors bow to the carriage.",
+  "places": [],
+  "topic": "general"
+ },
+ "omiyage": {
+  "title": "Gifts in individual wrappers",
+  "summary": "Omiyage are souvenirs owed to colleagues and family, and every region has its own.",
+  "detail": [
+   "The custom is often traced to pilgrims bringing back blessed items from shrines to those who stayed home.",
+   "Boxes are made to share: each sweet is wrapped separately and the count is printed on the box.",
+   "Furoshiki are the square cloths used to wrap and carry gifts. They were named after bathhouses, where they held clothes."
+  ],
+  "check": "At Tokyo or Kyoto Station, find a sweet sold only in that region (for Kyoto, yatsuhashi).",
+  "places": [
+   "T20"
+  ],
+  "topic": "general"
+ },
+ "shichi-go-san": {
+  "title": "Children in kimono on Sun 15 Nov",
+  "summary": "Shichi-Go-San (7-5-3) falls on the exact day we are in Kyoto.",
+  "detail": [
+   "On 15 November, children aged 3, 5 and 7 visit shrines dressed in kimono to give thanks and pray for health. Many families choose a nearby weekend.",
+   "Each child gets chitose-ame, \"thousand-year candy\": long, thin sticks of red and white in a printed bag, for a long life.",
+   "The ages come from old rites: first letting the hair grow, first hakama for boys, first adult obi for girls."
+  ],
+  "check": "Near any shrine on Sun 15, look for tiny kimono and the long candy bags. Ask before photographing children.",
+  "places": [],
+  "topic": "general"
+ },
+ "momijigari": {
+  "title": "Hunting the red leaves",
+  "summary": "Momijigari, \"maple hunting\", became a popular outing in the Edo period.",
+  "detail": [
+   "Nobles had long gone to admire autumn leaves. In the Edo period, townspeople joined in.",
+   "\"Hunting\" is used for a harmless pleasure, as with mushroom or strawberry picking.",
+   "Maples turn from the mountains downward. Our mid-November dates are early colour in Kyoto, with higher ground ahead of the city."
+  ],
+  "check": "Compare the leaf colour at Takao (Fri 13), Arashiyama (Sun 15) and Yoshino (Wed 18).",
+  "places": [
+   "T11",
+   "K5",
+   "Y1"
+  ],
+  "topic": "general"
+ },
+ "kinro-kansha": {
+  "title": "A harvest rite on our last day",
+  "summary": "Labour Thanksgiving Day, Mon 23 Nov, is a public holiday with very old roots.",
+  "detail": [
+   "Kinrō Kansha no Hi became a holiday in 1948, replacing Niiname-sai.",
+   "At Niiname-sai the emperor offers the year's new rice to the gods and tastes it himself. It is still held at the palace on the night of 23 November.",
+   "Traditionally, people did not eat the new rice until this rite was done."
+  ],
+  "check": "At Haneda, look for holiday notices and Japanese flags.",
+  "places": [],
+  "topic": "general"
+ },
+ "tori-no-ichi": {
+  "title": "The rake fair we just miss",
+  "summary": "Tori-no-ichi fills Asakusa with lucky rakes, on 7 and 19 Nov in 2026.",
+  "detail": [
+   "The fair is held on the \"rooster days\" of November, which come round every 12 days. In 2026 they fall on Sat 7 and Thu 19, so it misses our Tokyo stay.",
+   "Stalls at Ōtori Shrine, in the Asakusa area, sell kumade: decorated bamboo rakes to \"rake in\" good fortune.",
+   "When a rake sells, the stall and buyer clap in rhythm together. Businesses buy a bigger one every year."
+  ],
+  "check": "Look for kumade on the walls of restaurants and shops around Asakusa.",
+  "places": [],
+  "topic": "general"
+ },
+ "yukata-left": {
+  "title": "Left over right, always",
+  "summary": "Wrap a yukata the wrong way and you are dressed as a corpse.",
+  "detail": [
+   "Everyone, men and women, wraps the left side over the right. The right over left is for dressing the dead.",
+   "A law of 719 is said to have fixed the rule across the country.",
+   "A quick test: you should be able to slip your right hand into the fold at your chest."
+  ],
+  "check": "At Chikurinin (Wed 18), check each other before going to dinner.",
+  "places": [
+   "Y1"
+  ],
+  "topic": "general"
+ },
+ "shugendo": {
+  "title": "The mountain monks of Yoshino",
+  "summary": "Yoshino is the home of Shugendō, part Buddhism, part mountain worship.",
+  "detail": [
+   "Its founder, the 7th-century ascetic En no Gyōja, is said to have had a vision of the fierce Zaō Gongen on Mt Ōmine.",
+   "He is said to have carved the image from cherry wood, which is why cherry trees are sacred here and were planted by pilgrims. Today there are about 30,000.",
+   "Yamabushi monks still walk the 1,000-year-old Ōmine route. Its peak, Sanjōgatake, remains closed to women."
+  ],
+  "check": "At Zaō-dō, look for the conch shells and yamabushi gear. Listen for a horn.",
+  "places": [
+   "Y1",
+   "Y1b"
+  ]
+ },
+ "itadakimasu": {
+  "title": "What itadakimasu really says",
+  "summary": "It is not \"bon appétit\". It means \"I humbly receive\".",
+  "detail": [
+   "Itadaku is the humble verb for receiving, and is linked to raising something above your head (itadaki also means a summit).",
+   "The thanks go to everyone who made the food, and to the plants and animals themselves.",
+   "Gochisōsama, said after eating, is written with characters for running around: thanks for the effort of gathering a feast."
+  ],
+  "check": "Say it with hands together at the next meal, and listen for it at the tables around you.",
+  "places": [],
+  "topic": "general"
+ },
+ "sumo-shinto": {
+  "title": "Sumo is a Shintō rite",
+  "summary": "The ring is sacred ground, and the top champion wears a shrine rope.",
+  "detail": [
+   "The clay ring (dohyō) is consecrated before each tournament, and a roof hangs above it like a shrine's.",
+   "Wrestlers throw salt to purify it. A yokozuna wears a thick white rope with zigzag paper, the same as the shimenawa on sacred places.",
+   "Ryōgoku is Tokyo's sumo district, with the Kokugikan and many stables. Chanko-nabe is what wrestlers eat to gain weight.",
+   "This month's tournament runs 8–22 Nov in Fukuoka, not Tokyo."
+  ],
+  "check": "At dinner in Ryōgoku, see whether the TV has the Fukuoka bouts on, usually late afternoon. Look for wrestlers in yukata.",
+  "places": [
+   "T5"
+  ]
+ },
+ "new-year": {
+  "title": "108 strokes of the bell",
+  "summary": "New Year is Japan's biggest holiday, and it all happens at temples and shrines.",
+  "detail": [
+   "On New Year's Eve, temple bells ring 108 times (joya-no-kane), once for each human desire or passion.",
+   "Hatsumōde is the first shrine visit of the year. The busiest sites draw millions in three days.",
+   "Kadomatsu pine-and-bamboo pairs stand at doors to welcome the god of the year. Osechi food comes in layered boxes, each item a pun for good luck."
+  ],
+  "check": "Find a big temple bell and see how the log striker hangs.",
+  "places": [
+   "T13",
+   "K7",
+   "K8a"
+  ],
+  "topic": "general"
+ },
+ "power-split": {
+  "title": "A country with two electricities",
+  "summary": "Tokyo runs at 50 Hz, Osaka at 60 Hz, because of a choice made in the 1890s.",
+  "detail": [
+   "Tokyo bought generators from Germany (50 Hz), and Osaka bought them from America (60 Hz).",
+   "The split runs roughly along the Fuji River and has never been unified. Special converter stations link the two halves.",
+   "Our Nozomi crosses the line on Sat 14 without you noticing."
+  ],
+  "check": "Look at Mt Fuji from the Nozomi on Sat 14: you are close to the line between the two systems.",
+  "places": [],
+  "topic": "general"
+ },
+ "kansai-kanto": {
+  "title": "Kansai and Kantō are different countries",
+  "summary": "Broth, jokes, words and even escalators change between Tokyo and Osaka.",
+  "detail": [
+   "Kantō is the Tokyo region, Kansai the area around Osaka, Kyoto and Nara.",
+   "Kansai udon broth is pale, from kombu and light soy. Tokyo broth is dark.",
+   "Thank you in Osaka can be ōkini, and \"no good\" is akan rather than dame."
+  ],
+  "check": "Compare the colour of a soup in Tokyo with one in Osaka. Listen for ōkini in a market.",
+  "places": [
+   "O12",
+   "O3"
+  ],
+  "topic": "general"
+ },
+ "train-punctual": {
+  "title": "Delays in seconds",
+  "summary": "The Tōkaidō Shinkansen averaged a 1.4-minute delay per train in FY2024, weather included.",
+  "detail": [
+   "JR Central reports 1.4 minutes per train for FY2024, counting delays from natural disasters. Its figure for FY2016 was 24 seconds.",
+   "In 2017 the Tsukuba Express apologised for leaving 20 seconds early. In 2018 JR West did the same for 25 seconds.",
+   "Drivers and staff use shisa-kanko, \"pointing and calling\": they point at signals and say what they see aloud, to cut errors."
+  ],
+  "check": "On Nozomi 111 (Sat 14), compare your watch with 06:06 and 09:00. On platforms, watch the staff point and call.",
+  "places": [],
+  "topic": "general"
+ },
+ "osaka-tokyo": {
+  "title": "Osaka vs Tokyo",
+  "summary": "Tokyo dresses up, Osaka eats and answers back.",
+  "detail": [
+   "An old saying contrasts Kyoto, where people ruin themselves on clothes, with Osaka, where they ruin themselves on food (kuidaore).",
+   "In the Edo period, Osaka was \"the nation's kitchen\", where rice from every domain was traded.",
+   "Osaka is the home of manzai comedy. The joke goes that if you point a finger and say \"bang\", an Osakan will play dead."
+  ],
+  "check": "Do the people in the Osaka queue stand closer and talk more than in Tokyo?",
+  "places": [
+   "O13",
+   "O3",
+   "O4"
+  ],
+  "topic": "general"
+ },
+ "kinkaku-fire": {
+  "title": "The monk who burned the Golden Pavilion",
+  "summary": "Kinkaku-ji is a 1955 copy of a building destroyed by a novice.",
+  "detail": [
+   "In 1950 a 21-year-old monk set fire to the 14th-century pavilion. Yukio Mishima turned the story into a novel in 1956.",
+   "It was rebuilt in 1955, with more gold than the original is thought to have had.",
+   "It is not on our route. Its sister building is the Silver Pavilion, built by the grandson of its founder."
+  ],
+  "check": "At Ginkaku-ji, imagine it covered in gold, as its name might suggest.",
+  "places": [
+   "K8c"
+  ]
+ },
+ "five-hanamachi": {
+  "title": "Kyoto's five geisha districts",
+  "summary": "Gion is the famous one, but Kamishichiken is the oldest.",
+  "detail": [
+   "Kyoto has five hanamachi: Gion Kōbu, Miyagawachō, Pontochō, Kamishichiken and Gion Higashi.",
+   "Kamishichiken grew up with seven teahouses built from timber left over from rebuilding Kitano Tenmangū in the 15th century.",
+   "Each district has its own crest, printed on the lanterns outside its teahouses."
+  ],
+  "check": "Look at the lanterns: the crest of Gion Kōbu is a ring of linked dumplings. Pontochō's is a plover.",
+  "places": [
+   "K2",
+   "K2a",
+   "K11"
+  ]
+ },
+ "ichigen-san": {
+  "title": "No first-time guests",
+  "summary": "Ichigen-san okotowari: without an introduction, the door stays shut.",
+  "detail": [
+   "Ochaya teahouses admit only guests introduced by a regular.",
+   "The teahouse carries the bill, arranges the geiko, and can call a taxi or a doctor. So it relies on trust built over years.",
+   "Ichiriki-tei, over 300 years old, appears in the story of the 47 rōnin: their leader Ōishi drank there to fool his enemies."
+  ],
+  "check": "Find Ichiriki-tei's red walls at the corner of Shijō and Hanamikoji.",
+  "places": [
+   "K2c",
+   "K2b"
+  ]
+ },
+ "edo-castle": {
+  "title": "A castle with no keep",
+  "summary": "Edo Castle lost its tower in 1657, and nobody rebuilt it.",
+  "detail": [
+   "The Great Fire of Meireki burned most of Edo and the castle's tower, the tallest ever built in Japan.",
+   "The stone base was remade, but the money went to rebuilding the city instead.",
+   "Today the Imperial Palace stands on the site. The Edo-Tokyo Museum was built to match the old keep's height."
+  ],
+  "check": "From the Palace side of Tokyo Station, look for the moats and the massive stone walls.",
+  "places": [
+   "T28",
+   "T7"
+  ]
+ },
+ "ikebana-rokkakudo": {
+  "title": "Flower arranging began beside a pond",
+  "summary": "Ikenobo, the oldest ikebana school, started at Rokkakudō in Kyoto.",
+  "detail": [
+   "Monks at Rokkakudō offered flowers to the Buddha. The priest's hut by the pond gave the school its name.",
+   "Ikenobo's oldest records date from the 1460s. Rokkakudō also has a \"navel stone\", said to mark the centre of old Kyoto.",
+   "In 1927 Sogetsu broke the rules with a modern approach. Its Tokyo headquarters has a stone garden by Isamu Noguchi."
+  ],
+  "check": "In hotels and restaurants, look for an arrangement with three main lines: heaven, earth and human.",
+  "places": [],
+  "topic": "general"
+ },
+ "bonsai-stories": {
+  "title": "Bonsai older than the shoguns",
+  "summary": "One tree has survived 500 years of care, another the atomic bomb.",
+  "detail": [
+   "The Imperial collection has a pine of over 500 years, Sandai-Shōgun no Matsu, said to have been tended by the third Tokugawa shogun, Iemitsu.",
+   "Omiya Bonsai Village began after the 1923 earthquake, when Tokyo growers moved north for clean air and space.",
+   "A pine trained since 1625 survived the Hiroshima bomb inside a walled nursery. It was given to the US in 1976, and its story only came out in 2001."
+  ],
+  "check": "Look for bonsai outside old houses in Yanaka.",
+  "places": [
+   "T4"
+  ],
+  "topic": "general"
+ },
+ "rikyu-gold": {
+  "title": "Two-mat hut vs golden room",
+  "summary": "Rikyū perfected plain tea, and served a ruler who loved gold.",
+  "detail": [
+   "Sen no Rikyū (1522–1591) taught wabi: rough bowls, tiny rooms, nothing to spare. His only surviving tea room, Tai-an, has just two mats.",
+   "His patron Hideyoshi, the Taikō in Shōgun, had a portable tea room covered in gold.",
+   "In 1591 Hideyoshi ordered him to commit seppuku; the reason is still debated.",
+   "His great-grandsons founded the three Senke schools: Omotesenke, Urasenke and Mushakōjisenke."
+  ],
+  "check": "At Taihō-an, notice how bare the room is, then think of it in gold.",
+  "places": [
+   "K18",
+   "T27",
+   "O1"
+  ]
+ },
+ "tsuen-1160": {
+  "title": "A tea shop older than the samurai government",
+  "summary": "Tsūen, at Uji Bridge, claims to have been open since 1160.",
+  "detail": [
+   "The family says it served tea to travellers crossing the bridge, and was linked to the guard of the bridge.",
+   "It would be one of the oldest shops in the world.",
+   "Uji is also the setting for the last ten chapters of The Tale of Genji, the 11th-century novel."
+  ],
+  "check": "Find the old wooden shop front at the east end of Uji Bridge, and the Murasaki Shikibu statue nearby.",
+  "places": [
+   "K18"
+  ]
+ },
+ "matcha-shortage": {
+  "title": "The matcha shortage",
+  "summary": "Since 2024, global demand has made shops ration it.",
+  "detail": [
+   "Tencha takes years of work, shaded fields and slow milling, so supply cannot grow quickly.",
+   "Big Kyoto names, such as Ippodo and Koyamaen, now commonly limit matcha to about one per person.",
+   "Sencha and hōjicha are mostly unlimited, and make a good alternative souvenir."
+  ],
+  "check": "Look for the purchase-limit sign at the counter.",
+  "places": [
+   "K18"
+  ]
+ },
+ "hankai-tram": {
+  "title": "Osaka's last streetcar",
+  "summary": "The Hankai Tramway is the only street tram left in Osaka Prefecture.",
+  "detail": [
+   "Its Uemachi Line began in 1900 as a horse-drawn railway, and the Hankai Line opened in 1911.",
+   "Locals call it Chin-Den, after the sound of its bell.",
+   "Some of its cars have been running since 1928."
+  ],
+  "check": "See if your tram has wooden floors and old fittings. Listen for the \"chin\".",
+  "places": [
+   "O7"
+  ]
+ },
+ "sumiyoshi-style": {
+  "title": "A shrine with no Buddhist influence",
+  "summary": "Sumiyoshi-zukuri is one of the three oldest native shrine styles.",
+  "detail": [
+   "It has straight roofs and no veranda, and it predates the Buddhist architecture that came through China and Korea.",
+   "The other old styles are Shinmei at Ise and Taisha at Izumo. The four main halls, last rebuilt in 1810, are National Treasures.",
+   "Three of the halls stand in a line facing west, towards the sea, because this was a shrine for sailors."
+  ],
+  "check": "Compare the roofs here with the curved ones at Shitennō-ji the same day.",
+  "places": [
+   "O7"
+  ]
+ },
+ "otoshi-charge": {
+  "title": "The snack you did not order",
+  "summary": "In an izakaya, the small dish that arrives first is on the bill.",
+  "detail": [
+   "Otōshi is a seat charge in the form of a small appetizer, usually a few hundred yen per person.",
+   "It is normal, not a scam, so expect to pay it. Check the menu or ask first if you want to know the price.",
+   "Then comes the phrase: toriaezu nama, \"a draft beer for now\"."
+  ],
+  "check": "Look for お通し on the receipt.",
+  "places": [],
+  "topic": "general"
+ },
+ "beer-big-four": {
+  "title": "Four beers rule the taps",
+  "summary": "Asahi, Kirin, Sapporo and Suntory dominate, and each bar usually pours just one.",
+  "detail": [
+   "A bar normally has a contract with one brewer, so \"nama\" means whichever one they pour.",
+   "Asahi Super Dry (1987) started the dry-beer boom and changed the Japanese market.",
+   "Cheap cans labelled 発泡酒 or 第三のビール are made to pay lower beer tax. Look for them in the konbini."
+  ],
+  "check": "Spot which brand the glass or the sign shows at each place. Keep a tally through the trip.",
+  "places": [],
+  "topic": "general"
+ },
+ "kobe-nose": {
+  "title": "Kobe beef has a nose print",
+  "summary": "Every certified animal is tracked with a 10-digit number.",
+  "detail": [
+   "Kobe beef comes only from Tajima cattle raised in Hyōgo Prefecture and graded by strict marbling rules.",
+   "Each animal has an ID, and nose prints have long been used to identify cattle, like fingerprints.",
+   "Certified restaurants display a bronze statue and a certificate naming the animal."
+  ],
+  "check": "Ask to see the certificate. Look for the 10-digit number.",
+  "places": [
+   "O5"
+  ]
+ },
+ "takoyaki-1935": {
+  "title": "Takoyaki is younger than the Eiffel Tower",
+  "summary": "Octopus balls were first sold in Osaka in 1935.",
+  "detail": [
+   "Endō Tomekichi of Aizuya developed them from a snack called radio-yaki, filled with beef.",
+   "Hearing that Akashi had egg-and-octopus dumplings, he swapped the filling.",
+   "The classic Aizuya version has no sauce at all."
+  ],
+  "check": "Watch the cook turn each ball with a pick, a quarter at a time.",
+  "places": [
+   "O18"
+  ]
+ },
+ "sakai-blades": {
+  "title": "From tobacco knives to chefs' knives",
+  "summary": "Sakai, just south of Osaka, supplies blades to much of the Japanese kitchen.",
+  "detail": [
+   "Sword and blade making grew in Sakai, and tobacco from the Portuguese in the 16th century created a demand for sharp cutting knives.",
+   "The shogunate gave Sakai tobacco knives a seal of quality.",
+   "Blades are still divided into specialised crafts: forging, sharpening and handles are often done by different people."
+  ],
+  "check": "At Kappabashi, ask which shop sells Sakai blades (Jikko does), and how many hands made it.",
+  "places": [
+   "T6",
+   "T10"
+  ]
+ },
+ "food-samples": {
+  "title": "Plastic food built a business",
+  "summary": "Kappabashi is the capital of sampuru, realistic models of food.",
+  "detail": [
+   "Wax models appeared in the 1920s. Takizō Iwasaki founded the first major maker in 1932, and is said to have started with an omelette.",
+   "Today most are PVC, and a single plate is hand-finished.",
+   "Kappabashi's name may come from kappa, water spirits said to have helped dig a canal; a golden kappa stands in the street."
+  ],
+  "check": "Find the golden Kappa statue and a shop window of plastic ramen.",
+  "places": [
+   "T6"
+  ]
+ },
+ "ginza-silver": {
+  "title": "Ginza means silver mint",
+  "summary": "The shogun's silver coins were once made here.",
+  "detail": [
+   "Ieyasu moved the mint here in 1612: gin is silver, za a guild or seat.",
+   "In the 1870s, after a fire, Ginza was rebuilt in brick with Western help, and became the first modern shopping street.",
+   "The Wakō clock tower dates from 1932."
+  ],
+  "check": "Find the Wakō clock at the main Ginza crossing.",
+  "places": [
+   "T28"
+  ]
+ },
+ "senso-ji-statue": {
+  "title": "The statue nobody sees",
+  "summary": "Sensō-ji was built around a statue that stays hidden.",
+  "detail": [
+   "In 628, says the legend, two fishing brothers pulled a small golden Kannon from the Sumida River.",
+   "Whenever they threw it back, it returned. The temple was founded around it.",
+   "It is a hibutsu, a hidden image, and is not shown. Tokyo's oldest temple was destroyed in 1945 and rebuilt in concrete."
+  ],
+  "check": "Under the Kaminarimon lantern, look up: a large carved dragon is hidden on its base.",
+  "places": [
+   "T13"
+  ]
+ },
+ "yanaka-survivor": {
+  "title": "The old town that survived",
+  "summary": "Yanaka came through both the 1923 quake and the 1945 raids.",
+  "detail": [
+   "Much of the area was spared, unlike most of Tokyo, so its temple streets are still pre-war.",
+   "Yanaka Cemetery holds Tokugawa Yoshinobu, the last shogun, who gave up power in 1867.",
+   "It is also known for its street cats, with cat figures on many rooftops and shops."
+  ],
+  "check": "Count cat figures on Yanaka Ginza, and ask the guide about the last shogun's grave.",
+  "places": [
+   "T4"
+  ]
+ },
+ "tsukiji-toyosu": {
+  "title": "The tuna that cost 333 million yen",
+  "summary": "The inner market moved to Toyosu in 2018; Tsukiji's outer stalls stayed.",
+  "detail": [
+   "The famous wholesale market ran at Tsukiji from 1935 to 2018.",
+   "At the first Toyosu New Year auction in 2019, a single bluefin sold for ¥333.6 million.",
+   "The buyer was Kiyoshi Kimura, owner of the Sushi Zanmai chain, who has repeatedly paid record prices."
+  ],
+  "check": "Look for the Sushi Zanmai branches around Tsukiji and for the tuna-cutting stalls.",
+  "places": [
+   "T1",
+   "T2"
+  ]
+ },
+ "hamarikyu-duck": {
+  "title": "The shogun's duck trap",
+  "summary": "Hamarikyū was a hunting ground, and its ponds rise and fall with the sea.",
+  "detail": [
+   "The Tokugawa used the garden for falconry and duck hunting, and the trenches for luring ducks still exist.",
+   "Its main pond is filled with seawater from Tokyo Bay, so it moves with the tide.",
+   "Former US president Ulysses Grant stayed in a house here in 1879, and talked with the Meiji emperor at the garden."
+  ],
+  "check": "Look for the duck-hunting mounds, and the water gate between the pond and the bay.",
+  "places": [
+   "T27"
+  ]
+ },
+ "takao-tengu": {
+  "title": "Mountain goblins of Takao",
+  "summary": "Takao is sacred to tengu, and among the world's most climbed mountains.",
+  "detail": [
+   "Yakuō-in temple, said to date from 744, has statues of long-nosed tengu goblins.",
+   "Tengu are mountain spirits, sometimes dangerous, sometimes teachers.",
+   "Millions climb every year. Michelin gave it three stars in 2007."
+  ],
+  "check": "Find the tengu statues and the \"octopus cedar\" with tangled roots.",
+  "places": [
+   "T11"
+  ]
+ },
+ "himeji-white": {
+  "title": "The castle bombs missed",
+  "summary": "Himeji survived the 1945 raids, and was once sold for almost nothing.",
+  "detail": [
+   "American bombs burned the city around it in 1945, but the keep was left standing.",
+   "In the Meiji era it was sold at auction, and legend says for a few yen. The buyer abandoned it because demolition was too costly.",
+   "After the 2009–2015 repairs its plaster was so bright that some joked it was the \"White Too Much castle\" (shirosugi-jō)."
+  ],
+  "check": "Look at the white plaster joints in the roof tiles, a feature designed to resist fire.",
+  "places": [
+   "K21"
+  ]
+ },
+ "nijo-start-end": {
+  "title": "Where the shogunate began and ended",
+  "summary": "Ieyasu celebrated here in 1603, and Yoshinobu gave up power here in 1867.",
+  "detail": [
+   "Ieyasu held his ceremony as shogun at Nijō in 1603.",
+   "In 1867, the 15th and last shogun announced in the Ninomaru Palace that he was returning power to the emperor.",
+   "So the 265 years of Edo rule start and finish in the same place."
+  ],
+  "check": "In the Ōhiroma hall, find the figures that recreate the 1867 scene.",
+  "places": [
+   "K4"
+  ]
+ },
+ "nishiki-jakuchu": {
+  "title": "The painter who saved a market",
+  "summary": "The artist Itō Jakuchū was a Nishiki grocer.",
+  "detail": [
+   "Nishiki has sold food for about 400 years, helped by cold groundwater that kept fish fresh.",
+   "Jakuchū, born in 1716 into a grocer family, became a great painter of birds and fish.",
+   "In the 1770s he helped keep the market open when officials tried to shut it down."
+  ],
+  "check": "Look for art inspired by Jakuchū on the market's shutters and banners.",
+  "places": [
+   "K31"
+  ]
+ },
+ "nanzenji-aqueduct": {
+  "title": "A Roman aqueduct in a Zen temple",
+  "summary": "A brick water channel runs through Nanzen-ji.",
+  "detail": [
+   "Built in 1890 as part of the Lake Biwa Canal, it brought water and power to a Kyoto that had just lost the capital.",
+   "Many people thought it spoiled the temple. Today it is one of the most photographed spots there.",
+   "Water still flows along the top."
+  ],
+  "check": "Climb the path to the top and see the running water.",
+  "places": [
+   "K8a"
+  ]
+ },
+ "philosopher-path": {
+  "title": "A walk named after a thinker",
+  "summary": "Nishida Kitarō is said to have meditated on this canal path.",
+  "detail": [
+   "Nishida (1870–1945), a philosopher at Kyoto University, walked here every day.",
+   "The cherry trees along it were planted thanks to the wife of the painter Hashimoto Kansetsu.",
+   "The path is about 2 km long."
+  ],
+  "check": "Find the small stone with Nishida's poem.",
+  "places": [
+   "K8b"
+  ]
+ },
+ "shogunzuka": {
+  "title": "The buried clay general",
+  "summary": "A statue beneath Shōgunzuka is said to rumble when Kyoto is in danger.",
+  "detail": [
+   "When Emperor Kanmu founded Kyoto in 794, he is said to have buried a clay general in armour on this hill to protect the capital.",
+   "Chronicles record that the mound shook before times of disaster.",
+   "The Seiryūden platform, on the same hill, is much larger than Kiyomizu's stage."
+  ],
+  "check": "From the platform, find Kyoto Tower and the line of the old grid.",
+  "places": [
+   "K9"
+  ]
+ },
+ "bamboo-sound": {
+  "title": "Bamboo you are meant to hear",
+  "summary": "The Arashiyama grove is on an official list of sounds worth preserving.",
+  "detail": [
+   "In 1996 Japan's Environment Agency listed 100 \"soundscapes\", and this grove is one.",
+   "Ōkōchi Sansō next door was built by the silent film star Ōkōchi Denjirō, over about 30 years.",
+   "Bamboo can grow up to a metre in a day at its peak."
+  ],
+  "check": "At 7:00, stand still and listen.",
+  "places": [
+   "K5"
+  ]
+ },
+ "billiken": {
+  "title": "Rub the feet of an American god",
+  "summary": "Osaka's lucky Billiken was invented in the United States.",
+  "detail": [
+   "An American art teacher, Florence Pretz, designed the figure in 1908.",
+   "It came to Osaka, and a statue was placed in Luna Park, Shinsekai's amusement park, in 1912.",
+   "The tower has a figure, and rubbing the soles is said to bring luck."
+  ],
+  "check": "Find a Billiken in Shinsekai and rub its feet.",
+  "places": [
+   "O4"
+  ]
+ },
+ "glico-man": {
+  "title": "The running man of Dōtonbori",
+  "summary": "The Glico sign has been running since 1935.",
+  "detail": [
+   "Glico sold its caramel as \"300 m on one piece\". The runner has his arms up at the finish.",
+   "The first neon was set up in 1935. The present LED version dates from 2014.",
+   "Generations of tourists copy his pose on the bridge."
+  ],
+  "check": "Stand on Ebisu Bridge and copy the pose.",
+  "places": [
+   "O13"
+  ]
+ },
+ "mizukake-fudo": {
+  "title": "The statue covered in moss",
+  "summary": "Hōzen-ji's Fudō is green because everyone splashes water on it.",
+  "detail": [
+   "Visitors pour water over the statue when praying, and the years of water have grown a thick moss.",
+   "The temple dates from 1637. It was burned in 1945, but the statue survived.",
+   "The alley beside it is a survivor of old Osaka."
+  ],
+  "check": "Take a ladle, splash gently, and look at the shape of the face.",
+  "places": [
+   "O9"
+  ]
+ },
+ "umeda-lift": {
+  "title": "A garden lifted into the sky",
+  "summary": "The ring between the Umeda towers was built on the ground, then raised.",
+  "detail": [
+   "The building opened in 1993. The top ring, about 170 m up, was assembled at ground level.",
+   "Cables hauled it up between the towers.",
+   "Hiroshi Hara, its architect, also designed Kyoto Station."
+  ],
+  "check": "From the top, look down at the escalators that cross the open air.",
+  "places": [
+   "O8"
+  ]
+ },
+ "osaka-keep-1931": {
+  "title": "The castle with an elevator",
+  "summary": "Osaka Castle's keep is a 1931 concrete tower.",
+  "detail": [
+   "Hideyoshi's castle burned in 1615, and a Tokugawa keep was hit by lightning in 1665.",
+   "Citizens raised the money for the present tower in 1931, and it survived the war.",
+   "Its huge walls, though, are real 1620s Tokugawa work, built by daimyō who were made to compete."
+  ],
+  "check": "Find the Tako-ishi, the giant \"octopus stone\" in the walls at the Sakuramon gate.",
+  "places": [
+   "O1"
+  ]
+ },
+ "manhole-art": {
+  "title": "Art under your feet",
+  "summary": "Japan's manhole covers are designed town by town.",
+  "detail": [
+   "In the 1980s, sewer officials encouraged towns to use local designs, to win public support for the sewers.",
+   "Thousands of designs now exist, and there are even collector cards.",
+   "Expect castles, flowers, local festivals and cartoon mascots."
+  ],
+  "check": "Photograph one cover in each city, and compare them at the end of the trip.",
+  "places": [],
+  "topic": "general"
+ },
+ "toilets": {
+  "title": "The toilet control panel",
+  "summary": "Japan's heated, washing toilet is a national institution.",
+  "detail": [
+   "TOTO launched its Washlet in 1980. Now most homes have one.",
+   "Some public toilets have a \"Sound Princess\" button that plays running water, to hide noises.",
+   "Many station toilets show a map of the stalls by the door."
+  ],
+  "check": "Find the Otohime button in a public toilet.",
+  "places": [],
+  "topic": "general"
+ }
+}

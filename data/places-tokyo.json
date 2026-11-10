@@ -1,0 +1,1059 @@
+{
+ "T1": {
+  "name": "Toyosu Market",
+  "icon": "🐟",
+  "p": 1,
+  "inc": "yes",
+  "days": [
+   "D2"
+  ],
+  "desc": "Working wholesale market; tuna auction seen from upper windows",
+  "map": "https://www.google.com/maps/search/?api=1&query=Toyosu%20Market%20Tokyo",
+  "why": "Japan's biggest fish market at work; the dawn auction is free and calm that early.",
+  "hours": "Visitor areas ~5:00–17:00; tuna auction ~5:30–6:30. Closed Sun, holidays, most Wed (Nov 2026 closed 1, 3, 8, 11, 15, 18, 22, 23, 29). Open Thu 12.",
+  "price": "Free. No booking for the upper gallery.",
+  "stay": "~2 h (5:45–7:45)",
+  "access": "Taxi at dawn (trains start ~5:15): ask for Shijō-mae Station (市場前駅). Taxis can't drop at the market gates.",
+  "see": [
+   "Tuna auction from the upper-floor glass gallery of the Fish Wholesale Market Building (Block 7). The floor is painted green so the red tuna meat stands out.",
+   "Panels in the gallery explain the bidding hand signals.",
+   "After the auction: buyers hauling tuna away, until ~7:00.",
+   "Restaurants on the upper floor of the market buildings for a light snack (queues form from ~7:00)."
+  ],
+  "route": {
+   "enter": "Shijō-mae Station side, over the pedestrian walkway into the Fish Wholesale Market Building (Block 7).",
+   "walk": [
+    "Follow the visitor signs to the upper-floor observation gallery above the tuna floor.",
+    "Watch the auction ~5:45–6:25, then the floor until ~7:00.",
+    "Optional: browse the Intermediate Wholesale Building (Block 6) and the restaurant area.",
+    "Light snack only (the Tsukiji tour includes food)."
+   ],
+   "exit": "Back via the walkway to Shijō-mae Station; taxi to Tsukiji (~15 min, ~¥1,500), leave ~7:45."
+  },
+  "facts": [
+   "Toyosu replaced the old Tsukiji inner market in 2018.",
+   "Visitors are never allowed on the market floor; only licensed buyers bid.",
+   "A lower observation deck closer to the floor is by lottery only (not possible for November)."
+  ],
+  "tips": [
+   "Arrive before 6:00: the best spots at the glass fill early.",
+   "It's cold at dawn in November: bring a layer."
+  ],
+  "verified": "6 Nov 2026",
+  "trivia": [
+   "tsukiji-toyosu"
+  ]
+ },
+ "T2": {
+  "name": "Tsukiji Outer Market",
+  "icon": "🐟🍜",
+  "p": 1,
+  "inc": "yes",
+  "days": [
+   "D2"
+  ],
+  "desc": "Old market site; food stalls, knife and tea shops",
+  "map": "https://www.google.com/maps/search/?api=1&query=Tsukiji%20Outer%20Market",
+  "why": "The best place in Tokyo to graze on sushi, tamagoyaki and snacks.",
+  "hours": "Shops roughly 5:00/7:00–14:00, varies by shop. Closed Wed, Sun, holidays (follows the Toyosu calendar; closed Wed 11). Open Thu 12.",
+  "price": "Free; food per stall. Mostly cash.",
+  "stay": "2 h (guided tour 8:30–10:30)",
+  "access": "Hibiya Line Tsukiji Station, or Ōedo Line Tsukijishijō Station.",
+  "booking": "Guided tour booked Thu 12, 8:30–10:30 (Traveling Tokyo); food on the tour.",
+  "see": [
+   "About 460 shops: tamagoyaki stands, grilled seafood, sushi counters.",
+   "Knife and tea shops in the side alleys.",
+   "Namiyoke Inari Shrine, the market's guardian shrine (founded 1659).",
+   "Tsukiji Hongwanji, a temple built in an ancient Indian style, next to the station."
+  ],
+  "route": {
+   "enter": "Meet 8:25 at the Starbucks in front of Tsukiji Station (Tsukiji 2-12-8).",
+   "walk": [
+    "The guide leads through the main streets and the alleys behind them.",
+    "Eat at the stall where you buy; don't walk while eating.",
+    "Namiyoke Shrine is at the south-west edge of the market."
+   ],
+   "exit": "Tour ends at the same Starbucks. Walk to Hamarikyū's Ōtemon Gate, 10–15 min."
+  },
+  "facts": [
+   "The inner (wholesale) market moved to Toyosu in 2018; the outer retail market stayed.",
+   "Namiyoke means 'protection from waves': the shrine was built when this land was reclaimed from the sea."
+  ],
+  "tips": [
+   "Bring cash in small notes.",
+   "Ask before photographing shops."
+  ],
+  "verified": "6 Nov 2026",
+  "trivia": [
+   "tsukiji-toyosu"
+  ]
+ },
+ "T3": {
+  "name": "Tokyo National Museum",
+  "icon": "🏛️",
+  "p": 1,
+  "inc": "yes",
+  "days": [
+   "D1"
+  ],
+  "desc": "Swords, armour, ukiyo-e; Hiroshige exhibition",
+  "map": "https://www.google.com/maps/search/?api=1&query=Tokyo%20National%20Museum",
+  "why": "Japan's top collection of swords, armour and prints; the Hiroshige show runs during our trip.",
+  "hours": "9:30–17:00, last entry 16:30; Fri and Sat to 20:00. Closed Mon.",
+  "price": "Collection ¥1,000. Hiroshige ticket ¥1,500 includes the collection the same day (¥100 less online on Asoview, no booking needed).",
+  "stay": "2–4 h (planned 1 h 45 min)",
+  "access": "Ueno Park, 13-9 Ueno Kōen. JR Ueno Park exit, ~10 min walk.",
+  "see": [
+   "Hiroshige: New Perspective on Edo Japan (29 Sep–20 Dec). 27 Oct–23 Nov shows the Kisokaidō series.",
+   "Honkan room 13 (1st floor, right side): Japanese swords, Heian to Edo periods.",
+   "Honkan rooms 5–6 (2nd floor): swords and armour of the military elite.",
+   "Honkan room 10 (2nd floor): ukiyo-e prints."
+  ],
+  "route": {
+   "enter": "Main gate on the Ueno Park side. Tickets at the gate booths.",
+   "walk": [
+    "Straight ahead to the Honkan (the large main building).",
+    "Hiroshige exhibition first (check the signs for the room).",
+    "2nd floor: rooms 5–6 armour, room 10 prints.",
+    "1st floor: room 13 swords, last."
+   ],
+   "exit": "Back out through the main gate, then through Ueno Park to JR Ueno (~10 min)."
+  },
+  "facts": [
+   "Founded in 1872: Japan's oldest national museum.",
+   "The Honkan opened in 1938 and has 24 galleries on two floors.",
+   "The museum stands on land that belonged to Kan'ei-ji, the Tokugawa family temple.",
+   "The Hiroshige show celebrates a gift of 1,025 prints from the Uchiyama Susumu collection."
+  ],
+  "tips": [
+   "Room numbers are on the floor plan at the entrance. Displays rotate, so a famous sword may not be out."
+  ],
+  "trivia": [
+   "toranaga-ieyasu",
+   "sekigahara",
+   "edo-era"
+  ],
+  "verified": "6 Nov 2026"
+ },
+ "T4": {
+  "name": "Yanaka–Nezu",
+  "icon": "🏘️",
+  "p": 1,
+  "inc": "yes",
+  "days": [
+   "D1"
+  ],
+  "desc": "Pre-war streets, temples, Nezu Shrine",
+  "map": "https://www.google.com/maps/search/?api=1&query=Yanaka%20Ginza%20Tokyo",
+  "why": "One of the few old Tokyo areas that survived war and earthquakes; quiet, few tourists.",
+  "hours": "Nezu Shrine grounds 6:00–17:00 (seasonal); shrine office and goshuin 9:00–17:00. Yanaka streets 24 h; shops ~10:00–18:00.",
+  "price": "Free. Tour €56.30 for two.",
+  "stay": "3 h tour + 30 min at Nezu Shrine",
+  "access": "JR Nippori, north ticket gate (tour meeting point).",
+  "booking": "Guided tour booked Wed 11, 10:30–13:30 (Localized), €56.30 for two.",
+  "see": [
+   "Tennōji temple with its bronze Buddha from 1690.",
+   "Yanaka Cemetery: quiet lanes, grave of the last Tokugawa shogun.",
+   "Yūyake Dandan, the 'sunset steps' down to Yanaka Ginza.",
+   "Yanaka Ginza: about 70 small shops and snack stalls; cat motifs everywhere.",
+   "Nezu Shrine: lacquered halls from 1706 and the Otome Inari path of red torii gates."
+  ],
+  "route": {
+   "enter": "JR Nippori north ticket gate, 10:20 (next to NewDays).",
+   "walk": [
+    "The tour route is the guide's; it ends at Yanaka Ginza around 13:30.",
+    "Lunch around Yanaka Ginza or on the way to Nezu.",
+    "Walk south ~20 min to Nezu Shrine: enter by the main torii, then the Otome Inari torii path on the left side of the main hall."
+   ],
+   "exit": "From Nezu Shrine walk ~20–25 min via Ueno Sakuragi to the Tokyo National Museum."
+  },
+  "facts": [
+   "Nezu Shrine's present buildings were built in 1706 by the fifth Tokugawa shogun, Tsunayoshi.",
+   "The shrine claims a founding about 1,900 years ago, by the legendary prince Yamato Takeru.",
+   "Tokugawa Yoshinobu, the last shogun, is buried in Yanaka Cemetery."
+  ],
+  "tips": [
+   "Narrow lanes with no sidewalks: watch for cars.",
+   "Keep voices low in the cemetery and residential lanes."
+  ],
+  "verified": "6 Nov 2026",
+  "trivia": [
+   "edo-era",
+   "shinto-buddhism",
+   "bonsai-stories",
+   "yanaka-survivor"
+  ]
+ },
+ "T5": {
+  "name": "Chanko-nabe dinner, Ryōgoku",
+  "icon": "🍜",
+  "p": 1,
+  "inc": "yes",
+  "days": [
+   "D2"
+  ],
+  "desc": "Sumo wrestlers' stew",
+  "map": "https://www.google.com/maps/search/?api=1&query=chanko%20nabe%20Ryogoku",
+  "why": "Hearty local dish in the sumo district.",
+  "hours": "Chanko Kawasaki: 17:00–21:00 (Sat to 20:30). Closed Sun and holidays (one listing also says Wed). Open Thu 12.",
+  "price": "Nadai chanko ¥3,130 per portion (tables order from 2 portions); course ¥5,240. Cash only.",
+  "stay": "~1.5 h",
+  "access": "Chanko Kawasaki, Ryōgoku 2-13-1. JR Ryōgoku, ~5 min walk.",
+  "booking": "Not booking; decide on the day. Tel. +81 3 3631 2529. Backups: Kirishima, Ami, Chanko Dojo.",
+  "see": [
+   "Nadai chanko: 'soppu-daki' style, chicken bones simmered into a light, clear broth with chicken, vegetables and tofu.",
+   "Tsukune (hand-made chicken meatballs) grilled or in the pot.",
+   "Finish with rice or noodles in the leftover broth (shime)."
+  ],
+  "facts": [
+   "Chanko Kawasaki opened in 1937, founded by the former wrestler Yokoteyama: Ryōgoku's oldest chanko shop.",
+   "'Chanko' means any meal eaten in a sumo stable; the hot pot is the famous one.",
+   "Chicken is traditional: it stands on two legs, like a wrestler who stays on his feet."
+  ],
+  "tips": [
+   "Cash only.",
+   "No booking for 2 people: arrive at 17:00 opening to be safe."
+  ],
+  "verified": "6 Nov 2026",
+  "route": {
+   "enter": "JR Ryōgoku west exit; the restaurant is right by the station (Ryōgoku 2-13-1).",
+   "walk": [
+    "Small wooden house; take shoes off if seated on tatami.",
+    "Order the pot for two; the staff start it at the table.",
+    "Ryōgoku Kokugikan (sumo hall) is a 3-min walk if you want to see it from outside."
+   ],
+   "exit": "Back to JR Ryōgoku, or Ōedo Line Ryōgoku (~5 min walk)."
+  },
+  "trivia": [
+   "purity-water",
+   "sumo-shinto"
+  ]
+ },
+ "T6": {
+  "name": "Kappabashi",
+  "icon": "🛍️",
+  "p": 1,
+  "inc": "yes",
+  "days": [
+   "D2"
+  ],
+  "desc": "Kitchen-tool street: knives, ceramics, food samples",
+  "map": "https://www.google.com/maps/search/?api=1&query=Kappabashi%20Dougu%20Street",
+  "why": "A real working street for chefs, 5 min from the hotel.",
+  "hours": "Most shops 9:00/10:00–17:00/17:30; many closed Sun and holidays. Open Thu 12.",
+  "price": "Free to walk.",
+  "stay": "40 min before the class + ~30 min after",
+  "access": "Tawaramachi Station (Ginza Line), ~5 min walk. The hotel is next to it.",
+  "see": [
+   "Niimi: the giant chef's head on the roof at the south end.",
+   "Kama-Asa (since 1908): knives and iron pans; staff help you choose.",
+   "Kamata Hakensha (since 1923): knives and sharpening.",
+   "Ganso Shokuhin Sample-ya: realistic plastic food samples.",
+   "The golden Kappa statue at the Kappabashi crossing."
+  ],
+  "route": {
+   "enter": "South end, at the Niimi chef's head (Asakusa-dōri).",
+   "walk": [
+    "Walk the whole ~800 m to the north end first without buying, to see all the shops.",
+    "Then come back to the shops you liked; the knife shops are mid-street.",
+    "Class at 15:00 at Nishiasakusa 1-9-8 (T10)."
+   ],
+   "exit": "Back to the south end; the hotel and Tawaramachi Station are 5 min away."
+  },
+  "facts": [
+   "About 170 shops line an 800 m street.",
+   "The street began trading second-hand kitchen tools around 1912.",
+   "A kappa is a water spirit; legend links it to a flood-control canal dug here."
+  ],
+  "tips": [
+   "Knives go in checked baggage only.",
+   "Ask for tax-free with your passport (purchases over ¥5,000)."
+  ],
+  "verified": "places.md + 6 Nov 2026",
+  "trivia": [
+   "sakai-blades",
+   "food-samples"
+  ]
+ },
+ "T7": {
+  "name": "Imperial Palace East Gardens",
+  "icon": "🏯",
+  "p": 2,
+  "inc": "no",
+  "desc": "Edo Castle site, keep foundations",
+  "map": "https://www.google.com/maps/search/?api=1&query=Imperial%20Palace%20East%20Gardens",
+  "why": "Free walk through the stone walls of Ieyasu's (Toranaga's) castle; a core Shōgun site.",
+  "decision": "T27 picked instead",
+  "hours": "Closed Mon and Fri. Nov: 9:00–16:00 (last entry 15:30).",
+  "see": [
+   "Stone walls and moats of Edo Castle.",
+   "Foundations of the main keep (tenshudai), a 1600s stone base.",
+   "Ninomaru garden."
+  ],
+  "route": {
+   "enter": "Ōtemon Gate (Ōtemachi Station).",
+   "walk": [
+    "Up through the guardhouses to the Honmaru plateau and the keep base."
+   ],
+   "exit": "Hirakawamon or Kitahanebashimon gate."
+  },
+  "facts": [
+   "Edo Castle's keep burned in 1657 and was never rebuilt."
+  ],
+  "price": "Free.",
+  "trivia": [
+   "edo-castle"
+  ]
+ },
+ "T8": {
+  "name": "Shibamata",
+  "icon": "🏘️🛕",
+  "p": 2,
+  "inc": "no",
+  "desc": "Old temple town; Taishakuten carvings, Edo River ferry",
+  "map": "https://www.google.com/maps/search/?api=1&query=Shibamata%20Taishakuten",
+  "why": "Like Asakusa without the crowds.",
+  "decision": "Far away",
+  "see": [
+   "Taishakuten temple: wooden halls covered in fine carvings.",
+   "Taishakuten-sandō street: kusa-dango, eel, soba.",
+   "Yagiri no Watashi: hand-rowed ferry across the Edo River."
+  ],
+  "route": {
+   "enter": "Keisei Shibamata Station.",
+   "walk": [
+    "Sandō street → Taishakuten → Suikei-en garden → Yagiri ferry."
+   ],
+   "exit": "Back to Shibamata Station."
+  },
+  "hours": "Temple 5:00–20:00; carvings and garden ~9:00–16:00.",
+  "price": "Carvings + garden ¥400."
+ },
+ "T9": {
+  "name": "Tochō observation deck",
+  "icon": "🌄",
+  "p": 2,
+  "inc": "maybe",
+  "days": [
+   "D3"
+  ],
+  "desc": "Free view from 202 m; Fuji on clear days",
+  "map": "https://www.google.com/maps/search/?api=1&query=Tokyo%20Metropolitan%20Government%20Building%20Observation%20Deck",
+  "why": "Free big-city view, Fuji on a clear day.",
+  "decision": "Decide later (Fri 13, either option)",
+  "hours": "South Deck 9:30–22:00 (last entry 21:30), closed 1st and 3rd Tue (Nov: 4 and 17). North Deck 9:30–17:30, closed 2nd and 4th Mon (Nov: 9 and 24). Both open Fri 13.",
+  "price": "Free.",
+  "stay": "30–45 min",
+  "access": "Tochōmae Station (Ōedo Line), direct. ~10 min walk from Shinjuku Station west exit.",
+  "see": [
+   "360° view over Tokyo from the 45th floor.",
+   "Skytree to the east, Fuji to the west on clear days (best before sunset)."
+  ],
+  "route": {
+   "enter": "Tokyo Metropolitan Government Building No. 1, 1st floor: follow the signs to the observatory lifts. Bag check before the lift.",
+   "walk": [
+    "Lift to the 45th floor.",
+    "Walk the full circle; Fuji is on the west side."
+   ],
+   "exit": "Same lift down. Unatetsu in Kabukichō is ~20 min on foot."
+  },
+  "facts": [
+   "The twin-tower building (1991) was designed by Kenzō Tange."
+  ],
+  "verified": "6 Nov 2026"
+ },
+ "T10": {
+  "name": "Fuji Japan sharpening class",
+  "icon": "🔪",
+  "p": 2,
+  "inc": "yes",
+  "days": [
+   "D2"
+  ],
+  "desc": "2 h whetstone class at Kappabashi",
+  "map": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E8%A5%BF%E6%B5%85%E8%8D%891-9-8",
+  "why": "Learn to sharpen a Japanese knife properly, next to Kappabashi.",
+  "hours": "Booked Thu 12, 15:00–17:00.",
+  "price": "€84.45 paid (Dimitar only, Standard Plan).",
+  "stay": "2 h",
+  "access": "1-9-8 Nishiasakusa, Taitō-ku (Fujijapan sign at the entrance), a few minutes' walk from the hotel.",
+  "booking": "Viator ref 1462063611 (operator VIA-108304929), booked via Expedia 73580595256490. Tel. +81 3 6824 5991.",
+  "see": [
+   "Whetstone grits (coarse → fine) and how to hold the angle.",
+   "Hands-on practice on a Japanese knife under guidance; all tools provided.",
+   "Tips for care at home: drying, storage, when to re-sharpen."
+  ],
+  "tips": [
+   "Come empty-handed: knife, whetstone, stand, apron and towel are provided.",
+   "Knife shops on Kappabashi give a free first sharpening on purchase."
+  ],
+  "route": {
+   "enter": "Look for the Fujijapan sign at 1-9-8 Nishiasakusa; arrive 5–10 min early (15:00 start).",
+   "walk": [
+    "2 h session; ends back at the meeting point."
+   ],
+   "exit": "Kappabashi is next door; most shops close 17:00–17:30."
+  },
+  "facts": [
+   "Japanese knives are usually sharpened at a narrower angle (~15°) than Western ones (~20°).",
+   "Many Japanese knives are single-bevel: sharpened on one side only."
+  ],
+  "trivia": [
+   "sakai-blades"
+  ]
+ },
+ "T11": {
+  "name": "Mt. Takao",
+  "icon": "🌲",
+  "p": 2,
+  "inc": "weather",
+  "days": [
+   "D3"
+  ],
+  "desc": "Forest hike, Yakuōin temple, soba",
+  "map": "https://www.google.com/maps/search/?api=1&query=Takaosanguchi%20Station",
+  "why": "Easy forest hike with a mountain temple and autumn colour; Tokyo's nature day.",
+  "decision": "Fri 13 Option A, if the weather is good (decide Thu evening)",
+  "hours": "Cable car 8:00–17:45 in November (every 15 min); chairlift 9:00–16:30. Yakuōin grounds open daytime.",
+  "price": "Cable car ¥490 one way, ¥950 return.",
+  "stay": "Half to full day",
+  "access": "Keio Line Shinjuku → Takaosanguchi, ~50 min. Not JR Takao Station.",
+  "see": [
+   "Yakuōin: mountain temple with tengu (long-nosed goblin) statues. 📿 stamp.",
+   "Takosugi: a giant cedar with octopus-like roots on Trail 1.",
+   "Summit (599 m): view over Tokyo; Fuji on clear mornings.",
+   "Autumn colour: summit mid–late November, lower slopes later."
+  ],
+  "route": {
+   "enter": "Takaosanguchi Station → Kiyotaki Station (cable car), ~5 min walk.",
+   "walk": [
+    "Cable car up (~6 min) or walk Trail 1 from the bottom (3.8 km, ~100 min up).",
+    "Trail 1 (paved) from the upper station past Takosugi to Yakuōin.",
+    "Continue on Trail 1 to the summit (~40–60 min from the upper station).",
+    "Soba lunch near the summit or on the way down."
+   ],
+   "exit": "Down by Trail 1 or the cable car; Keio Line back to Shinjuku."
+  },
+  "facts": [
+   "The cable car climbs at about 31°, one of the steepest in Japan.",
+   "Yakuōin was founded in 744, a centre of mountain worship."
+  ],
+  "tips": [
+   "Start early: autumn queues at the cable car build after 9:00.",
+   "Trail 1 is paved; other trails are real mountain paths."
+  ],
+  "verified": "6 Nov 2026",
+  "trivia": [
+   "momijigari",
+   "takao-tengu"
+  ]
+ },
+ "T12": {
+  "name": "Edo-Tokyo Museum",
+  "icon": "🏛️",
+  "p": 3,
+  "inc": "no",
+  "desc": "Edo life dioramas, Edo Castle model",
+  "map": "https://www.google.com/maps/search/?api=1&query=Edo-Tokyo%20Museum",
+  "why": "Best indoor overview of Edo life; a good rain backup.",
+  "decision": "No rain backup",
+  "see": [
+   "Life-size half of Nihonbashi bridge.",
+   "Models of Edo Castle and townhouses."
+  ],
+  "hours": "9:30–17:30 (Sat to 19:30), closed Mon.",
+  "price": "¥800.",
+  "route": {
+   "enter": "Ryōgoku Station (Ōedo Line A3/A4, 1 min).",
+   "walk": [
+    "Permanent exhibition on 5F and 6F."
+   ],
+   "exit": "Japanese Sword Museum next door."
+  },
+  "facts": [
+   "Reopened 31 Mar 2026 after renovation.",
+   "The building is the same height as the old Edo Castle keep."
+  ]
+ },
+ "T13": {
+  "name": "Sensō-ji",
+  "icon": "🛕",
+  "p": 3,
+  "inc": "maybe",
+  "days": [
+   "D1"
+  ],
+  "desc": "Oldest temple in Tokyo; early morning or evening only",
+  "map": "https://www.google.com/maps/search/?api=1&query=Senso-ji",
+  "why": "Iconic but crowded; only worth it at dawn or at night.",
+  "decision": "Optional: evening, if dinner is in Asakusa",
+  "hours": "Grounds 24 h. Lit from sunset to ~23:00; main hall closed at night. Nakamise shops from 10:00.",
+  "price": "Free.",
+  "stay": "30 min",
+  "access": "Asakusa Station (Ginza Line); ~10 min walk from the hotel.",
+  "see": [
+   "Kaminarimon (Thunder Gate) with its huge red lantern.",
+   "Nakamise street (shutters closed at night, painted with Edo scenes).",
+   "Hōzōmon gate and the five-storey pagoda, both lit at night.",
+   "Main hall from outside, with Skytree behind."
+  ],
+  "route": {
+   "enter": "Kaminarimon Gate on Kaminarimon-dōri.",
+   "walk": [
+    "Straight along Nakamise to Hōzōmon.",
+    "Main hall courtyard; pagoda on the left."
+   ],
+   "exit": "West side towards Kappabashi; the hotel is ~10 min walk."
+  },
+  "facts": [
+   "The temple claims a founding in 628.",
+   "The night lighting started in 2003, for Edo's 400th anniversary.",
+   "The pagoda was rebuilt in 1973; its top holds relics of the Buddha from Sri Lanka."
+  ],
+  "verified": "6 Nov 2026",
+  "trivia": [
+   "shinto-buddhism",
+   "new-year",
+   "senso-ji-statue"
+  ]
+ },
+ "T14": {
+  "name": "Japanese Sword Museum",
+  "icon": "🏛️",
+  "p": 3,
+  "inc": "no",
+  "desc": "Blades; Old Yasuda Garden in front",
+  "map": "https://www.google.com/maps/search/?api=1&query=Japanese%20Sword%20Museum%20Ryogoku",
+  "why": "Small, blade-focused museum.",
+  "decision": "No rain backup",
+  "see": [
+   "Special exhibition 'Kotetsu and Sukehiro' (24 Oct–20 Dec 2026).",
+   "Old Yasuda Garden in front."
+  ],
+  "hours": "9:30–17:00 (last entry 16:30), closed Mon.",
+  "price": "¥1,500.",
+  "route": {
+   "enter": "Ryōgoku Station, next to the Edo-Tokyo Museum.",
+   "walk": [
+    "One floor of displays; ~1 h."
+   ],
+   "exit": "Through Old Yasuda Garden."
+  }
+ },
+ "T15": {
+  "name": "Anjin-chō plaque",
+  "icon": "🏯",
+  "p": 3,
+  "inc": "maybe",
+  "days": [
+   "D3"
+  ],
+  "desc": "Site of William Adams' house",
+  "map": "https://www.google.com/maps/search/?api=1&query=%E4%B8%89%E6%B5%A6%E6%8C%89%E9%87%9D%E5%B1%8B%E6%95%B7%E8%B7%A1%20%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%AE%A4%E7%94%BA",
+  "why": "A 5-minute Shōgun stop.",
+  "decision": "Optional with T20 (Fri 13 Option B)",
+  "stay": "5 min",
+  "access": "Nihonbashi Muromachi, next to Mitsukoshi (T20).",
+  "trivia": [
+   "adams-anjin"
+  ],
+  "hours": "Outdoor plaque, any time.",
+  "price": "Free.",
+  "see": [
+   "A small stone marker for the site of William Adams' Edo house, in a quiet side street."
+  ],
+  "route": {
+   "enter": "Mitsukoshimae Station (Ginza Line), exit towards Muromachi 1-chōme.",
+   "walk": [
+    "Walk 2–3 min east of Mitsukoshi to the plaque (三浦按針屋敷跡)."
+   ],
+   "exit": "Back to Mitsukoshi for the depachika (T20)."
+  },
+  "facts": [
+   "The street was called Anjin-chō from Adams' Japanese name, Miura Anjin."
+  ]
+ },
+ "T16": {
+  "name": "Kawagoe \"Little Edo\"",
+  "icon": "🚆🏘️",
+  "p": 3,
+  "inc": "no",
+  "desc": "Edo warehouse street, Kita-in",
+  "map": "https://www.google.com/maps/search/?api=1&query=Kawagoe%20Ichibangai",
+  "why": "Edo-era merchant town, but costs half a day.",
+  "decision": "Skipped",
+  "see": [
+   "Kurazukuri Street: clay-walled Edo warehouses.",
+   "Toki-no-Kane bell tower.",
+   "Kashiya Yokochō sweets alley.",
+   "Kita-in: Edo Castle rooms and 540 rakan statues."
+  ],
+  "route": {
+   "enter": "Tobu Kawagoe or Seibu Hon-Kawagoe Station.",
+   "walk": [
+    "Walk north ~15–20 min to Ichibangai, then Kita-in."
+   ],
+   "exit": "Bus or walk back to the station."
+  },
+  "price": "Kita-in ¥400."
+ },
+ "T18": {
+  "name": "Tsukishima monja",
+  "icon": "🍜🏘️",
+  "p": 2,
+  "inc": "maybe",
+  "days": [
+   "D3"
+  ],
+  "desc": "~80 monjayaki shops on an 1890s island",
+  "map": "https://www.google.com/maps/search/?api=1&query=Tsukishima%20Monja%20Street",
+  "why": "A dish you only find in Tokyo, in an old shitamachi area.",
+  "decision": "Option B lunch, choice on the day",
+  "hours": "Many 11:00–23:00; some evening-only or closed Mon. Shorter queues at lunch.",
+  "stay": "~1.5 h",
+  "access": "Tsukishima Station exit 7 (Ōedo/Yūrakuchō Line); ~30 min from the hotel.",
+  "see": [
+   "Monjayaki: thin batter with cabbage and fillings (mentaiko-mochi-cheese is the classic), cooked on the table griddle.",
+   "Okonomiyaki is also on every menu if you prefer something firmer."
+  ],
+  "tips": [
+   "Eat it straight off the griddle with the tiny spatula (hagashi)."
+  ],
+  "price": "~¥1,500–3,000 per person.",
+  "route": {
+   "enter": "Tsukishima Station exit 7 (Ōedo/Yūrakuchō Line).",
+   "walk": [
+    "Nishinaka-dōri, the 'Monja Street', starts at the exit; ~80 shops on both sides.",
+    "Pick a shop with a short queue; most have picture menus."
+   ],
+   "exit": "Tsukishima Station; Tsukiji is 1 stop away."
+  },
+  "facts": [
+   "Tsukishima is land reclaimed from Tokyo Bay in 1892.",
+   "Monja began as a cheap snack for children in Tokyo's old downtown."
+  ]
+ },
+ "T19": {
+  "name": "Yūrakuchō gādo-shita",
+  "icon": "🍜",
+  "p": 2,
+  "inc": "maybe",
+  "days": [
+   "D3"
+  ],
+  "desc": "Yakitori and izakaya under railway arches",
+  "map": "https://www.google.com/maps/search/?api=1&query=Yurakucho%20gado-shita%20yakitori",
+  "why": "Local post-war eating alleys, not built for tourists; evenings only.",
+  "decision": "Option B evening, choice on the day",
+  "stay": "1.5–2 h",
+  "access": "JR Yūrakuchō, or Ginza Line to Ginza (~20 min from the hotel).",
+  "see": [
+   "Yakitori and beer under ~700 m of brick railway arches, trains rumbling overhead."
+  ],
+  "facts": [
+   "Eating under the tracks began here in the black markets after WWII."
+  ],
+  "hours": "Most places from ~16:00/17:00 to late; some closed Sun.",
+  "price": "~¥2,000–4,000 per person.",
+  "route": {
+   "enter": "JR Yūrakuchō Station, Hibiya exit side.",
+   "walk": [
+    "Walk along the brick arches between Yūrakuchō and Shimbashi.",
+    "Pick a busy yakitori stall; plastic stools and beer crates are normal."
+   ],
+   "exit": "Yūrakuchō or Ginza Station (Ginza Line direct to Tawaramachi)."
+  },
+  "tips": [
+   "Some places charge a small table charge (otōshi) with a starter."
+  ]
+ },
+ "T20": {
+  "name": "Depachika lunch",
+  "icon": "🍜",
+  "p": 2,
+  "inc": "maybe",
+  "days": [
+   "D3"
+  ],
+  "desc": "Department-store food basements",
+  "map": "https://www.google.com/maps/search/?api=1&query=Nihombashi%20Mitsukoshi%20Main%20Store",
+  "why": "Cheap tasting lunch with no extra travel, next to the Anjin-chō plaque.",
+  "decision": "Option B lunch, choice on the day",
+  "hours": "Mitsukoshi Nihombashi 10:00–19:00; basement food floor and 1F to 19:30.",
+  "stay": "45 min",
+  "access": "Mitsukoshi Nihombashi, Mitsukoshimae Station (Ginza Line, direct from Tawaramachi).",
+  "see": [
+   "Basement food hall: bentō, sushi, wagashi sweets, perfect fruit.",
+   "The main hall on 1F: a 5-storey art-deco atrium with a huge Tennyo (Goddess) statue."
+  ],
+  "facts": [
+   "The main building (1935) is an Important Cultural Property.",
+   "Mitsukoshi declared itself Japan's first department store in 1904."
+  ],
+  "verified": "6 Nov 2026",
+  "price": "Bentō ~¥1,000–2,500.",
+  "route": {
+   "enter": "Mitsukoshimae Station (Ginza Line): exits lead straight into the store's basement.",
+   "walk": [
+    "Food floor B1 (main and new buildings).",
+    "Eat-in corners are few: buy and eat in the rest area or at a counter."
+   ],
+   "exit": "Anjin-chō plaque (T15) is 2–3 min away."
+  },
+  "trivia": [
+   "omiyage"
+  ]
+ },
+ "T21": {
+  "name": "Tempura and soba",
+  "icon": "🍜",
+  "p": 2,
+  "inc": "maybe",
+  "days": [
+   "D3"
+  ],
+  "desc": "Edo classics",
+  "why": "Only a meal, no extra time needed.",
+  "decision": "Option B lunch, choice on the day; no fixed place",
+  "pending": "No restaurant chosen yet: choose on the day.",
+  "see": [
+   "Tempura: seafood and vegetables fried in light batter, eaten at a counter as they come out.",
+   "Soba: buckwheat noodles, cold (zaru) with dipping sauce or hot in broth."
+  ],
+  "facts": [
+   "Both were Edo fast food, sold from street stalls in the 1700s."
+  ],
+  "tips": [
+   "Slurping soba is normal and polite."
+  ]
+ },
+ "T22": {
+  "name": "Shinjuku Unatetsu",
+  "icon": "🍜",
+  "p": 1,
+  "inc": "yes",
+  "days": [
+   "D3"
+  ],
+  "desc": "Eel only: skewers of every part, unajū, hitsumabushi",
+  "map": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%AE%BF%E3%81%86%E3%81%AA%E9%90%B5%20%E3%81%AF%E3%81%AA%E3%82%8C",
+  "why": "Your pick: the whole eel, head to tail, grilled on skewers.",
+  "hours": "11:00–23:30 (last order 23:00), daily; closed 31 Dec–2 Jan. (Ikyu lists 11:00–24:30.)",
+  "price": "9-skewer set ¥4,136; unajū tokujō ¥5,412; hitsumabushi ¥5,698; ~¥7,000 pp.",
+  "stay": "~1.5 h",
+  "access": "Unatetsu Hanare, Kabukichō 1-22-2. Seibu-Shinjuku Stn 1 min, JR Shinjuku east exit 5 min; ~35 min from the hotel.",
+  "booking": "To book: Ikyu restaurant.ikyu.com/117045 (Japanese, use Chrome translate; 100% cancellation fee). Fri 13, 16:30, 2 people.",
+  "see": [
+   "The skewer set: liver (kimo), fins (hire), belly (bara), head (kabuto) and more, each grilled differently.",
+   "Unajū: grilled eel on rice in a lacquer box.",
+   "Hitsumabushi: eat it three ways (plain, with condiments, then with broth)."
+  ],
+  "tips": [
+   "Cards and PayPay accepted. Non-smoking (heated tobacco on 3F only)."
+  ],
+  "verified": "6 Nov 2026",
+  "route": {
+   "enter": "Kabukichō 1-22-2: a small two-storey house; Seibu-Shinjuku Station 1–2 min.",
+   "walk": [
+    "Counter on 1F (watch the grilling), tatami room on 2F.",
+    "Order the skewer set plus one unajū or hitsumabushi to share."
+   ],
+   "exit": "Seibu-Shinjuku / JR Shinjuku east exit; ~35 min to the hotel."
+  },
+  "facts": [
+   "Unatetsu started in 1962 in Shibuya (the original is T25).",
+   "The eel is grilled directly over charcoal without steaming (Kansai style)."
+  ]
+ },
+ "T23": {
+  "name": "Tama Sushi, Kanda",
+  "icon": "🍜",
+  "p": 1,
+  "inc": "yes",
+  "days": [
+   "D1"
+  ],
+  "desc": "Small one-chef Edomae sushi counter",
+  "map": "https://www.google.com/maps/search/?api=1&query=35.693522%2C139.7681963",
+  "why": "Your pick: a neighbourhood sushi counter, not a tourist place.",
+  "hours": "⚠️ Unclear: one 2026 listing shows lunch only (Mon–Fri 11:00–15:00, closed Sat, Sun, holidays); older listings and reviews show dinner too. Confirm by phone on Tue 10.",
+  "price": "Lunch nigiri ~¥1,100; dinner budget ¥2,000–8,000 depending on listing.",
+  "stay": "~1 h",
+  "access": "Kanda Tsukasamachi 2-16-8. Shin-Ochanomizu / Awajichō / Ogawamachi Stn, 3 min.",
+  "booking": "Phone only: +81 3 3256 3220. Ask APA reception on Tue 10 to call.",
+  "see": [
+   "Edomae nigiri served one piece at a time by the chef.",
+   "Ask for omakase (chef's choice)."
+  ],
+  "tips": [
+   "Solo chef: service is slow, relax.",
+   "Smoking used to be allowed (check)."
+  ],
+  "verified": "6 Nov 2026",
+  "route": {
+   "enter": "Kanda Tsukasamachi 2-16-8, on Ichihachi-dōri; Awajichō Station exit A2, ~3 min.",
+   "walk": [
+    "Counter of 6–8 seats; sit at the counter."
+   ],
+   "exit": "Ginza Line from Kanda or Awajichō area back to Tawaramachi (~12 min)."
+  },
+  "facts": [
+   "The shop has been on this street for over 40 years.",
+   "Neighbour: Yatsude-ya, a famous old tendon (tempura rice bowl) shop."
+  ]
+ },
+ "T24": {
+  "name": "Sushi Mitsuyoshi, Shinjuku Gyoen",
+  "icon": "🍜",
+  "p": 1,
+  "inc": "no",
+  "desc": "8-seat omakase counter, sake pairing",
+  "map": "https://www.google.com/maps/search/?api=1&query=%E9%AE%A8%20%E3%81%BF%E3%81%A4%E3%82%88%E3%81%97%20%E6%96%B0%E5%AE%BF%E5%BE%A1%E8%8B%91",
+  "why": "Chef-chosen omakase with sake at a fair price.",
+  "decision": "Over 1 h travel for one meal; replaced by T24a, T24b or T24c",
+  "see": [
+   "8-seat counter, omakase of 22 items with optional sake pairing."
+  ],
+  "hours": "Dinner from 17:00 (last seating 20:00); closed Sun and holidays.",
+  "price": "Omakase ¥10,890; with sake ¥15,890."
+ },
+ "T24a": {
+  "name": "Sushi Kajiwara, Nezu",
+  "icon": "🍜",
+  "p": 2,
+  "inc": "maybe",
+  "days": [
+   "D1"
+  ],
+  "desc": "Neighbourhood sushi counter near the end of T4",
+  "map": "https://www.google.com/maps/search/?api=1&query=Sushi%20Kajiwara%20Nezu%20Tokyo",
+  "why": "Least extra travel on the Yanaka–Nezu day.",
+  "decision": "Backup dinner, choice on the spot",
+  "hours": "Lunch 11:30–12:30, dinner 17:30–21:00; closed Sun and Mon (user listing, not confirmed online on 6 Nov).",
+  "price": "Dinner ~¥10,000–15,000. No cards, PayPay accepted (verify).",
+  "access": "Nezu 2-30-2, Bunkyō-ku. Nezu Stn 4 min. Tel. 03-5685-0933.",
+  "see": [
+   "Small counter sushi in a residential street near Nezu Shrine."
+  ],
+  "route": {
+   "enter": "Nezu Station (Chiyoda Line), 4 min.",
+   "walk": [
+    "Counter seats; ask for omakase."
+   ],
+   "exit": "Nezu Station → Chiyoda Line."
+  },
+  "facts": [
+   "Nezu, Yanaka and Sendagi together are nicknamed 'Yanesen'."
+  ]
+ },
+ "T24b": {
+  "name": "Sushi Kanesho, Asakusa",
+  "icon": "🍜",
+  "p": 2,
+  "inc": "maybe",
+  "days": [
+   "D1"
+  ],
+  "desc": "8-seat omakase counter with sake",
+  "map": "https://www.google.com/maps/search/?api=1&query=Sushi%20Kanesho%20Asakusa",
+  "why": "Closest match to Mitsuyoshi's counter and sake.",
+  "decision": "Backup dinner, choice on the spot",
+  "hours": "Dinner Tue–Sat 17:00–22:00 (L.O. 21:00), Sun and holidays 17:00–21:00; lunch Wed–Sun 11:30–14:00. Closed Mon and 1st and 3rd Sun. Open Wed 11.",
+  "price": "Omakase ~¥12,000–20,000. Cards from ¥10,000.",
+  "access": "Asakusa 3-33-9. Tsukuba Express Asakusa exit A2, 9 min. Tel. 03-3871-6081.",
+  "booking": "Book on Ikyu; 100% fee for cancellations or changes.",
+  "verified": "6 Nov 2026",
+  "see": [
+   "8–9-seat counter with chef's omakase; seasonal fish and sake chosen to match."
+  ],
+  "route": {
+   "enter": "Asakusa 3-33-9, Miyashita Bldg 101; north of Sensō-ji.",
+   "walk": [
+    "Counter seating; course only."
+   ],
+   "exit": "~15 min walk to the hotel, or taxi."
+  },
+  "facts": [
+   "Listed as a Michelin Guide Tokyo Selected restaurant (2024 and 2026)."
+  ]
+ },
+ "T24c": {
+  "name": "Sushi Yu, Asakusa",
+  "icon": "🍜",
+  "p": 2,
+  "inc": "maybe",
+  "days": [
+   "D1"
+  ],
+  "desc": "Edomae sushi with raw bluefin, near the hotel",
+  "map": "https://www.google.com/maps/search/?api=1&query=Asakusa%20Sushi%20Yu",
+  "why": "Close to the hotel, but dinner starts at 18:00.",
+  "decision": "Backup dinner, choice on the spot",
+  "hours": "Mon–Sat 18:00–22:30 (L.O. 22:00); closed Sun and holidays. Reservation only, at least 3 days ahead. Open Wed 11.",
+  "price": "~¥14,000 average; cards accepted.",
+  "access": "Nishi-Asakusa 3-16-8. Tsukuba Express Asakusa exit A2, 1 min; Tawaramachi Stn 7 min. Tel. 03-3845-1913.",
+  "booking": "Hot Pepper; online booking closes 3 days before at 18:00.",
+  "verified": "6 Nov 2026",
+  "see": [
+   "Edomae sushi with raw (never frozen) wild bluefin and aged white fish.",
+   "Counter with 'hand-passed' nigiri, plus 2 private rooms."
+  ],
+  "route": {
+   "enter": "Nishi-Asakusa 3-16-8; Tsukuba Express Asakusa exit A2, 1 min.",
+   "walk": [
+    "Sit at the counter for the hand-passed nigiri."
+   ],
+   "exit": "~7 min walk to the hotel."
+  },
+  "facts": [
+   "The owner trained at Ginza Sushi-kō, founded 1885."
+  ]
+ },
+ "T25": {
+  "name": "Ganso Unatetsu, Shibuya",
+  "icon": "🍜",
+  "p": 3,
+  "inc": "no",
+  "desc": "The original Unatetsu, since 1957",
+  "map": "https://www.google.com/maps/search/?api=1&query=%E5%85%83%E7%A5%96%E3%81%86%E3%81%AA%E9%90%B5%20%E6%B8%8B%E8%B0%B7",
+  "why": "A second eel meal only if we pass through Shibuya.",
+  "decision": "Skipped",
+  "see": [
+   "The original Unatetsu: skewers of every eel part at dinner."
+  ],
+  "hours": "Mon–Thu 11:30–15:00 and 16:30–22:30, Fri to 23:00, Sat 16:30–21:00; closed Sun and holidays."
+ },
+ "T26": {
+  "name": "Shunkaen Bonsai Museum",
+  "icon": "🌲🏛️",
+  "p": 3,
+  "inc": "no",
+  "desc": "Master Kunio Kobayashi's garden; optional workshop",
+  "map": "https://www.google.com/maps/search/?api=1&query=Shunkaen%20Bonsai%20Museum",
+  "why": "A living master's bonsai garden.",
+  "decision": "Skipped",
+  "see": [
+   "Bonsai master Kunio Kobayashi's garden, hundreds of trees, some centuries old.",
+   "Optional 1 h workshop."
+  ],
+  "hours": "10:00–17:00, closed Mon.",
+  "price": "¥2,000; workshop ¥8,000."
+ },
+ "T27": {
+  "name": "Hamarikyū Gardens + Nakajima no Ochaya",
+  "icon": "🏯🌲🍵",
+  "p": 2,
+  "inc": "yes",
+  "days": [
+   "D2"
+  ],
+  "desc": "Tokugawa shogun garden, tidal pond, teahouse on the water",
+  "map": "https://www.google.com/maps/search/?api=1&query=Hamarikyu%20Gardens",
+  "why": "Old shogunal garden 10–15 min walk from Tsukiji, with a calm matcha break in the pond teahouse; not a ceremony.",
+  "hours": "9:00–17:00 (last entry 16:30). Teahouse 9:00–16:45 (L.O. 16:30).",
+  "price": "Garden ¥300. Matcha + wagashi ¥1,000.",
+  "stay": "1.5 h (10:45–12:15)",
+  "access": "From Tsukiji walk 10–15 min to Ōtemon Gate (north). Shiodome Station is nearest to Naka-no-gomon Gate.",
+  "see": [
+   "The 300-year pine just inside Ōtemon: planted in 1709 by the 6th shogun, Ienobu.",
+   "Shioiri-no-ike: a tidal pond fed by seawater from Tokyo Bay.",
+   "Nakajima no Ochaya: the teahouse on an island in the pond, with Shiodome towers behind.",
+   "Duck-hunting blinds (kamoba) used by the shoguns."
+  ],
+  "route": {
+   "enter": "Ōtemon Gate (north side, Tsukiji side). Tickets at the gate.",
+   "walk": [
+    "Pine tree on the left just inside the gate.",
+    "Follow the paths south to the tidal pond.",
+    "Cross the long wooden bridge to Nakajima no Ochaya: matcha and sweet (~30 min).",
+    "Best photo of the teahouse from the bridge."
+   ],
+   "exit": "Back out through Ōtemon, then walk ~15 min to Ginza (T28)."
+  },
+  "facts": [
+   "Built as a lord's residence in 1654, later a shogun's villa, then an imperial detached palace.",
+   "There were five teahouses; all were lost in the 1923 earthquake or WWII. Nakajima was rebuilt in 1983.",
+   "The Asakusa water bus to the garden has been suspended since April 2026."
+  ],
+  "tips": [
+   "Mid-November colour is still early: come for the garden and the teahouse."
+  ],
+  "trivia": [
+   "matcha-bowl",
+   "chasen-takayama",
+   "rikyu-gold",
+   "hamarikyu-duck"
+  ],
+  "verified": "6 Nov 2026"
+ },
+ "T28": {
+  "name": "Ginza",
+  "icon": "🛍️",
+  "p": 2,
+  "inc": "yes",
+  "days": [
+   "D2"
+  ],
+  "desc": "Department stores, food halls, regional shops",
+  "map": "https://www.google.com/maps/search/?api=1&query=Ginza%20Yonchome%20Crossing",
+  "why": "Two shops worth the stop on one short walk after Tsukiji: Ishikawa (regional goods) and Itoya (stationery).",
+  "hours": "Itoya: Mon–Sat 10:00–20:00, Sun and holidays 10:00–19:00. Ishikawa shop: 10:30–20:00, closed only at New Year (older listing, verify).",
+  "stay": "1 h (12:45–13:45)",
+  "access": "~15 min walk from Hamarikyū/Tsukiji. Back: Ginza Line direct to Tawaramachi, ~18 min.",
+  "see": [
+   "Ishikawa shop (いしかわ百万石物語・江戸本店, Ginza 2-2-18): Ishikawa Prefecture goods; ask for the Agehama salt.",
+   "Itoya (Ginza 2-7-15): a 12-floor stationery store with a red paperclip sign."
+  ],
+  "route": {
+   "enter": "From Hamarikyū walk north-west to Ginza.",
+   "walk": [
+    "Itoya on Chūō-dōri (2-7-15).",
+    "Ishikawa shop a short walk north-east (2-2-18)."
+   ],
+   "exit": "Ginza Station → Ginza Line direct to Tawaramachi (~18 min)."
+  },
+  "facts": [
+   "Ginza is named after the silver mint the shogunate set up here in 1612."
+  ],
+  "verified": "6 Nov 2026",
+  "trivia": [
+   "edo-castle",
+   "ginza-silver"
+  ]
+ },
+ "H1": {
+  "name": "Kamata winged gyoza",
+  "icon": "🍜",
+  "p": 1,
+  "inc": "yes",
+  "days": [
+   "Hnd"
+  ],
+  "desc": "Hanetsuki gyoza, invented in Kamata",
+  "map": "https://www.google.com/maps/search/?api=1&query=%E4%BD%A0%E5%A5%BD%20%E5%88%A5%E9%A4%A8%20%E8%92%B2%E7%94%B0",
+  "why": "The local dish of our last night, 4 min by train from Kc-III.",
+  "hours": "Nihao annex 11:30–14:00 and 17:00–22:00, daily (incl. Sun).",
+  "price": "Gyoza ~¥330–400 per plate; dinner ~¥2,000 pp.",
+  "stay": "1.5 h",
+  "access": "Nihao annex: Kamata 4-25-7, basement; Keikyū Kamata east exit ~3 min. Ōtorii → Keikyū Kamata 4 min.",
+  "booking": "No booking needed (busy at 19:00: go at 18:30).",
+  "see": [
+   "Hanetsuki gyoza with the crispy 'wing' of batter.",
+   "Steamed and boiled gyoza to compare."
+  ],
+  "route": null,
+  "facts": [
+   "Nihao's founder, Yagi Isao, from Dalian, opened in Kamata in 1983 and created the winged gyoza, inspired by Shanghai fried buns.",
+   "Kangei (歓迎), Kamata's other classic, was opened by his relatives."
+  ],
+  "tips": [
+   "Ask for the vinegar-and-pepper dip: a local habit."
+  ],
+  "trivia": [
+   "winged-gyoza"
+  ],
+  "decision": "P1, fits",
+  "verified": "6 Nov 2026",
+  "pending": ""
+ }
+}

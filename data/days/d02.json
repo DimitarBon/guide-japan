@@ -1,0 +1,142 @@
+{
+ "title": "Markets, garden and knives",
+ "pace": "demanding",
+ "stay": "APA Hotel Asakusa Tawaramachi Ekimae",
+ "items": [
+  {
+   "type": "travel",
+   "time": "05:00",
+   "mode": "🚕",
+   "text": "Leave by taxi. Ask for Shijō-mae Station (市場前駅).",
+   "dur": "~25 min",
+   "est": true
+  },
+  {
+   "type": "stop",
+   "time": "05:45",
+   "end": "07:45",
+   "place": "T1",
+   "stay": "2 h",
+   "text": "Auction ~5:45–6:25, watch the floor until ~7:00, browse open shops. Light snack only."
+  },
+  {
+   "type": "travel",
+   "mode": "🚕",
+   "text": "Taxi Toyosu → Tsukiji Station.",
+   "dur": "~15 min",
+   "cost": "~¥1,500"
+  },
+  {
+   "type": "stop",
+   "time": "08:25",
+   "end": "10:30",
+   "place": "T2",
+   "stay": "2 h",
+   "status": "booked",
+   "booking": "t2-tsukiji",
+   "text": "Meet 8:25 at the Starbucks in front of Tsukiji Station. Eat on the tour; bring cash."
+  },
+  {
+   "type": "travel",
+   "mode": "🚶",
+   "text": "Walk to Hamarikyū Ōtemon Gate.",
+   "dur": "10–15 min"
+  },
+  {
+   "type": "stop",
+   "time": "10:45",
+   "end": "12:15",
+   "place": "T27",
+   "stay": "1.5 h",
+   "text": "Matcha and a sweet at Nakajima no Ochaya."
+  },
+  {
+   "type": "travel",
+   "mode": "🚶",
+   "text": "Walk to Ginza.",
+   "dur": "~15 min"
+  },
+  {
+   "type": "stop",
+   "time": "12:45",
+   "end": "13:45",
+   "place": "T28",
+   "stay": "1 h",
+   "text": "Ishikawa shop (ask for the Agehama salt) and Itoya."
+  },
+  {
+   "type": "travel",
+   "mode": "🚇",
+   "text": "Ginza Line Ginza → Tawaramachi, direct.",
+   "dur": "~18 min",
+   "cost": "~¥180 pp",
+   "est": true
+  },
+  {
+   "type": "stop",
+   "time": "14:15",
+   "end": "14:55",
+   "place": "T6",
+   "stay": "40 min",
+   "text": "First walk of the street."
+  },
+  {
+   "type": "stop",
+   "time": "15:00",
+   "end": "17:00",
+   "place": "T10",
+   "stay": "2 h",
+   "status": "booked",
+   "booking": "t10-knife",
+   "text": "Dimitar only. Fujijapan sign at 1-9-8 Nishiasakusa; all tools provided."
+  },
+  {
+   "type": "stop",
+   "time": "17:00",
+   "end": "17:30",
+   "place": "T6",
+   "label": "Kappabashi again",
+   "stay": "30 min",
+   "text": "Most shops close 17:00–17:30. Or walk Asakusa."
+  },
+  {
+   "type": "note",
+   "time": "17:45",
+   "text": "REMINDER: if APA can't send the suitcases, hand them in at Asakusa Post Office (Nishi-Asakusa 1-1-1, next to the hotel; open until 19:00), Yu-Pack to HOTEL TAVINOS, delivery Sat 14. Keep an overnight bag for Fri 13. Ask if suitcases sent to Haneda later can wait at the airport until Mon 23."
+  },
+  {
+   "type": "travel",
+   "mode": "🚕",
+   "text": "Taxi to Ryōgoku, or train: Toei Asakusa Line Asakusa → Kuramae, then Ōedo Line → Ryōgoku.",
+   "dur": "~15–25 min",
+   "est": true
+  },
+  {
+   "type": "stop",
+   "time": "18:30",
+   "place": "T5",
+   "stay": "1.5 h",
+   "text": "First choice Chanko Kawasaki (Ryōgoku 2-13-1), cash only, no booking. Look around if full."
+  },
+  {
+   "type": "travel",
+   "mode": "🚇",
+   "text": "Back to the hotel: Ōedo Line → Kuramae, Toei Asakusa Line → Asakusa, walk ~10 min. Or taxi.",
+   "dur": "~25 min",
+   "est": true
+  }
+ ],
+ "trivia": [
+  "matcha-bowl",
+  "chasen-takayama",
+  "sumo-shinto",
+  "edo-castle",
+  "rikyu-gold",
+  "beer-big-four",
+  "sakai-blades",
+  "food-samples",
+  "ginza-silver",
+  "tsukiji-toyosu",
+  "hamarikyu-duck"
+ ]
+}

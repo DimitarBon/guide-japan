@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<meta name="theme-color" content="#c8402c">
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icon-192.png">
+<title>Japan 2026 — Trip Guide</title>
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<header class="top">
+  <h1 id="page-title">Japan 2026</h1>
+  <p id="page-sub" class="sub">10–23 Nov · Tokyo · Kyoto · Yoshino · Osaka</p>
+</header>
+
+<main id="view" aria-live="polite"></main>
+
+<nav class="tabs" aria-label="Sections">
+  <a href="#days" data-tab="days"><span class="ico">📅</span><span>Days</span></a>
+  <a href="#places" data-tab="places"><span class="ico">📍</span><span>Places</span></a>
+  <a href="#bookings" data-tab="bookings"><span class="ico">🎫</span><span>Bookings</span></a>
+  <a href="#info" data-tab="info"><span class="ico">ℹ️</span><span>Info</span></a>
+</nav>
+
+<div id="modal" class="modal" hidden>
+  <div class="sheet" role="dialog" aria-modal="true">
+    <button class="close" aria-label="Close">✕</button>
+    <div id="modal-body"></div>
+  </div>
+</div>
+
+<script src="app.js"></script>
+<script>
+// Offline: the service worker keeps a copy of every file on the phone
+if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(() => {});
+</script>
+</body>
+</html>

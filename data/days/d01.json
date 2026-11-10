@@ -1,0 +1,114 @@
+{
+ "title": "Ueno and old Tokyo",
+ "pace": "medium",
+ "stay": "APA Hotel Asakusa Tawaramachi Ekimae",
+ "items": [
+  {
+   "type": "note",
+   "time": "09:40",
+   "text": "Leave the hotel (APA Tawaramachi)."
+  },
+  {
+   "type": "travel",
+   "mode": "🚇",
+   "text": "Ginza Line Tawaramachi → Ueno (2 stops), then JR Yamanote Line Ueno → Nippori (2 stops). Exit at the north ticket gate.",
+   "dur": "~25 min",
+   "cost": "~¥340 pp",
+   "est": true
+  },
+  {
+   "type": "stop",
+   "time": "10:20",
+   "end": "13:30",
+   "place": "T4",
+   "stay": "3 h",
+   "status": "booked",
+   "text": "Guided walking tour 10:30–13:30. Meet 10:20 at JR Nippori north ticket gate, outside, next to the NewDays shop. Ends at Yanaka Ginza.",
+   "ref": "GetYourGuide GYGRFQAN6HFZ",
+   "booking": "t4-yanaka"
+  },
+  {
+   "type": "meal",
+   "time": "13:30",
+   "end": "14:15",
+   "text": "Lunch near Yanaka Ginza or Nezu, chosen on the spot.",
+   "stay": "45 min"
+  },
+  {
+   "type": "travel",
+   "mode": "🚶",
+   "text": "Walk Yanaka Ginza → Nezu Shrine.",
+   "dur": "~20 min"
+  },
+  {
+   "type": "stop",
+   "time": "14:15",
+   "end": "14:45",
+   "place": "T4",
+   "label": "📿 Nezu Shrine",
+   "stay": "30 min",
+   "stamp": true,
+   "text": "Buy the goshuin book here and get the first stamp."
+  },
+  {
+   "type": "travel",
+   "mode": "🚶",
+   "text": "Walk Nezu Shrine → Tokyo National Museum, via Ueno Sakuragi.",
+   "dur": "~20–25 min",
+   "est": true
+  },
+  {
+   "type": "stop",
+   "time": "15:15",
+   "end": "17:00",
+   "place": "T3",
+   "stay": "1 h 45 min",
+   "text": "No guide. Last entry 16:30. Hiroshige ticket ¥1,500 includes the collection."
+  },
+  {
+   "type": "travel",
+   "mode": "🚇",
+   "text": "Walk to JR Ueno (10 min), JR Yamanote Line → Kanda (4 min), walk to Kanda Tsukasamachi (~10 min).",
+   "dur": "~30 min",
+   "cost": "~¥160 pp",
+   "est": true
+  },
+  {
+   "type": "stop",
+   "time": "17:30",
+   "end": "18:30",
+   "place": "T23",
+   "stay": "1 h",
+   "status": "todo",
+   "text": "Phone only: ask APA reception on Tue 10 to call. ⚠️ One 2026 listing shows lunch only (Mon–Fri 11:00–15:00): if there is no dinner, go to a backup.",
+   "alt": [
+    "T24a",
+    "T24b",
+    "T24c"
+   ],
+   "booking": "t23-tama"
+  },
+  {
+   "type": "travel",
+   "mode": "🚇",
+   "text": "Ginza Line Kanda → Tawaramachi, direct.",
+   "dur": "~12 min",
+   "cost": "~¥180 pp",
+   "est": true
+  },
+  {
+   "type": "optional",
+   "place": "T13",
+   "stay": "30 min",
+   "text": "Only if dinner is in Asakusa: short evening walk. Gates and pagoda lit, main hall closed."
+  }
+ ],
+ "trivia": [
+  "toranaga-ieyasu",
+  "sekigahara",
+  "tori-no-ichi",
+  "itadakimasu",
+  "senso-ji-statue",
+  "yanaka-survivor"
+ ]
+}

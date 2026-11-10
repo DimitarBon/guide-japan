@@ -1,0 +1,131 @@
+{
+  "title": "По-свободен ден, Gion вечерта",
+  "pace": "спокойно",
+  "stay": "HOTEL TAVINOS Kyoto",
+  "trivia": [
+    "eisai-tea",
+    "maiko-collar"
+  ],
+  "items": [
+    {
+      "type": "head",
+      "text": "Сутрин: куфарите, после избираш"
+    },
+    {
+      "type": "note",
+      "time": "09:00",
+      "text": "Куфарите към Osaka. Първи вариант: Yamato Shimogyo Center (Oe-cho 556, Matsubara, Higashitoin-dori; ~1 км), да се задържат в Yamato Namba Station Center, вземане чт, 19-и ~18:30. Втори вариант: Japan Post в Yanagibaba-Matsubara Post Office (гише от 9:00), да се задържат в Nishinari Tamade Post Office, вземане пт, 20-и. Запази малките чанти за Yoshino.",
+      "status": "todo",
+      "booking": "lug-kyoto-osaka"
+    },
+    {
+      "type": "travel",
+      "mode": "🚶",
+      "text": "Пеша на север до Nishiki Market (западния край, Takakura).",
+      "dur": "~15–20 мин",
+      "est": true
+    },
+    {
+      "type": "optional",
+      "time": "09:45",
+      "place": "K31",
+      "stay": "1–1.25 ч",
+      "text": "Най-вероятно. Яж на сергията, откъдето купуваш. Ножове Aritsugu в източния край."
+    },
+    {
+      "type": "optional",
+      "time": "11:15",
+      "place": "K23",
+      "stay": "1 ч",
+      "text": "Най-вероятно, ако е резервирано: споделена обиколка на английски, ~10 мин от Nishiki."
+    },
+    {
+      "type": "optional",
+      "place": "K29",
+      "stay": "45 мин",
+      "text": "Друг вариант за сутринта: къщата на грънчаря, отваря в 10:00 (отворено във вторник), ~15 мин пеша от хотела."
+    },
+    {
+      "type": "meal",
+      "time": "12:30",
+      "end": "13:15",
+      "text": "Обяд близо до Shijō или Gion, избираш на място (хапването в Nishiki може да го замести).",
+      "stay": "45 мин"
+    },
+    {
+      "type": "head",
+      "text": "Следобед: дзен градина и гледка към града"
+    },
+    {
+      "type": "travel",
+      "mode": "🚶",
+      "text": "До Kennin-ji, южния край на Hanamikoji.",
+      "dur": "~10–15 мин",
+      "est": true
+    },
+    {
+      "type": "stop",
+      "time": "13:30",
+      "end": "14:30",
+      "place": "K3",
+      "stay": "1 ч",
+      "stamp": true,
+      "text": "Двата дракона, паравани на боговете на вятъра и гръмотевицата, градина ○△□. ¥800, последен вход 16:00. 📿 печат."
+    },
+    {
+      "type": "travel",
+      "time": "14:30",
+      "mode": "🚕",
+      "text": "Такси нагоре по Higashiyama Driveway до Shōgunzuka (няма автобус в делнични дни).",
+      "dur": "~15 мин",
+      "cost": "~¥1,500",
+      "est": true
+    },
+    {
+      "type": "stop",
+      "time": "14:45",
+      "end": "16:15",
+      "place": "K9",
+      "stay": "1.5 ч",
+      "text": "Площадка над града, залата на Синия Фудо, кленова градина. ¥600, затваря в 17:00 (залезът ~16:50 е малко преди затваряне)."
+    },
+    {
+      "type": "travel",
+      "time": "16:15",
+      "mode": "🚕",
+      "text": "Такси обратно надолу до Gion (помоли на рецепцията да повикат, ако няма чакащо).",
+      "dur": "~15 мин",
+      "est": true
+    },
+    {
+      "type": "note",
+      "text": "Свободно време ~16:30–17:45: хапни нещо или почини (хотелът е на ~20 мин пеша)."
+    },
+    {
+      "type": "head",
+      "text": "Вечер: нощна разходка в Gion (резервирано)"
+    },
+    {
+      "type": "stop",
+      "time": "17:50",
+      "end": "20:00",
+      "place": "K2",
+      "stay": "2 ч",
+      "status": "booked",
+      "booking": "k2-gion",
+      "ref": "GetYourGuide GYG996QHG68N",
+      "text": "Среща в 17:50 при входа на Minamiza Theater. Маршрут: Shirakawa (K2a), светилище Tatsumi, Yasaka Shrine, Ryōzen Kannon, Ninenzaka, Hōkan-ji, Yasui Kompira-gū, Hanamikoji (K2b), Ichiriki-tei (K2c)."
+    },
+    {
+      "type": "optional",
+      "time": "~20:15",
+      "place": "K11",
+      "stay": "1.5 ч",
+      "text": "Вечеря в Pontochō, ~10 мин на запад през реката; през ноември само на закрито, последните поръчки варират."
+    },
+    {
+      "type": "note",
+      "text": "Ранно лягане: ср, 18-и, започва в 5:35 (Fushimi Inari на зазоряване)."
+    }
+  ]
+}

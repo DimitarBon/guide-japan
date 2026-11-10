@@ -1,0 +1,176 @@
+{
+ "days": [
+  {
+   "chip": "Arr",
+   "label": "вт, 10 ное",
+   "base": "Tokyo",
+   "file": "d00",
+   "date": "2026-11-10",
+   "places": [
+    "Tokyo"
+   ]
+  },
+  {
+   "chip": "D1",
+   "label": "ср, 11 ное",
+   "base": "Tokyo",
+   "file": "d01",
+   "date": "2026-11-11",
+   "places": [
+    "Tokyo"
+   ]
+  },
+  {
+   "chip": "D2",
+   "label": "чт, 12 ное",
+   "base": "Tokyo",
+   "file": "d02",
+   "date": "2026-11-12",
+   "places": [
+    "Tokyo"
+   ]
+  },
+  {
+   "chip": "D3",
+   "label": "пт, 13 ное",
+   "base": "Tokyo",
+   "file": "d03",
+   "date": "2026-11-13",
+   "places": [
+    "Tokyo"
+   ]
+  },
+  {
+   "chip": "D4",
+   "label": "сб, 14 ное",
+   "base": "Himeji → Kyoto",
+   "file": "d04",
+   "date": "2026-11-14",
+   "places": [
+    "Himeji",
+    "Kyoto"
+   ]
+  },
+  {
+   "chip": "D5",
+   "label": "нд, 15 ное",
+   "base": "Kyoto",
+   "file": "d05",
+   "date": "2026-11-15",
+   "places": [
+    "Kyoto"
+   ]
+  },
+  {
+   "chip": "D6",
+   "label": "пн, 16 ное",
+   "base": "Kyoto",
+   "file": "d06",
+   "date": "2026-11-16",
+   "places": [
+    "Kyoto"
+   ]
+  },
+  {
+   "chip": "D7",
+   "label": "вт, 17 ное",
+   "base": "Kyoto",
+   "file": "d07",
+   "date": "2026-11-17",
+   "places": [
+    "Kyoto"
+   ]
+  },
+  {
+   "chip": "D8",
+   "label": "ср, 18 ное",
+   "base": "Uji → Yoshino",
+   "file": "d08",
+   "date": "2026-11-18",
+   "places": [
+    "Kyoto",
+    "Yoshino"
+   ]
+  },
+  {
+   "chip": "D9",
+   "label": "чт, 19 ное",
+   "base": "Yoshino → Nara → Osaka",
+   "file": "d09",
+   "date": "2026-11-19",
+   "places": [
+    "Yoshino",
+    "Nara",
+    "Osaka"
+   ]
+  },
+  {
+   "chip": "D10",
+   "label": "пт, 20 ное",
+   "base": "Osaka",
+   "file": "d10",
+   "date": "2026-11-20",
+   "places": [
+    "Osaka"
+   ]
+  },
+  {
+   "chip": "D11",
+   "label": "сб, 21 ное",
+   "base": "Osaka",
+   "file": "d11",
+   "date": "2026-11-21",
+   "places": [
+    "Osaka"
+   ]
+  },
+  {
+   "chip": "Hnd",
+   "label": "нд, 22 ное",
+   "base": "Osaka → Haneda",
+   "file": "d12",
+   "date": "2026-11-22",
+   "places": [
+    "Osaka",
+    "Tokyo"
+   ]
+  },
+  {
+   "chip": "Dep",
+   "label": "пн, 23 ное",
+   "base": "Полет 08:55 HND",
+   "file": "d13",
+   "date": "2026-11-23",
+   "places": [
+    "Tokyo"
+   ]
+  }
+ ],
+ "bases": [
+  {
+   "id": "T",
+   "name": "Tokyo",
+   "nights": "4 нощувки (10–13 ноември)"
+  },
+  {
+   "id": "K",
+   "name": "Kyoto",
+   "nights": "4 нощувки (14–17 ноември), Himeji по пътя"
+  },
+  {
+   "id": "Y",
+   "name": "Yoshino",
+   "nights": "1 нощувка (18 ноември)"
+  },
+  {
+   "id": "O",
+   "name": "Osaka",
+   "nights": "3 нощувки (19–21 ноември), Nara по пътя"
+  },
+  {
+   "id": "H",
+   "name": "Haneda",
+   "nights": "1 нощувка (22 ноември)"
+  }
+ ]
+}

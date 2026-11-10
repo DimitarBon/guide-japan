@@ -1,0 +1,172 @@
+{
+ "title": "Arashiyama and Ieyasu's palace",
+ "pace": "demanding",
+ "stay": "HOTEL TAVINOS Kyoto",
+ "trivia": [
+  "nightingale-floors",
+  "toranaga-ieyasu",
+  "shichi-go-san",
+  "nijo-start-end",
+  "bamboo-sound"
+ ],
+ "items": [
+  {
+   "type": "note",
+   "time": "06:00",
+   "text": "Leave the hotel. Konbini breakfast on the way."
+  },
+  {
+   "type": "travel",
+   "mode": "🚆",
+   "text": "Walk to Kyoto-Kawaramachi (~15 min), then Hankyu via Katsura to Arashiyama (¥240). Check the Sunday timetable.",
+   "dur": "~45 min door to door",
+   "est": true
+  },
+  {
+   "type": "optional",
+   "time": "06:50",
+   "place": "K34",
+   "stay": "10 min",
+   "text": "On the way: Togetsukyō Bridge, just after sunrise (~6:35). Free."
+  },
+  {
+   "type": "travel",
+   "mode": "🚶",
+   "text": "Hankyu Arashiyama Stn → Togetsukyō, then on to the bamboo path (use the Bamboo Forest pin).",
+   "dur": "~7 + ~10 min"
+  },
+  {
+   "type": "stop",
+   "time": "07:10",
+   "end": "07:30",
+   "place": "K5",
+   "stay": "20 min",
+   "text": "Bamboo path, before the crowds. Open 24 h, free."
+  },
+  {
+   "type": "stop",
+   "time": "07:30",
+   "end": "08:30",
+   "place": "K14",
+   "stay": "1 h",
+   "text": "Tenryū-ji garden via the north gate on the bamboo path (¥500). Early opening from 7:30 on 14–30 Nov. Halls (+¥300) from 8:30 and Cloud Dragon don't fit before Ōkōchi."
+  },
+  {
+   "type": "optional",
+   "time": "08:30",
+   "place": "K25",
+   "stay": "30 min",
+   "text": "Free gap before Ōkōchi opens: short climb to the gorge view."
+  },
+  {
+   "type": "optional",
+   "time": "08:30",
+   "place": "K26",
+   "stay": "30 min",
+   "text": "Or a quiet walk in Kameyama park."
+  },
+  {
+   "type": "optional",
+   "place": "K27",
+   "stay": "45 min",
+   "text": "Probably not: opens 9:00 or 10:00 (sources differ), after the gap."
+  },
+  {
+   "type": "optional",
+   "place": "K28",
+   "stay": "1 h",
+   "text": "Opens 9:00, clashes with Ōkōchi."
+  },
+  {
+   "type": "travel",
+   "mode": "🚶",
+   "text": "Up the end of the bamboo path to Ōkōchi Sansō.",
+   "dur": "~5 min"
+  },
+  {
+   "type": "stop",
+   "time": "09:00",
+   "end": "10:15",
+   "place": "K5",
+   "stay": "1 h 15 min",
+   "text": "Ōkōchi Sansō villa garden (¥1,000; keep the ticket for the matcha and sweet). This is the snack before the tour."
+  },
+  {
+   "type": "travel",
+   "mode": "🚶",
+   "text": "North through the Ogura-yama lanes (Jōjakkō-ji, Nison-in) to Giō-ji.",
+   "dur": "~20 min"
+  },
+  {
+   "type": "stop",
+   "time": "10:20",
+   "end": "10:50",
+   "place": "K5",
+   "stay": "30 min",
+   "stamp": true,
+   "text": "Giō-ji moss garden (¥300). 📿 stamp."
+  },
+  {
+   "type": "optional",
+   "time": "10:50",
+   "place": "K35",
+   "stay": "15 min",
+   "text": "Optional: walk north through the preserved street (free)."
+  },
+  {
+   "type": "optional",
+   "time": "11:05",
+   "end": "11:40",
+   "place": "K36",
+   "stay": "35 min",
+   "text": "Optional: 8,000 stone memorials and the quiet bamboo path (¥500). Then ~25–30 min walk to Saga-Arashiyama Stn for the ~12:15 train. No slack."
+  },
+  {
+   "type": "travel",
+   "mode": "🚶",
+   "text": "Walk back to JR Saga-Arashiyama Stn.",
+   "dur": "~20 min"
+  },
+  {
+   "type": "travel",
+   "time": "~12:15",
+   "mode": "🚆",
+   "text": "JR Sagano Line Saga-Arashiyama → Nijō, then walk east along the castle wall to Higashi-Ōte-mon.",
+   "dur": "~15 min + 10 min walk",
+   "est": true
+  },
+  {
+   "type": "note",
+   "text": "No lunch before the tour: grab something small near Nijō Stn if needed."
+  },
+  {
+   "type": "stop",
+   "time": "12:50",
+   "end": "16:00",
+   "place": "K4",
+   "stay": "3 h",
+   "status": "booked",
+   "booking": "k4-nijo",
+   "ref": "GetYourGuide GYG6H7ZV6QYX",
+   "text": "Samurai Walking Tour 13:00–16:00, admission included. Meet 12:50 outside Higashi-Ōte-mon Gate, TripTomo sign. Don't buy tickets or enter first. Gojōin card, not a 📿 stamp."
+  },
+  {
+   "type": "meal",
+   "time": "~16:15",
+   "end": "~17:00",
+   "text": "Late lunch near the castle or on the way back: soba or yudōfu, chosen on the spot.",
+   "stay": "45 min"
+  },
+  {
+   "type": "travel",
+   "mode": "🚇",
+   "text": "Tōzai Line Nijōjō-mae → Sanjō Keihan, Keihan → Kiyomizu-Gojō; or taxi.",
+   "dur": "~25 min",
+   "est": true
+  },
+  {
+   "type": "note",
+   "text": "Free time after ~17:00. Dinner chosen on the spot, or K16 / K15 if booked."
+  }
+ ]
+}

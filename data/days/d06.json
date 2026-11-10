@@ -1,0 +1,159 @@
+{
+ "title": "Higashiyama and the east route",
+ "pace": "medium",
+ "stay": "HOTEL TAVINOS Kyoto",
+ "trivia": [
+  "kiyomizu-jump",
+  "sannenzaka",
+  "kodaiji-ieyasu",
+  "ginkakuji-silver",
+  "eikan-mikaeri",
+  "kinkaku-fire",
+  "nanzenji-aqueduct",
+  "philosopher-path"
+ ],
+ "items": [
+  {
+   "type": "head",
+   "text": "Morning: Higashiyama walk (K1), no guide"
+  },
+  {
+   "type": "note",
+   "time": "06:30",
+   "text": "Leave the hotel."
+  },
+  {
+   "type": "travel",
+   "mode": "🚶",
+   "text": "Up Gojō-zaka and Chawan-zaka to the Kiyomizu-dera gate. Or taxi ~10 min.",
+   "dur": "~25 min",
+   "est": true
+  },
+  {
+   "type": "stop",
+   "time": "07:00",
+   "end": "08:00",
+   "place": "K1a",
+   "stay": "1 h",
+   "stamp": true,
+   "text": "Stage, Okuno-in view, Otowa waterfall (drink from one stream only). ¥500. 📿 stamp desk may be closed at 7:00: try on the way out."
+  },
+  {
+   "type": "travel",
+   "mode": "🚶",
+   "text": "Down Kiyomizu-zaka, right into the Sannenzaka steps.",
+   "dur": "~5 min"
+  },
+  {
+   "type": "stop",
+   "time": "08:00",
+   "end": "08:45",
+   "place": "K1b",
+   "stay": "45 min",
+   "text": "Sannenzaka and Ninenzaka, almost empty. Gourd shop at the bottom of the steps."
+  },
+  {
+   "type": "stop",
+   "time": "08:45",
+   "end": "09:00",
+   "place": "K1c",
+   "stay": "15 min",
+   "text": "Up Yasaka-dōri for the pagoda photo."
+  },
+  {
+   "type": "stop",
+   "time": "09:00",
+   "end": "09:15",
+   "place": "K1d",
+   "stay": "15 min",
+   "text": "Nene-no-michi north; the lane is on the left."
+  },
+  {
+   "type": "stop",
+   "time": "09:15",
+   "end": "10:00",
+   "place": "K1e",
+   "stay": "45 min",
+   "text": "Opens 9:00 (¥600). Garden, dragon corridor, Otamaya, bamboo."
+  },
+  {
+   "type": "optional",
+   "place": "K19",
+   "stay": "45 min",
+   "text": "Tea ceremony on Ninenzaka, if booked (sessions start ~10:00, so it delays the afternoon)."
+  },
+  {
+   "type": "head",
+   "text": "East route (K8), no guide"
+  },
+  {
+   "type": "travel",
+   "time": "~10:00",
+   "mode": "🚇",
+   "text": "Walk to Higashiyama Stn (~10 min), Tōzai Line → Keage (1 stop); exit 1, brick tunnel to Nanzen-ji. Or walk ~35 min via Chion-in and Shōren-in.",
+   "dur": "~20 min"
+  },
+  {
+   "type": "stop",
+   "time": "10:15",
+   "end": "11:45",
+   "place": "K8a",
+   "stay": "1.5 h",
+   "text": "Sanmon gate (¥600, climb), Hōjō garden (¥600), Suirokaku aqueduct (free)."
+  },
+  {
+   "type": "meal",
+   "time": "12:00",
+   "end": "13:15",
+   "text": "Yudōfu lunch near Nanzen-ji (e.g. Okutan or Junsei), chosen on the spot.",
+   "stay": "1 h 15 min"
+  },
+  {
+   "type": "optional",
+   "time": "13:30",
+   "place": "K20",
+   "stay": "1 h",
+   "text": "Only if the queue is short: ¥1,500, reception until 16:00. 10 min walk north of Nanzen-ji."
+  },
+  {
+   "type": "travel",
+   "mode": "🚶",
+   "text": "To Nyakuōji-bashi, the south end of the path.",
+   "dur": "~5–10 min"
+  },
+  {
+   "type": "stop",
+   "time": "14:30",
+   "end": "15:15",
+   "place": "K8b",
+   "stay": "45 min",
+   "stamp": true,
+   "text": "North along the canal. 📿 stamps at Ōtoyo Shrine and Hōnen-in (just off the path)."
+  },
+  {
+   "type": "stop",
+   "time": "15:15",
+   "end": "16:15",
+   "place": "K8c",
+   "stay": "1 h",
+   "text": "One-way garden loop (¥1,000). Hill path viewpoint over the pavilion."
+  },
+  {
+   "type": "travel",
+   "mode": "🚕",
+   "text": "Back: taxi to the hotel or Gion, or bus 5/17/203 from Ginkakuji-michi.",
+   "dur": "~20–30 min",
+   "est": true
+  },
+  {
+   "type": "note",
+   "text": "Free after ~16:30. Dinner in Gion, chosen on the spot, or K16 (open Mondays) / K15 if booked."
+  },
+  {
+   "type": "optional",
+   "place": "K16",
+   "stay": "1.5–2 h",
+   "text": "Wagyu sukiyaki, last entry 19:30. Needs a reservation."
+  }
+ ]
+}

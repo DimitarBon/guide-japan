@@ -1,0 +1,240 @@
+{
+  "title": "Yoshino, Nara, Osaka",
+  "pace": "натоварено",
+  "stay": "Hanastay Aya, Osaka",
+  "trivia": [
+    "wooden-halls",
+    "yoshitsune-yoshino",
+    "kofukuji-ashura",
+    "nara-deer",
+    "daibutsu-nostril",
+    "omizutori",
+    "migawari-zaru"
+  ],
+  "items": [
+    {
+      "type": "head",
+      "text": "Yoshino → Nara (без гид; часове на влаковете от Jorudan, провери)"
+    },
+    {
+      "type": "optional",
+      "time": "06:30",
+      "place": "Y1b",
+      "stay": "30 мин",
+      "text": "Сутрешна служба в Zaō-dō (посетителите могат да присъстват), ~15 мин пеша надолу."
+    },
+    {
+      "type": "note",
+      "time": "~07:00",
+      "text": "Закуска в Chikurinin (влизане 7:00–8:00, часът да се потвърди). Обща баня 6:00–9:00. Напускане до 10:00."
+    },
+    {
+      "type": "note",
+      "time": "~08:10",
+      "text": "Тръгни от Chikurinin с малките чанти и слез по главната улица.",
+      "status": "booked",
+      "booking": "chikurinin"
+    },
+    {
+      "type": "stop",
+      "time": "08:30",
+      "end": "09:00",
+      "place": "Y1b",
+      "stay": "30 мин",
+      "stamp": true,
+      "text": "Отваря в 8:30. ¥800 или ~¥1,600, ако скритите Zaō Gongen са показани. В брой. 📿 печат."
+    },
+    {
+      "type": "travel",
+      "mode": "🚶",
+      "text": "Обратно нагоре по главната улица до страничната уличка към Yoshimizu.",
+      "dur": "~5–8 мин"
+    },
+    {
+      "type": "stop",
+      "time": "09:05",
+      "end": "09:30",
+      "place": "Y1a",
+      "stay": "25 мин",
+      "text": "Портата отваря в 9:00. Гледка „Hitome Senbon“ от терасата; Shoin ¥600, ако има време."
+    },
+    {
+      "type": "travel",
+      "mode": "🚶",
+      "text": "Надолу по главната улица покрай медната тории до горната станция на лифта.",
+      "dur": "~15 мин"
+    },
+    {
+      "type": "travel",
+      "time": "~09:45",
+      "mode": "🚡",
+      "text": "Лифт от Yoshinoyama до Senbonguchi (в брой; всеки ден до 30 ноем), после 2 мин пеша до станция Yoshino.",
+      "dur": "3 мин",
+      "cost": "~¥500 на човек"
+    },
+    {
+      "type": "travel",
+      "time": "10:07",
+      "mode": "🚆",
+      "text": "Kintetsu Yoshino Line от Yoshino до Kashiharajingu-mae (пристига 11:00), прекачване.",
+      "dur": "53 мин"
+    },
+    {
+      "type": "travel",
+      "time": "11:07",
+      "mode": "🚆",
+      "text": "Kintetsu Limited Express от Kashiharajingu-mae до Yamato-Saidaiji (пристига 11:27; билет LE ¥520), после express 11:34 до Kintetsu-Nara (пристига 11:40). Общо ¥1,550 на човек (¥1,030 без LE, с пристигане 11:50).",
+      "dur": "33 мин"
+    },
+    {
+      "type": "head",
+      "text": "Nara (самостоятелно)"
+    },
+    {
+      "type": "travel",
+      "mode": "🚶",
+      "text": "От Kintetsu-Nara до Naramachi през езерото Sarusawa.",
+      "dur": "~10 мин"
+    },
+    {
+      "type": "stop",
+      "time": "11:50",
+      "end": "12:40",
+      "place": "O6f",
+      "stay": "50 мин",
+      "text": "Обяд: какиноха-дзуши (суши в листа от райска ябълка). Търси червените талисмани маймунки."
+    },
+    {
+      "type": "travel",
+      "mode": "🚶",
+      "text": "На север до езерото Sarusawa и нагоре по 52-те стъпала.",
+      "dur": "~10 мин"
+    },
+    {
+      "type": "stop",
+      "time": "12:45",
+      "end": "13:20",
+      "place": "O6a",
+      "stay": "35 мин",
+      "text": "⚠️ Пагодата е изцяло покрита (ремонт до ~2031). Залите 9:00–17:00; Музеят на националните съкровища (Ашура) ¥900 е изборът."
+    },
+    {
+      "type": "travel",
+      "mode": "🚶",
+      "text": "До Yoshikien.",
+      "dur": "~7 мин"
+    },
+    {
+      "type": "stop",
+      "time": "13:25",
+      "end": "14:00",
+      "place": "O6g",
+      "stay": "35 мин",
+      "text": "Безплатно за чуждестранни посетители: покажи паспортите. Последен вход 16:30."
+    },
+    {
+      "type": "stop",
+      "time": "14:00",
+      "end": "14:15",
+      "place": "O6b",
+      "stay": "15 мин",
+      "text": "Премини към Nandaimon; само специалните бисквитки, а накрая покажи празни ръце."
+    },
+    {
+      "type": "stop",
+      "time": "14:15",
+      "end": "15:15",
+      "place": "O6c",
+      "stay": "1 ч",
+      "stamp": true,
+      "text": "Пазителите на Nandaimon, Великият Буда (¥800, в брой), колоната с „ноздрата“. 📿 печат."
+    },
+    {
+      "type": "optional",
+      "place": "O23",
+      "stay": "1 ч",
+      "text": "Резервен вариант при дъжд: залата с будистка скулптура (¥700, отворено в четвъртък, последен вход 16:30)."
+    },
+    {
+      "type": "travel",
+      "mode": "🚶",
+      "text": "Tōdai-ji → Kasuga Taisha през парка и пътеката с фенери.",
+      "dur": "~15 мин"
+    },
+    {
+      "type": "stop",
+      "time": "15:25",
+      "end": "16:10",
+      "place": "O6d",
+      "stay": "45 мин",
+      "stamp": true,
+      "text": "Специално поклонение (вътрешният коридор, ¥700) до 16:00: иди там първо. Зала с фенери Fujinami-no-ya. 📿 печат."
+    },
+    {
+      "type": "travel",
+      "mode": "🚶",
+      "text": "На север нагоре покрай портата на Wakakusa-yama до Nigatsu-dō.",
+      "dur": "~15 мин"
+    },
+    {
+      "type": "stop",
+      "time": "16:25",
+      "end": "16:55",
+      "place": "O6e",
+      "stay": "30 мин",
+      "text": "Безплатно, 24 ч. Залез ~16:50 над покрива на Daibutsuden."
+    },
+    {
+      "type": "optional",
+      "place": "O24",
+      "stay": "1–1.5 ч",
+      "text": "Вместо Nigatsu-dō, не и двете: ¥150, портите затварят в 17:00."
+    },
+    {
+      "type": "head",
+      "text": "Nara → Osaka"
+    },
+    {
+      "type": "travel",
+      "time": "~17:10",
+      "mode": "🚶",
+      "text": "Nigatsu-dō → Kintetsu-Nara (тъмни улички: фенерчето на телефона).",
+      "dur": "~20–25 мин"
+    },
+    {
+      "type": "travel",
+      "time": "17:47",
+      "mode": "🚆",
+      "text": "Kintetsu Nara Line express от Kintetsu-Nara до Osaka-Namba (пристига ~18:30; провери пристигането и цената ~¥680). Влакът в 17:05 е твърде напрегнат.",
+      "dur": "~40 мин",
+      "est": true
+    },
+    {
+      "type": "note",
+      "time": "~18:30",
+      "text": "Първи вариант за багажа: вземи 2-та куфара от Yamato Namba Station Center (4-4-4 Namba; предаване до 20:00 по списъка на Yamato, провери), паспорт + номер за проследяване. Втори вариант: чакат в Nishinari Tamade Post Office (вземане пт, 20-и, сутрин).",
+      "status": "todo",
+      "booking": "lug-kyoto-osaka"
+    },
+    {
+      "type": "meal",
+      "time": "~18:45",
+      "text": "Вечеря, решаваш на момента: в Namba (без конкретно място) или близо до настаняването в Tamade (Sumibi-yakitori Kitcho, Toridan, Yoro no Taki).",
+      "stay": "1 ч"
+    },
+    {
+      "type": "travel",
+      "mode": "🚇",
+      "text": "Osaka Metro Yotsubashi Line от Namba до Tamade, после 3 мин пеша.",
+      "dur": "~10 мин",
+      "cost": "¥240 на човек"
+    },
+    {
+      "type": "note",
+      "time": "~18:50 / по-късно",
+      "text": "Самостоятелно настаняване в Hanastay Aya (от 15:00), Tamade-naka 2-8-16. Без чакане на доставки.",
+      "status": "booked",
+      "booking": "aya"
+    }
+  ]
+}

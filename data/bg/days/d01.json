@@ -1,0 +1,110 @@
+{
+  "title": "Ueno и старият Tokyo",
+  "pace": "средно",
+  "stay": "APA Hotel Asakusa Tawaramachi Ekimae",
+  "items": [
+    {
+      "type": "note",
+      "time": "09:40",
+      "text": "Тръгване от хотела (APA Tawaramachi)."
+    },
+    {
+      "type": "travel",
+      "mode": "🚇",
+      "text": "Ginza Line от Tawaramachi до Ueno (2 спирки), после JR Yamanote Line от Ueno до Nippori (2 спирки). Излез през северните турникети.",
+      "dur": "~25 мин",
+      "cost": "~¥340 на човек",
+      "est": true
+    },
+    {
+      "type": "stop",
+      "time": "10:20",
+      "end": "13:30",
+      "place": "T4",
+      "stay": "3 ч",
+      "status": "booked",
+      "text": "Пешеходна обиколка с гид 10:30–13:30. Среща в 10:20 при северните турникети на JR Nippori, отвън, до магазина NewDays. Завършва на Yanaka Ginza.",
+      "ref": "GetYourGuide GYGRFQAN6HFZ",
+      "booking": "t4-yanaka"
+    },
+    {
+      "type": "meal",
+      "time": "13:30",
+      "end": "14:15",
+      "text": "Обяд близо до Yanaka Ginza или Nezu, ще избереш на място.",
+      "stay": "45 мин"
+    },
+    {
+      "type": "travel",
+      "mode": "🚶",
+      "text": "Пеша от Yanaka Ginza до Nezu Shrine.",
+      "dur": "~20 мин"
+    },
+    {
+      "type": "stop",
+      "time": "14:15",
+      "end": "14:45",
+      "place": "T4",
+      "label": "📿 Nezu Shrine",
+      "stay": "30 мин",
+      "stamp": true,
+      "text": "Купи тук книгата за печати гошуин и вземи първия печат."
+    },
+    {
+      "type": "travel",
+      "mode": "🚶",
+      "text": "Пеша от Nezu Shrine до Tokyo National Museum, през Ueno Sakuragi.",
+      "dur": "~20–25 мин",
+      "est": true
+    },
+    {
+      "type": "stop",
+      "time": "15:15",
+      "end": "17:00",
+      "place": "T3",
+      "stay": "1 ч 45 мин",
+      "text": "Без гид. Последен вход 16:30. Билетът за Хирошиге (¥1,500) включва и постоянната колекция."
+    },
+    {
+      "type": "travel",
+      "mode": "🚇",
+      "text": "Пеша до JR Ueno (10 мин), JR Yamanote Line до Kanda (4 мин), пеша до Kanda Tsukasamachi (~10 мин).",
+      "dur": "~30 мин",
+      "cost": "~¥160 на човек",
+      "est": true
+    },
+    {
+      "type": "stop",
+      "time": "17:30",
+      "end": "18:30",
+      "place": "T23",
+      "stay": "1 ч",
+      "status": "todo",
+      "text": "Само по телефон: помоли рецепцията на APA във вторник, 10-и, да се обади. ⚠️ Един източник от 2026 показва само обяд (пон–пет 11:00–15:00): ако няма вечеря, иди на резервно място.",
+      "alt": [
+        "T24a",
+        "T24b",
+        "T24c"
+      ],
+      "booking": "t23-tama"
+    },
+    {
+      "type": "travel",
+      "mode": "🚇",
+      "text": "Ginza Line от Kanda до Tawaramachi, директно.",
+      "dur": "~12 мин",
+      "cost": "~¥180 на човек",
+      "est": true
+    },
+    {
+      "type": "optional",
+      "place": "T13",
+      "stay": "30 мин",
+      "text": "Само ако вечеряш в Asakusa: кратка вечерна разходка. Портите и пагодата са осветени, главната зала е затворена."
+    }
+  ],
+  "trivia": [
+    "toranaga-ieyasu",
+    "sekigahara"
+  ]
+}

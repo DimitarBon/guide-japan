@@ -1,0 +1,264 @@
+{
+ "title": "Yoshino, Nara, Osaka",
+ "pace": "demanding",
+ "stay": "Hanastay Aya, Osaka",
+ "trivia": [
+  "wooden-halls",
+  "yoshitsune-yoshino",
+  "kofukuji-ashura",
+  "nara-deer",
+  "daibutsu-nostril",
+  "omizutori",
+  "migawari-zaru",
+  "no-double-dip",
+  "shugendo",
+  "billiken"
+ ],
+ "items": [
+  {
+   "type": "head",
+   "text": "Yoshino → Nara (no guide; train times from Jorudan, verify)"
+  },
+  {
+   "type": "optional",
+   "time": "06:30",
+   "place": "Y1b",
+   "stay": "30 min",
+   "text": "Morning service in the Zaō-dō (visitors may attend), ~15 min walk down."
+  },
+  {
+   "type": "note",
+   "time": "~07:00",
+   "text": "Breakfast at Chikurinin (enter 7:00–8:00, time to confirm). Public bath 6:00–9:00. Check-out by 10:00."
+  },
+  {
+   "type": "note",
+   "time": "~08:10",
+   "text": "Leave Chikurinin with the small bags and walk down the main street.",
+   "status": "booked",
+   "booking": "chikurinin"
+  },
+  {
+   "type": "stop",
+   "time": "08:30",
+   "end": "09:00",
+   "place": "Y1b",
+   "stay": "30 min",
+   "stamp": true,
+   "text": "Opens 8:30. ¥800, or ~¥1,600 if the hidden Zaō Gongen are on show. Cash. 📿 stamp."
+  },
+  {
+   "type": "travel",
+   "mode": "🚶",
+   "text": "Back up the main street to the Yoshimizu side lane.",
+   "dur": "~5–8 min"
+  },
+  {
+   "type": "stop",
+   "time": "09:05",
+   "end": "09:30",
+   "place": "Y1a",
+   "stay": "25 min",
+   "text": "Gate opens 9:00. 'Hitome Senbon' view from the terrace; Shoin ¥600 if time allows."
+  },
+  {
+   "type": "travel",
+   "mode": "🚶",
+   "text": "Down the main street past the copper torii to the ropeway top.",
+   "dur": "~15 min"
+  },
+  {
+   "type": "travel",
+   "time": "~09:45",
+   "mode": "🚡",
+   "text": "Ropeway Yoshinoyama → Senbonguchi (cash; daily until 30 Nov), then 2 min walk to Yoshino Stn.",
+   "dur": "3 min",
+   "cost": "~¥500 pp"
+  },
+  {
+   "type": "travel",
+   "time": "10:07",
+   "mode": "🚆",
+   "text": "Kintetsu Yoshino Line Yoshino → Kashiharajingu-mae (arr. 11:00), change.",
+   "dur": "53 min"
+  },
+  {
+   "type": "travel",
+   "time": "11:07",
+   "mode": "🚆",
+   "text": "Kintetsu Limited Express Kashiharajingu-mae → Yamato-Saidaiji (arr. 11:27; LE ticket ¥520), then express 11:34 → Kintetsu-Nara (arr. 11:40). ¥1,550 pp in total (¥1,030 without the LE, arriving 11:50).",
+   "dur": "33 min"
+  },
+  {
+   "type": "head",
+   "text": "Nara (self-guided)"
+  },
+  {
+   "type": "travel",
+   "mode": "🚶",
+   "text": "Kintetsu-Nara → Naramachi via Sarusawa Pond.",
+   "dur": "~10 min"
+  },
+  {
+   "type": "stop",
+   "time": "11:50",
+   "end": "12:40",
+   "place": "O6f",
+   "stay": "50 min",
+   "text": "Lunch: kakinoha-zushi (persimmon-leaf sushi). Look for the red monkey charms."
+  },
+  {
+   "type": "travel",
+   "mode": "🚶",
+   "text": "North to Sarusawa Pond and up the 52 steps.",
+   "dur": "~10 min"
+  },
+  {
+   "type": "stop",
+   "time": "12:45",
+   "end": "13:20",
+   "place": "O6a",
+   "stay": "35 min",
+   "text": "⚠️ Pagoda fully covered (repairs until ~2031). Halls 9:00–17:00; National Treasure Museum (Ashura) ¥900 is the pick."
+  },
+  {
+   "type": "travel",
+   "mode": "🚶",
+   "text": "To Yoshikien.",
+   "dur": "~7 min"
+  },
+  {
+   "type": "stop",
+   "time": "13:25",
+   "end": "14:00",
+   "place": "O6g",
+   "stay": "35 min",
+   "text": "Free for foreign visitors: show passports. Last entry 16:30."
+  },
+  {
+   "type": "stop",
+   "time": "14:00",
+   "end": "14:15",
+   "place": "O6b",
+   "stay": "15 min",
+   "text": "Walk through towards Nandaimon; crackers only, empty hands when done."
+  },
+  {
+   "type": "stop",
+   "time": "14:15",
+   "end": "15:15",
+   "place": "O6c",
+   "stay": "1 h",
+   "stamp": true,
+   "text": "Nandaimon guardians, Great Buddha (¥800, cash), the nostril pillar. 📿 stamp."
+  },
+  {
+   "type": "optional",
+   "place": "O23",
+   "stay": "1 h",
+   "text": "Rain backup: Buddhist Sculpture Hall (¥700, open Thursdays, last entry 16:30)."
+  },
+  {
+   "type": "travel",
+   "mode": "🚶",
+   "text": "Tōdai-ji → Kasuga Taisha through the park and the lantern path.",
+   "dur": "~15 min"
+  },
+  {
+   "type": "stop",
+   "time": "15:25",
+   "end": "16:10",
+   "place": "O6d",
+   "stay": "45 min",
+   "stamp": true,
+   "text": "Special worship (inner corridor, ¥700) until 16:00: go there first. Fujinami-no-ya lantern hall. 📿 stamp."
+  },
+  {
+   "type": "travel",
+   "mode": "🚶",
+   "text": "North uphill past the Wakakusa-yama gate to Nigatsu-dō.",
+   "dur": "~15 min"
+  },
+  {
+   "type": "stop",
+   "time": "16:25",
+   "end": "16:55",
+   "place": "O6e",
+   "stay": "30 min",
+   "text": "Free, 24 h. Sunset ~16:50 over the Daibutsuden roof."
+  },
+  {
+   "type": "optional",
+   "place": "O24",
+   "stay": "1–1.5 h",
+   "text": "Instead of Nigatsu-dō, not both: ¥150, gates close 17:00."
+  },
+  {
+   "type": "head",
+   "text": "Nara → Osaka"
+  },
+  {
+   "type": "travel",
+   "time": "~17:10",
+   "mode": "🚶",
+   "text": "Nigatsu-dō → Kintetsu-Nara (dark lanes: phone torch).",
+   "dur": "~20–25 min"
+  },
+  {
+   "type": "travel",
+   "time": "17:47",
+   "mode": "🚆",
+   "text": "Kintetsu Nara Line express Kintetsu-Nara → Osaka-Namba (arr. ~18:30; verify arrival and fare ~¥680). The 17:05 is too tight.",
+   "dur": "~40 min",
+   "est": true
+  },
+  {
+   "type": "note",
+   "time": "~18:30",
+   "text": "First luggage option: collect the 2 suitcases at Yamato Namba Station Center (4-4-4 Namba; handover until 20:00 per Yamato's list, verify), passport + tracking number. Second option: they wait at Nishinari Tamade Post Office (collect Fri 20 morning).",
+   "status": "todo",
+   "booking": "lug-kyoto-osaka"
+  },
+  {
+   "type": "travel",
+   "mode": "🚇",
+   "text": "Osaka Metro Yotsubashi Line Namba → Tamade, then 3 min walk.",
+   "dur": "~10 min",
+   "cost": "¥240 pp"
+  },
+  {
+   "type": "note",
+   "time": "~18:50 / later",
+   "text": "Self check-in at Hanastay Aya (from 15:00), Tamade-naka 2-8-16. No waiting for any delivery.",
+   "status": "booked",
+   "booking": "aya"
+  },
+  {
+   "type": "travel",
+   "mode": "🚇",
+   "text": "Tamade → Daikokuchō → Dōbutsuen-mae.",
+   "dur": "~15 min",
+   "est": true
+  },
+  {
+   "type": "stop",
+   "time": "19:30",
+   "end": "21:00",
+   "place": "O4",
+   "stay": "1 h 30 min",
+   "text": "Kushikatsu dinner in Shinsekai. No double-dipping."
+  },
+  {
+   "type": "meal",
+   "text": "Fallback if too tired: dinner in Namba (no fixed place) or near the stay in Tamade (Sumibi-yakitori Kitcho, Toridan, Yoro no Taki).",
+   "stay": "1 h"
+  },
+  {
+   "type": "travel",
+   "mode": "🚇",
+   "text": "Dōbutsuen-mae → Daikokuchō → Tamade.",
+   "dur": "~15 min",
+   "est": true
+  }
+ ]
+}

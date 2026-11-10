@@ -1,0 +1,199 @@
+{
+  "title": "Пазар, замък, Tenjinbashi",
+  "pace": "средно",
+  "stay": "Hanastay Aya, Osaka",
+  "trivia": [
+    "adams-anjin",
+    "gracia-mariko",
+    "no-double-dip"
+  ],
+  "items": [
+    {
+      "type": "head",
+      "text": "Сутрин: закуска на пазара"
+    },
+    {
+      "type": "travel",
+      "time": "~08:30",
+      "mode": "🚇",
+      "text": "Yotsubashi Line от Tamade до Daikokuchō (3 спирки), изход 1, 3 мин пеша.",
+      "dur": "~15 мин",
+      "cost": "¥240 на човек",
+      "est": true
+    },
+    {
+      "type": "stop",
+      "time": "09:00",
+      "end": "10:00",
+      "place": "O15",
+      "stay": "1 ч",
+      "text": "Купа с морски дарове в Kizu Uoichi Shokudō или друго заведение на пазара. Само в брой; магазините затварят към 11:00."
+    },
+    {
+      "type": "travel",
+      "mode": "🚇",
+      "text": "Обратно до Tamade.",
+      "dur": "~15 мин",
+      "est": true
+    },
+    {
+      "type": "note",
+      "time": "10:00",
+      "text": "Свободно време в настаняването (~1 ч 15 мин). Само ако е ползван вторият вариант за багажа: вземи куфарите от Nishinari Tamade Post Office (същата пресечка; гише пон–пет 9:00–17:00; паспорт + номер за проследяване).",
+      "status": "todo",
+      "booking": "lug-kyoto-osaka"
+    },
+    {
+      "type": "note",
+      "text": "Същото време, вариант A за Osaka → Haneda (нерешено): Japan Post Airport Yu-Pack в същата поща, вземане от JAL ABC T3 3F в пн, 23-и. Питай там дали пратките могат да чакат на летището до пн, 23-и. След това само багаж за нощувката.",
+      "status": "todo",
+      "booking": "lug-osaka-haneda"
+    },
+    {
+      "type": "head",
+      "text": "Следобед: замъкът"
+    },
+    {
+      "type": "travel",
+      "time": "~11:15",
+      "mode": "🚇",
+      "text": "Yotsubashi Line от Tamade до Yotsubashi, пеша до Shinsaibashi, Nagahori Tsurumi-ryokuchi Line до Morinomiya (Jorudan: 24 мин, ¥290).",
+      "dur": "~25 мин",
+      "cost": "¥290 на човек"
+    },
+    {
+      "type": "meal",
+      "time": "11:40",
+      "end": "12:30",
+      "text": "Обяд близо до Morinomiya, избираш на място.",
+      "stay": "50 мин"
+    },
+    {
+      "type": "travel",
+      "mode": "🚶",
+      "text": "Пеша до мястото на срещата (да се потвърди с асоциацията).",
+      "dur": "~10–15 мин",
+      "est": true
+    },
+    {
+      "type": "stop",
+      "time": "13:00",
+      "end": "14:00",
+      "place": "O1",
+      "stay": "1 ч",
+      "status": "booked",
+      "booking": "o1-castle",
+      "text": "Безплатен гид доброволец, само по двора (чака потвърждение). Вътрешността остава пропусната. Годжоин карта, не 📿 печат."
+    },
+    {
+      "type": "optional",
+      "time": "14:00",
+      "place": "O1a",
+      "stay": "30–45 мин",
+      "text": "Свободно време в двора: Nishinomaru Garden (¥300, последен вход 16:00). Или Toyotomi Stone Wall Museum с билет за кулата (¥1,200)."
+    },
+    {
+      "type": "travel",
+      "mode": "🚶",
+      "text": "От страната на Tamatsukuri на замъка до Osaka Cathedral.",
+      "dur": "~15 мин"
+    },
+    {
+      "type": "stop",
+      "time": "15:00",
+      "end": "15:30",
+      "place": "O14",
+      "stay": "30 мин",
+      "text": "Статуите на Грация и Такаяма Укон; катедралата, ако е отворена."
+    },
+    {
+      "type": "head",
+      "text": "Късен следобед: Tenjinbashi и Umeda"
+    },
+    {
+      "type": "travel",
+      "time": "~15:35",
+      "mode": "🚇",
+      "text": "Пеша до Tanimachi 4-chōme, Tanimachi Line до Minami-morimachi, после 5 мин пеша до Osaka Tenmangū.",
+      "dur": "~25 мин",
+      "est": true
+    },
+    {
+      "type": "stop",
+      "time": "16:00",
+      "end": "16:20",
+      "place": "O21",
+      "stay": "20 мин",
+      "text": "Кафе на щанда до Tenmangu (за вкъщи; часовете не са потвърдени)."
+    },
+    {
+      "type": "stop",
+      "time": "16:30",
+      "end": "17:45",
+      "place": "O3",
+      "stay": "1 ч 15 мин",
+      "text": "Пеша на север по пасажа; хапване."
+    },
+    {
+      "type": "optional",
+      "time": "17:50",
+      "place": "O11",
+      "stay": "30 мин",
+      "text": "Предвоенни улички; повечето кафенета затварят рано."
+    },
+    {
+      "type": "travel",
+      "time": "~18:10",
+      "mode": "🚇",
+      "text": "От Nakazakichō до Higashi-Umeda (Tanimachi Line, 2 мин), после пеша до Umeda Sky (~10 мин).",
+      "dur": "~15 мин",
+      "cost": "¥190 на човек",
+      "est": true
+    },
+    {
+      "type": "stop",
+      "time": "18:15",
+      "end": "19:15",
+      "place": "O8",
+      "stay": "1 ч",
+      "text": "¥2,000; нощна гледка от покрива. Последен вход 22:00."
+    },
+    {
+      "type": "head",
+      "text": "Вечеря"
+    },
+    {
+      "type": "travel",
+      "time": "~19:30",
+      "mode": "🚇",
+      "text": "От Umeda до Dōbutsuen-mae (Midōsuji Line).",
+      "dur": "~15 мин",
+      "cost": "¥240 на човек",
+      "est": true
+    },
+    {
+      "type": "stop",
+      "time": "19:45",
+      "end": "21:00",
+      "place": "O4",
+      "stay": "1 ч 15 мин",
+      "text": "Вечеря с кушикацу. Без второ топване в соса."
+    },
+    {
+      "type": "optional",
+      "place": "O5e",
+      "stay": "1.5–2 ч",
+      "text": "Вместо Shinsekai, решаваш на момента: Kobe говеждо на теппан в LINKS UMEDA, до Umeda Sky (последна поръчка 21:30). Резервирай в Gurunavi.",
+      "status": "todo",
+      "booking": "o5-kobe"
+    },
+    {
+      "type": "travel",
+      "time": "~21:15",
+      "mode": "🚇",
+      "text": "Dōbutsuen-mae → Daikokuchō (Midōsuji) → Tamade (Yotsubashi).",
+      "dur": "~15 мин",
+      "est": true
+    }
+  ]
+}

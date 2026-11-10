@@ -1,0 +1,212 @@
+{
+ "title": "South route, castle at dusk",
+ "pace": "demanding",
+ "stay": "Hanastay Aya, Osaka",
+ "trivia": [
+  "kongo-gumi",
+  "godairiki-stones",
+  "kitsune-udon",
+  "number-551",
+  "escalator-sides",
+  "adams-anjin",
+  "gracia-mariko",
+  "rikyu-gold",
+  "hankai-tram",
+  "sumiyoshi-style",
+  "glico-man",
+  "mizukake-fudo",
+  "osaka-keep-1931"
+ ],
+ "items": [
+  {
+   "type": "head",
+   "text": "Morning: Shitennō-ji flea market and Sumiyoshi"
+  },
+  {
+   "type": "travel",
+   "time": "08:03",
+   "mode": "🚇",
+   "text": "Tamade → Shitennoji-mae Yūhigaoka (Jorudan 8:03 → 8:25), then 5 min walk.",
+   "dur": "~22 min",
+   "cost": "¥240 pp"
+  },
+  {
+   "type": "stop",
+   "time": "08:40",
+   "end": "10:30",
+   "place": "O10",
+   "stay": "1 h 50 min",
+   "text": "Daishi-e flea market (21st): best before 10:00. Precinct opens 8:00 on the 21st (to 16:30); ¥300–500, garden ¥300. Cash."
+  },
+  {
+   "type": "travel",
+   "time": "~10:30",
+   "mode": "🚇",
+   "text": "Tanimachi Line → Tennōji (1 stop, ¥190), walk ~5 min to the tram stop Tennōji-ekimae.",
+   "dur": "~15 min",
+   "est": true
+  },
+  {
+   "type": "travel",
+   "time": "~10:45",
+   "mode": "🚋",
+   "text": "Hankai Uemachi Line tram Tennōji-ekimae → Sumiyoshi-toriimae; pay when you get off (check the timetable on the day).",
+   "dur": "~20 min",
+   "cost": "¥230 pp"
+  },
+  {
+   "type": "stop",
+   "time": "11:05",
+   "end": "12:30",
+   "place": "O7",
+   "stay": "1 h 25 min",
+   "stamp": true,
+   "text": "Sori-hashi bridge, the four halls, the 五大力 stones. 📿 stamp."
+  },
+  {
+   "type": "travel",
+   "time": "13:11",
+   "mode": "🚆",
+   "text": "Nankai Main Line local (not limited express) Sumiyoshitaisha → Nankai-Namba (Jorudan 13:11 → 13:21). An earlier train works if you finish sooner.",
+   "dur": "10 min",
+   "cost": "¥240 pp"
+  },
+  {
+   "type": "head",
+   "text": "Afternoon: Namba"
+  },
+  {
+   "type": "travel",
+   "mode": "🚶",
+   "text": "Nankai Namba → Kuromon.",
+   "dur": "~10 min"
+  },
+  {
+   "type": "stop",
+   "time": "13:35",
+   "end": "14:00",
+   "place": "O12",
+   "stay": "25 min",
+   "text": "Walk-through only; long queues on weekends."
+  },
+  {
+   "type": "meal",
+   "time": "14:00",
+   "end": "14:45",
+   "text": "Lunch near Hōzen-ji, decide later: O19 fugu (book), O16 kitsune udon (to 18:00) or O18 takoyaki/okonomiyaki. Don't let lunch run long: the garden's last entry is 16:00.",
+   "stay": "45 min",
+   "alt": [
+    "O19",
+    "O16",
+    "O18"
+   ]
+  },
+  {
+   "type": "stop",
+   "time": "14:45",
+   "end": "15:05",
+   "place": "O9",
+   "stay": "20 min",
+   "text": "Splash water on the mossy Fudō."
+  },
+  {
+   "type": "stop",
+   "time": "15:05",
+   "end": "15:15",
+   "place": "O20",
+   "stay": "10 min",
+   "text": "Pork buns (2 for ¥420), eat quickly."
+  },
+  {
+   "type": "head",
+   "text": "Afternoon and evening: Osaka Castle"
+  },
+  {
+   "type": "travel",
+   "mode": "🚇",
+   "text": "Metro Namba → Tanimachi 4-chōme, then walk. Check the TK8364 terminal on ANA Flight Status (by phone).",
+   "dur": "~30 min",
+   "est": true,
+   "time": "~15:15"
+  },
+  {
+   "type": "stop",
+   "time": "15:45",
+   "end": "16:25",
+   "place": "O1a",
+   "stay": "40 min",
+   "text": "¥300. Closes 16:30, last entry 16:00."
+  },
+  {
+   "type": "travel",
+   "time": "~16:25",
+   "mode": "🚶",
+   "text": "Walk past the walls to the meeting point. Be there by 16:50: back exit of the Starbucks on Jo Terrace, in front of Osaka-Jo Hall (JR Osakajōkōen Stn), not the Morinomiya Starbucks.",
+   "dur": "~20–25 min",
+   "est": true
+  },
+  {
+   "type": "stop",
+   "time": "17:00",
+   "end": "19:00",
+   "place": "O1",
+   "stay": "2 h",
+   "text": "Ghosts of Osaka Castle tour, grounds only, no keep entry; ends at the meeting point. Gojōin card, not a 📿 stamp.",
+   "status": "booked",
+   "booking": "o1-ghosts"
+  },
+  {
+   "type": "optional",
+   "time": "~19:15",
+   "place": "O14",
+   "stay": "20 min",
+   "text": "JR Osakajōkōen → Tamatsukuri (2 stops), ~10 min walk. Gracia and Takayama Ukon statues. Adds ~45 min (Dōtonbori then ~20:15, dinner later)."
+  },
+  {
+   "type": "head",
+   "text": "Evening: Dōtonbori and dinner"
+  },
+  {
+   "type": "travel",
+   "mode": "🚇",
+   "text": "JR Osakajōkōen / metro to Namba.",
+   "dur": "~25 min",
+   "est": true,
+   "time": "~19:05"
+  },
+  {
+   "type": "stop",
+   "time": "19:30",
+   "end": "20:15",
+   "place": "O13",
+   "stay": "45 min",
+   "text": "Neon canal walk; Tombori river walk is quieter. Don't eat here."
+  },
+  {
+   "type": "optional",
+   "time": "~20:15",
+   "place": "O5a",
+   "stay": "1.5 h",
+   "text": "Kobe beef yakiniku, 10–15 min walk. Book on Gurunavi (free, instant); ask for non-smoking.",
+   "status": "todo",
+   "booking": "o5-kobe"
+  },
+  {
+   "type": "optional",
+   "time": "~20:15",
+   "place": "O25",
+   "stay": "1.5 h",
+   "text": "Or: casual sushi bar, open to 3:00 (book by Wed 18).",
+   "status": "todo",
+   "booking": "o25-tsukinone"
+  },
+  {
+   "type": "travel",
+   "time": "~21:45",
+   "mode": "🚇",
+   "text": "Namba → Tamade.",
+   "dur": "~10 min",
+   "cost": "¥240 pp"
+  }
+ ]
+}

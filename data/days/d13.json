@@ -1,0 +1,46 @@
+{
+ "title": "Flight home",
+ "pace": "relaxed",
+ "stay": "—",
+ "items": [
+  {
+   "type": "note",
+   "time": "~05:30",
+   "text": "Leave Kc-III (check-out; leave the key as instructed).",
+   "status": "booked",
+   "booking": "kc3"
+  },
+  {
+   "type": "travel",
+   "mode": "🚕",
+   "text": "Taxi to the terminal (first train not verified).",
+   "dur": "~10–15 min",
+   "cost": "~¥2,500–3,000",
+   "est": true
+  },
+  {
+   "type": "note",
+   "time": "by ~06:00",
+   "text": "If sent by option A, collect the suitcases at JAL ABC, T3 3F (24 h), with the receipt and passport. Free terminal bus T3 → T1 → T2 if needed.",
+   "status": "todo",
+   "booking": "lug-osaka-haneda"
+  },
+  {
+   "type": "note",
+   "time": "~06:15",
+   "text": "ANA check-in for TK8364 (counter opening time not verified). Tax-free goods: keep receipts and packaging sealed until departure."
+  },
+  {
+   "type": "travel",
+   "time": "08:55",
+   "mode": "✈️",
+   "text": "TK8364 (operated by ANA) Haneda → Istanbul, arr. 16:45. Layover 3 h 45 min. TK1029 Istanbul 20:30 → Sofia 20:50.",
+   "dur": "18 h 55 min total",
+   "status": "booked",
+   "booking": "fl-back"
+  }
+ ],
+ "trivia": [
+  "kinro-kansha"
+ ]
+}

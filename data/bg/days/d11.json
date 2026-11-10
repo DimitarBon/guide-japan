@@ -1,0 +1,173 @@
+{
+  "title": "Южен маршрут",
+  "pace": "спокойно",
+  "stay": "Hanastay Aya, Osaka",
+  "trivia": [
+    "kongo-gumi",
+    "godairiki-stones",
+    "kitsune-udon",
+    "number-551",
+    "escalator-sides"
+  ],
+  "items": [
+    {
+      "type": "head",
+      "text": "Сутрин: битпазарът в Shitennō-ji и Sumiyoshi"
+    },
+    {
+      "type": "travel",
+      "time": "08:03",
+      "mode": "🚇",
+      "text": "От Tamade до Shitennoji-mae Yūhigaoka (Jorudan 8:03 → 8:25), после 5 мин пеша.",
+      "dur": "~22 мин",
+      "cost": "¥240 на човек"
+    },
+    {
+      "type": "stop",
+      "time": "08:40",
+      "end": "10:30",
+      "place": "O10",
+      "stay": "1 ч 50 мин",
+      "text": "Битпазар Daishi-e (на 21-во): най-добре преди 10:00. Комплексът отваря в 8:00 на 21-во (до 16:30); ¥300–500, градината ¥300. В брой."
+    },
+    {
+      "type": "travel",
+      "time": "~10:30",
+      "mode": "🚇",
+      "text": "Tanimachi Line до Tennōji (1 спирка, ¥190), ~5 мин пеша до трамвайната спирка Tennōji-ekimae.",
+      "dur": "~15 мин",
+      "est": true
+    },
+    {
+      "type": "travel",
+      "time": "~10:45",
+      "mode": "🚋",
+      "text": "Трамвай Hankai Uemachi Line от Tennōji-ekimae до Sumiyoshi-toriimae; плащаш при слизане (провери разписанието в деня).",
+      "dur": "~20 мин",
+      "cost": "¥230 на човек"
+    },
+    {
+      "type": "stop",
+      "time": "11:05",
+      "end": "12:30",
+      "place": "O7",
+      "stay": "1 ч 25 мин",
+      "stamp": true,
+      "text": "Мостът Sori-hashi, четирите зали, камъните 五大力. 📿 печат."
+    },
+    {
+      "type": "travel",
+      "time": "13:11",
+      "mode": "🚆",
+      "text": "Nankai Main Line, обикновен влак (не limited express), от Sumiyoshitaisha до Nankai-Namba (Jorudan 13:11 → 13:21). Става и по-ранен влак, ако свършиш по-бързо.",
+      "dur": "10 мин",
+      "cost": "¥240 на човек"
+    },
+    {
+      "type": "head",
+      "text": "Следобед: Namba"
+    },
+    {
+      "type": "travel",
+      "mode": "🚶",
+      "text": "От Nankai Namba до Kuromon.",
+      "dur": "~10 мин"
+    },
+    {
+      "type": "stop",
+      "time": "13:35",
+      "end": "14:00",
+      "place": "O12",
+      "stay": "25 мин",
+      "text": "Само преминаване; дълги опашки през уикенда."
+    },
+    {
+      "type": "meal",
+      "time": "14:00",
+      "end": "14:45",
+      "text": "Обяд близо до Hōzen-ji, решаваш по-късно: O19 фугу (резервирай), O16 кицуне удон (до 18:00) или O18 такояки/окономияки.",
+      "stay": "45 мин",
+      "alt": [
+        "O19",
+        "O16",
+        "O18"
+      ]
+    },
+    {
+      "type": "stop",
+      "time": "14:45",
+      "end": "15:15",
+      "place": "O9",
+      "stay": "30 мин",
+      "text": "Полей вода върху мъхестия Фудо."
+    },
+    {
+      "type": "stop",
+      "time": "15:20",
+      "end": "15:35",
+      "place": "O20",
+      "stay": "15 мин",
+      "text": "Кифлички със свинско за вкъщи (2 за ¥420)."
+    },
+    {
+      "type": "travel",
+      "time": "~15:35",
+      "mode": "🚇",
+      "text": "От Namba до Tamade (Yotsubashi Line).",
+      "dur": "9–11 мин",
+      "cost": "¥240 на човек"
+    },
+    {
+      "type": "note",
+      "text": "Почивка в настаняването (~2 ч). Провери терминала на TK8364 в ANA Flight Status. Варианти B и C за Osaka → Haneda (нерешено): тръгни ~16:30 с куфарите, предай ги в Yamato Namba Station Center (краен час ~18:00, варира), после остани в Namba.",
+      "status": "todo",
+      "booking": "lug-osaka-haneda"
+    },
+    {
+      "type": "head",
+      "text": "Вечер: Dōtonbori и вечеря"
+    },
+    {
+      "type": "travel",
+      "time": "~17:30",
+      "mode": "🚇",
+      "text": "От Tamade до Namba.",
+      "dur": "~10 мин",
+      "cost": "¥240 на човек"
+    },
+    {
+      "type": "stop",
+      "time": "17:45",
+      "end": "19:00",
+      "place": "O13",
+      "stay": "1 ч 15 мин",
+      "text": "Разходка покрай неоновия канал; алеята Tombori е по-тиха. Не яж тук."
+    },
+    {
+      "type": "optional",
+      "time": "~19:00",
+      "place": "O5a",
+      "stay": "1.5 ч",
+      "text": "Якинику от Kobe говеждо, 10–15 мин пеша. Резервирай в Gurunavi (безплатно, веднага); поискай за непушачи.",
+      "status": "todo",
+      "booking": "o5-kobe"
+    },
+    {
+      "type": "optional",
+      "time": "~19:00",
+      "place": "O25",
+      "stay": "1.5 ч",
+      "text": "Или: непретенциозен суши бар, отворен до 3:00 (резервирай до ср, 18-и).",
+      "status": "todo",
+      "booking": "o25-tsukinone"
+    },
+    {
+      "type": "travel",
+      "time": "~21:00",
+      "mode": "🚇",
+      "text": "От Namba до Tamade.",
+      "dur": "~10 мин",
+      "cost": "¥240 на човек"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+ "title": "Decide by weather on Thu evening",
+ "pace": "A demanding · B relaxed",
+ "stay": "APA Hotel Asakusa Tawaramachi Ekimae",
+ "items": [
+  {
+   "type": "head",
+   "text": "Option A: good weather (demanding)"
+  },
+  {
+   "type": "note",
+   "time": "07:30",
+   "text": "Leave the hotel."
+  },
+  {
+   "type": "travel",
+   "mode": "🚇",
+   "text": "Ginza Line to Shinjuku area, then Keio Line Shinjuku → Takaosanguchi (~50 min).",
+   "dur": "~1 h 15 min",
+   "est": true
+  },
+  {
+   "type": "stop",
+   "time": "~08:45",
+   "end": "~14:00",
+   "place": "T11",
+   "stay": "~5 h",
+   "stamp": true,
+   "text": "Trail 1 to Yakuōin and the summit; soba lunch. 📿 stamp at Yakuōin."
+  },
+  {
+   "type": "travel",
+   "mode": "🚆",
+   "text": "Keio Line Takaosanguchi → Shinjuku.",
+   "dur": "~50 min",
+   "est": true
+  },
+  {
+   "type": "optional",
+   "time": "~14:45",
+   "place": "T9",
+   "stay": "30–45 min",
+   "text": "Free time ~1.5 h in Shinjuku; Tochō deck if clear."
+  },
+  {
+   "type": "stop",
+   "time": "16:30",
+   "place": "T22",
+   "stay": "1.5 h",
+   "status": "todo",
+   "booking": "t22-unatetsu",
+   "text": "Early dinner. Book 1–2 days ahead."
+  },
+  {
+   "type": "travel",
+   "mode": "🚇",
+   "text": "Back to the hotel.",
+   "dur": "~35 min",
+   "est": true
+  },
+  {
+   "type": "head",
+   "text": "Option B: bad weather (relaxed)"
+  },
+  {
+   "type": "note",
+   "text": "Morning: free."
+  },
+  {
+   "type": "optional",
+   "place": "T18",
+   "stay": "1.5 h",
+   "text": "Lunch choice on the day."
+  },
+  {
+   "type": "optional",
+   "place": "T20",
+   "stay": "45 min",
+   "text": "Lunch choice on the day."
+  },
+  {
+   "type": "optional",
+   "place": "T21",
+   "text": "Lunch choice on the day."
+  },
+  {
+   "type": "optional",
+   "place": "T15",
+   "stay": "5 min",
+   "text": "With the depachika lunch."
+  },
+  {
+   "type": "optional",
+   "place": "T9",
+   "stay": "30–45 min",
+   "text": "Afternoon choice on the day."
+  },
+  {
+   "type": "stop",
+   "time": "16:30",
+   "place": "T22",
+   "stay": "1.5 h",
+   "status": "todo",
+   "booking": "t22-unatetsu",
+   "text": "Early dinner. Or have it at lunch and go to T19 in the evening."
+  },
+  {
+   "type": "optional",
+   "place": "T19",
+   "stay": "1.5–2 h",
+   "text": "Evening, if Unatetsu was lunch."
+  }
+ ],
+ "trivia": [
+  "vending-machines",
+  "adams-anjin",
+  "otoshi-charge",
+  "takao-tengu"
+ ]
+}

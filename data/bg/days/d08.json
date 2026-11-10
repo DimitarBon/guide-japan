@@ -1,0 +1,170 @@
+{
+  "title": "Fushimi Inari, Uji, Yoshino",
+  "pace": "натоварено",
+  "stay": "Chikurinin Gunpoen, Yoshino",
+  "trivia": [
+    "inari-torii",
+    "byodoin-coin",
+    "eisai-tea",
+    "hideyoshi-hanami"
+  ],
+  "items": [
+    {
+      "type": "head",
+      "text": "Зазоряване: Fushimi Inari"
+    },
+    {
+      "type": "note",
+      "time": "05:35",
+      "text": "Напускане на HOTEL TAVINOS само с малките чанти (ключ-картата отваря вратата преди 6:00). Куфарите вече са изпратени до Osaka."
+    },
+    {
+      "type": "travel",
+      "mode": "🚶",
+      "text": "Пеша до станция Keihan Kiyomizu-Gojō.",
+      "dur": "~10 мин"
+    },
+    {
+      "type": "travel",
+      "time": "05:49",
+      "mode": "🚆",
+      "text": "Keihan semi-express от Kiyomizu-Gojō до Fushimi-Inari, после 5 мин пеша до главната порта.",
+      "dur": "7 мин",
+      "cost": "¥240 на човек"
+    },
+    {
+      "type": "stop",
+      "time": "06:00",
+      "end": "08:15",
+      "place": "K7",
+      "stay": "2 ч 15 мин",
+      "stamp": true,
+      "text": "Изгрев ~6:15. Senbon Torii нагоре до наблюдателницата Yotsutsuji (40–50 мин) и малко по-нататък, после обратно надолу. Пълният кръг до върха не се побира. 📿 печат, ако канцеларията е отворена."
+    },
+    {
+      "type": "travel",
+      "time": "08:33",
+      "mode": "🚆",
+      "text": "JR Nara Line от Inari до Uji (станцията е срещу главната порта). По-ранен вариант 8:02 → 8:19.",
+      "dur": "17 мин",
+      "cost": "¥240 на човек"
+    },
+    {
+      "type": "head",
+      "text": "Сутрин: Uji"
+    },
+    {
+      "type": "travel",
+      "mode": "🚶",
+      "text": "JR Uji → Byōdō-in по улицата с чаени магазини.",
+      "dur": "10–15 мин"
+    },
+    {
+      "type": "stop",
+      "time": "09:00",
+      "end": "10:00",
+      "place": "K18",
+      "stay": "1 ч",
+      "text": "Byōdō-in (отваря 8:45, ¥700; вътрешността на Phoenix Hall +¥300, часове от 9:30). Музей Hōshōkan. Вдигни монета от 10 йени."
+    },
+    {
+      "type": "optional",
+      "time": "10:10",
+      "place": "K33",
+      "stay": "20 мин",
+      "text": "През реката по моста Asagiri; безплатно, отваря в 9:00."
+    },
+    {
+      "type": "stop",
+      "time": "10:50",
+      "end": "11:30",
+      "place": "K18",
+      "stay": "40 мин",
+      "status": "booked",
+      "booking": "k18-taihoan",
+      "ref": "RSV_261118_16",
+      "text": "Бъди в Taihō-an в 10:50 (~5 мин от Byōdō-in). Чаена церемония усуча в 11:00. Покажи QR кода на рецепцията."
+    },
+    {
+      "type": "travel",
+      "mode": "🚶",
+      "text": "Обратно до JR Uji; купи онигири или бенто по пътя (Nakamura Tōkichi е на 1 мин от станцията).",
+      "dur": "~15 мин"
+    },
+    {
+      "type": "head",
+      "text": "Следобед: Uji → Yoshino"
+    },
+    {
+      "type": "travel",
+      "time": "11:52",
+      "mode": "🚆",
+      "text": "JR Nara Line от Uji до Nara (пристига 12:21), прекачване (6 мин).",
+      "dur": "29 мин"
+    },
+    {
+      "type": "travel",
+      "time": "12:30",
+      "mode": "🚆",
+      "text": "JR от Nara до Ōji (пристига 12:45), прекачване: 19 мин чакане, хапни тук.",
+      "dur": "15 мин"
+    },
+    {
+      "type": "travel",
+      "time": "13:07",
+      "mode": "🚆",
+      "text": "JR Wakayama Line от Ōji до Yoshinoguchi (пристига 13:42). Линията показа съобщение за експлоатацията: провери в деня. Прекачване към Kintetsu (3 мин).",
+      "dur": "35 мин"
+    },
+    {
+      "type": "travel",
+      "time": "13:48",
+      "mode": "🚆",
+      "text": "Kintetsu Yoshino Line от Yoshinoguchi до Yoshino (пристига 14:21). Uji → Yoshino общо ¥1,630 на човек (JR ¥1,170 + Kintetsu ¥460).",
+      "dur": "33 мин"
+    },
+    {
+      "type": "travel",
+      "time": "14:30",
+      "mode": "🚐",
+      "text": "Безплатен трансфер на Chikurinin от станция Yoshino (поискан в съобщение 1; чакам потвърждение).",
+      "dur": "~10 мин",
+      "status": "todo",
+      "booking": "chikurinin-shuttle"
+    },
+    {
+      "type": "note",
+      "time": "~14:45",
+      "text": "Пристигане в Chikurinin; настаняване от 15:00, така че остави чантите.",
+      "status": "booked",
+      "booking": "chikurinin"
+    },
+    {
+      "type": "head",
+      "text": "Yoshino"
+    },
+    {
+      "type": "stop",
+      "time": "15:00",
+      "end": "16:45",
+      "place": "Y1",
+      "stay": "1 ч 45 мин",
+      "text": "Улицата по билото, есенни цветове. Залез ~16:55. Yoshimizu Shrine и Zaō-dō са утре сутрин; Takagiyama е махнат (~90 мин пеша)."
+    },
+    {
+      "type": "note",
+      "time": "~17:00",
+      "text": "Частна баня (kashikiri, ¥3,300 за 50 мин), часът зависи от свободните места (питано в съобщение 1). Обща баня 16:00–22:00 и 6:00–9:00."
+    },
+    {
+      "type": "meal",
+      "time": "~18:00",
+      "text": "Вечеря в Chikurinin (часът е питан в съобщение 1). Сервира се само при настаняване до 19:30.",
+      "stay": "1.5 ч"
+    },
+    {
+      "type": "note",
+      "text": "Пропуснато: K24 Tōfuku-ji (не се побира преди трансфера в 14:30)."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+ "title": "Arrival",
+ "pace": "relaxed",
+ "stay": "APA Hotel Asakusa Tawaramachi Ekimae",
+ "items": [
+  {
+   "type": "note",
+   "time": "19:45",
+   "text": "Land at Tokyo Haneda (TK198). Immigration, bags, buy or top up Suica."
+  },
+  {
+   "type": "travel",
+   "mode": "🚆",
+   "text": "To the hotel: decided on arrival. Usual option: Keikyū Airport Line, through trains to the Toei Asakusa Line → Asakusa, then walk ~10 min or Ginza Line 1 stop to Tawaramachi. Taxi is the tired option.",
+   "dur": "~50–60 min",
+   "est": true
+  },
+  {
+   "type": "note",
+   "time": "~22:00",
+   "text": "Check in at APA (they know we arrive late). Ask reception to phone Tama Sushi (T23): closing day and a ~17:30 seat for Wed 11."
+  },
+  {
+   "type": "meal",
+   "time": "~22:15",
+   "text": "Ramen nearby if open, otherwise a konbini."
+  }
+ ],
+ "trivia": []
+}

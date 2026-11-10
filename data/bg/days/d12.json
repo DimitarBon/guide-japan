@@ -1,0 +1,117 @@
+{
+  "title": "От Osaka до Haneda",
+  "pace": "спокойно",
+  "stay": "Kc-III, Ōtorii (near Haneda)",
+  "trivia": [
+    "number-551",
+    "winged-gyoza"
+  ],
+  "items": [
+    {
+      "type": "head",
+      "text": "Сутрин: Osaka"
+    },
+    {
+      "type": "note",
+      "text": "Свободна сутрин в Hanastay Aya: стягане на багажа, последна закуска наблизо. Самостоятелно напускане до 11:00. Затворени в неделя: O16 Usami-tei и O17 Yoshino Sushi.",
+      "status": "booked",
+      "booking": "aya"
+    },
+    {
+      "type": "optional",
+      "time": "10:45",
+      "place": "O11",
+      "stay": "1–1.5 ч",
+      "text": "Само ако е пропуснато в пт, 20-и: тръгни с чантите, шкафчета на Shin-Osaka (~11:30, размерите не са проверени), JR до Osaka (~4 мин). Неделните кафенета отварят ~11:00. Обратно на Shin-Osaka до 13:30."
+    },
+    {
+      "type": "travel",
+      "time": "12:03",
+      "mode": "🚇",
+      "text": "Ако няма сутрешно по избор: Yotsubashi Line от Tamade до Daikokuchō, прекачване на Midōsuji Line до Shin-Osaka (Jorudan 12:03 → 12:32).",
+      "dur": "29 мин",
+      "cost": "¥290 на човек"
+    },
+    {
+      "type": "note",
+      "time": "~12:45",
+      "text": "Shin-Osaka: екибен и напитки; кифличките 551 Hōrai се продават в гарата (9:00–21:30)."
+    },
+    {
+      "type": "head",
+      "text": "Shin-Osaka → Shinagawa → Ōtorii"
+    },
+    {
+      "type": "note",
+      "time": "13:45",
+      "text": "През турникета със smartEX QR билетите; намери перона за Nozomi 416, вагон 14."
+    },
+    {
+      "type": "travel",
+      "time": "14:21",
+      "mode": "🚄",
+      "text": "Nozomi 416 от Shin-Osaka до Shinagawa, вагон 14, места 17-D и 17-E (Fuji вдясно, след ~2 ч).",
+      "dur": "2 ч 22 мин",
+      "status": "booked",
+      "booking": "nozomi-416"
+    },
+    {
+      "type": "travel",
+      "mode": "🚶",
+      "text": "На Shinagawa иди до пероните на Keikyū.",
+      "dur": "~10 мин"
+    },
+    {
+      "type": "travel",
+      "time": "17:00",
+      "mode": "🚆",
+      "text": "Keikyū Rapid-Limited Express от Shinagawa до Keikyū-Kamata (Jorudan). Ако го изпуснеш: JR 16:57 → 17:22, ¥440.",
+      "dur": "6 мин",
+      "cost": "¥230 на човек"
+    },
+    {
+      "type": "travel",
+      "mode": "🚆",
+      "text": "Keikyū Airport Line от Keikyū-Kamata до Ōtorii, после 9 мин пеша до Kc-III.",
+      "dur": "~15 мин",
+      "est": true
+    },
+    {
+      "type": "note",
+      "time": "~17:30",
+      "text": "Самостоятелно настаняване в Kc-III (само 16:00–22:00). Тихи часове 21:00–8:00.",
+      "status": "booked",
+      "booking": "kc3"
+    },
+    {
+      "type": "head",
+      "text": "Вечер: Kamata"
+    },
+    {
+      "type": "travel",
+      "time": "~18:15",
+      "mode": "🚆",
+      "text": "От Ōtorii до Keikyū-Kamata.",
+      "dur": "4 мин"
+    },
+    {
+      "type": "stop",
+      "time": "18:30",
+      "end": "20:00",
+      "place": "H1",
+      "stay": "1.5 ч",
+      "text": "Анексът на Nihao, на 3 мин от източния изход (17:00–22:00). Kangei е другата класика."
+    },
+    {
+      "type": "travel",
+      "time": "~20:15",
+      "mode": "🚆",
+      "text": "Обратно в Ōtorii и Kc-III преди 21:00.",
+      "dur": "~15 мин"
+    },
+    {
+      "type": "note",
+      "text": "Напомняния: куфарите вече пътуват към Haneda (вариантът от бележките за пътуването); само багаж за нощувката. Потвърди терминала на TK8364 (проверен в сб, 21-и, вероятно T2)."
+    }
+  ]
+}

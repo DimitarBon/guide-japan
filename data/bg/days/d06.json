@@ -1,0 +1,156 @@
+{
+  "title": "Higashiyama и източният маршрут",
+  "pace": "средно",
+  "stay": "HOTEL TAVINOS Kyoto",
+  "trivia": [
+    "kiyomizu-jump",
+    "sannenzaka",
+    "kodaiji-ieyasu",
+    "ginkakuji-silver",
+    "eikan-mikaeri"
+  ],
+  "items": [
+    {
+      "type": "head",
+      "text": "Сутрин: разходка в Higashiyama (K1), без гид"
+    },
+    {
+      "type": "note",
+      "time": "06:30",
+      "text": "Тръгване от хотела."
+    },
+    {
+      "type": "travel",
+      "mode": "🚶",
+      "text": "Нагоре по Gojō-zaka и Chawan-zaka до портата на Kiyomizu-dera. Или такси ~10 мин.",
+      "dur": "~25 мин",
+      "est": true
+    },
+    {
+      "type": "stop",
+      "time": "07:00",
+      "end": "08:00",
+      "place": "K1a",
+      "stay": "1 ч",
+      "stamp": true,
+      "text": "Терасата, гледката от Okuno-in, водопадът Otowa (пий само от една струя). ¥500. 📿 Гишето за печати може да е затворено в 7:00: опитай на излизане."
+    },
+    {
+      "type": "travel",
+      "mode": "🚶",
+      "text": "Надолу по Kiyomizu-zaka, вдясно към стъпалата Sannenzaka.",
+      "dur": "~5 мин"
+    },
+    {
+      "type": "stop",
+      "time": "08:00",
+      "end": "08:45",
+      "place": "K1b",
+      "stay": "45 мин",
+      "text": "Sannenzaka и Ninenzaka, почти празни. Магазин за кратуни в долния край на стъпалата."
+    },
+    {
+      "type": "stop",
+      "time": "08:45",
+      "end": "09:00",
+      "place": "K1c",
+      "stay": "15 мин",
+      "text": "Нагоре по Yasaka-dōri за снимка на пагодата."
+    },
+    {
+      "type": "stop",
+      "time": "09:00",
+      "end": "09:15",
+      "place": "K1d",
+      "stay": "15 мин",
+      "text": "Nene-no-michi на север; уличката е вляво."
+    },
+    {
+      "type": "stop",
+      "time": "09:15",
+      "end": "10:00",
+      "place": "K1e",
+      "stay": "45 мин",
+      "text": "Отваря в 9:00 (¥600). Градина, драконов коридор, Otamaya, бамбук."
+    },
+    {
+      "type": "optional",
+      "place": "K19",
+      "stay": "45 мин",
+      "text": "Чаена церемония на Ninenzaka, ако е резервирана (сесиите започват ~10:00, така че забавя следобеда)."
+    },
+    {
+      "type": "head",
+      "text": "Източен маршрут (K8), без гид"
+    },
+    {
+      "type": "travel",
+      "time": "~10:00",
+      "mode": "🚇",
+      "text": "Пеша до станция Higashiyama (~10 мин), Tōzai Line до Keage (1 спирка); изход 1, тухленият тунел до Nanzen-ji. Или ~35 мин пеша през Chion-in и Shōren-in.",
+      "dur": "~20 мин"
+    },
+    {
+      "type": "stop",
+      "time": "10:15",
+      "end": "11:45",
+      "place": "K8a",
+      "stay": "1.5 ч",
+      "text": "Порта Sanmon (¥600, изкачване), градина Hōjō (¥600), акведукт Suirokaku (безплатно)."
+    },
+    {
+      "type": "meal",
+      "time": "12:00",
+      "end": "13:15",
+      "text": "Обяд с юдофу близо до Nanzen-ji (напр. Okutan или Junsei), избираш на място.",
+      "stay": "1 ч 15 мин"
+    },
+    {
+      "type": "optional",
+      "time": "13:30",
+      "place": "K20",
+      "stay": "1 ч",
+      "text": "Само ако опашката е кратка: ¥1,500, рецепция до 16:00. 10 мин пеша на север от Nanzen-ji."
+    },
+    {
+      "type": "travel",
+      "mode": "🚶",
+      "text": "До Nyakuōji-bashi, южния край на пътеката.",
+      "dur": "~5–10 мин"
+    },
+    {
+      "type": "stop",
+      "time": "14:30",
+      "end": "15:15",
+      "place": "K8b",
+      "stay": "45 мин",
+      "stamp": true,
+      "text": "На север покрай канала. 📿 печати в Ōtoyo Shrine и Hōnen-in (малко встрани от пътеката)."
+    },
+    {
+      "type": "stop",
+      "time": "15:15",
+      "end": "16:15",
+      "place": "K8c",
+      "stay": "1 ч",
+      "text": "Еднопосочен маршрут през градината (¥1,000). Пътека по хълма с гледка към павилиона."
+    },
+    {
+      "type": "travel",
+      "mode": "🚕",
+      "text": "Обратно: такси до хотела или Gion, или автобус 5/17/203 от Ginkakuji-michi.",
+      "dur": "~20–30 мин",
+      "est": true
+    },
+    {
+      "type": "note",
+      "text": "Свободно след ~16:30. Вечеря в Gion, избираш на място, или K16 (отворено в понеделник) / K15, ако са резервирани."
+    },
+    {
+      "type": "optional",
+      "place": "K16",
+      "stay": "1.5–2 ч",
+      "text": "Сукияки от уагю, последен вход 19:30. Изисква резервация."
+    }
+  ]
+}

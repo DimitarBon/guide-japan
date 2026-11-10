@@ -1,0 +1,121 @@
+{
+ "title": "Osaka to Haneda",
+ "pace": "relaxed",
+ "stay": "Kc-III, Ōtorii (near Haneda)",
+ "trivia": [
+  "number-551",
+  "winged-gyoza"
+ ],
+ "items": [
+  {
+   "type": "head",
+   "text": "Morning: Osaka"
+  },
+  {
+   "type": "note",
+   "text": "Free morning at Hanastay Aya: pack, last breakfast nearby. Self check-out by 11:00. Closed on Sun: O16 Usami-tei and O17 Yoshino Sushi.",
+   "status": "booked",
+   "booking": "aya"
+  },
+  {
+   "type": "optional",
+   "time": "10:45",
+   "place": "O11",
+   "stay": "1–1.5 h",
+   "text": "Only if not done on Fri 20: leave with the bags, lockers at Shin-Osaka (~11:30, sizes not verified), JR to Osaka (~4 min). Sunday cafés open ~11:00. Back at Shin-Osaka by 13:30."
+  },
+  {
+   "type": "note",
+   "text": "Option, if the suitcases come with us: Crosta Shin-Osaka (9:00–20:00, ¥1,000 per bag, book online) for the optional morning; lockers uncertain."
+  },
+  {
+   "type": "travel",
+   "time": "12:03",
+   "mode": "🚇",
+   "text": "If no optional morning: Yotsubashi Line Tamade → Daikokuchō, change to the Midōsuji Line → Shin-Osaka (Jorudan 12:03 → 12:32).",
+   "dur": "29 min",
+   "cost": "¥290 pp"
+  },
+  {
+   "type": "note",
+   "time": "~12:45",
+   "text": "Shin-Osaka: ekiben and drinks; 551 Hōrai buns are sold in the station (9:00–21:30)."
+  },
+  {
+   "type": "head",
+   "text": "Shin-Osaka → Shinagawa → Ōtorii"
+  },
+  {
+   "type": "note",
+   "time": "13:45",
+   "text": "Through the gate with the smartEX QR tickets; find the platform for Nozomi 416, car 14."
+  },
+  {
+   "type": "travel",
+   "time": "14:21",
+   "mode": "🚄",
+   "text": "Nozomi 416 Shin-Osaka → Shinagawa, car 14, seats 17-D and 17-E (Fuji on the right, ~2 h in).",
+   "dur": "2 h 22 min",
+   "status": "booked",
+   "booking": "nozomi-416"
+  },
+  {
+   "type": "travel",
+   "mode": "🚶",
+   "text": "At Shinagawa walk to the Keikyū platforms.",
+   "dur": "~10 min"
+  },
+  {
+   "type": "travel",
+   "time": "17:00",
+   "mode": "🚆",
+   "text": "Keikyū Rapid-Limited Express Shinagawa → Keikyū-Kamata (Jorudan). If missed: JR 16:57 → 17:22, ¥440.",
+   "dur": "6 min",
+   "cost": "¥230 pp"
+  },
+  {
+   "type": "travel",
+   "mode": "🚆",
+   "text": "Keikyū Airport Line Keikyū-Kamata → Ōtorii, then 9 min walk to Kc-III.",
+   "dur": "~15 min",
+   "est": true
+  },
+  {
+   "type": "note",
+   "time": "~17:30",
+   "text": "Self check-in at Kc-III (16:00–22:00 only). Quiet hours 21:00–8:00.",
+   "status": "booked",
+   "booking": "kc3"
+  },
+  {
+   "type": "head",
+   "text": "Evening: Kamata"
+  },
+  {
+   "type": "travel",
+   "time": "~18:15",
+   "mode": "🚆",
+   "text": "Ōtorii → Keikyū-Kamata.",
+   "dur": "4 min"
+  },
+  {
+   "type": "stop",
+   "time": "18:30",
+   "end": "20:00",
+   "place": "H1",
+   "stay": "1.5 h",
+   "text": "Nihao annex, 3 min from the east exit (17:00–22:00). Kangei is the other classic."
+  },
+  {
+   "type": "travel",
+   "time": "~20:15",
+   "mode": "🚆",
+   "text": "Back to Ōtorii and Kc-III before 21:00.",
+   "dur": "~15 min"
+  },
+  {
+   "type": "note",
+   "text": "Reminders: if the suitcases were sent ahead, they are on the way to Haneda and we have overnight bags only. Confirm the TK8364 terminal (checked Sat 21, probably T2)."
+  }
+ ]
+}

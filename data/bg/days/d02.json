@@ -1,0 +1,133 @@
+{
+  "title": "Пазари, градина и ножове",
+  "pace": "натоварено",
+  "stay": "APA Hotel Asakusa Tawaramachi Ekimae",
+  "items": [
+    {
+      "type": "travel",
+      "time": "05:00",
+      "mode": "🚕",
+      "text": "Тръгни с такси. Поискай станция Shijō-mae (市場前駅).",
+      "dur": "~25 мин",
+      "est": true
+    },
+    {
+      "type": "stop",
+      "time": "05:45",
+      "end": "07:45",
+      "place": "T1",
+      "stay": "2 ч",
+      "text": "Търг ~5:45–6:25, гледай залата до ~7:00, разгледай отворените магазини. Само лека закуска."
+    },
+    {
+      "type": "travel",
+      "mode": "🚕",
+      "text": "Такси от Toyosu до станция Tsukiji.",
+      "dur": "~15 мин",
+      "cost": "~¥1,500"
+    },
+    {
+      "type": "stop",
+      "time": "08:25",
+      "end": "10:30",
+      "place": "T2",
+      "stay": "2 ч",
+      "status": "booked",
+      "booking": "t2-tsukiji",
+      "text": "Среща в 8:25 при Starbucks пред станция Tsukiji. Яденето е по време на обиколката; вземи пари в брой."
+    },
+    {
+      "type": "travel",
+      "mode": "🚶",
+      "text": "Пеша до портата Hamarikyū Ōtemon.",
+      "dur": "10–15 мин"
+    },
+    {
+      "type": "stop",
+      "time": "10:45",
+      "end": "12:15",
+      "place": "T27",
+      "stay": "1.5 ч",
+      "text": "Матча и сладкиш в Nakajima no Ochaya."
+    },
+    {
+      "type": "travel",
+      "mode": "🚶",
+      "text": "Пеша до Ginza.",
+      "dur": "~15 мин"
+    },
+    {
+      "type": "stop",
+      "time": "12:45",
+      "end": "13:45",
+      "place": "T28",
+      "stay": "1 ч",
+      "text": "Магазин Ishikawa (питай за солта Agehama) и Itoya."
+    },
+    {
+      "type": "travel",
+      "mode": "🚇",
+      "text": "Ginza Line от Ginza до Tawaramachi, директно.",
+      "dur": "~18 мин",
+      "cost": "~¥180 на човек",
+      "est": true
+    },
+    {
+      "type": "stop",
+      "time": "14:15",
+      "end": "14:55",
+      "place": "T6",
+      "stay": "40 мин",
+      "text": "Първа разходка по улицата."
+    },
+    {
+      "type": "stop",
+      "time": "15:00",
+      "end": "17:00",
+      "place": "T10",
+      "stay": "2 ч",
+      "status": "booked",
+      "booking": "t10-knife",
+      "text": "Само за Димитър. Табела Fujijapan на 1-9-8 Nishiasakusa; всички инструменти са осигурени."
+    },
+    {
+      "type": "stop",
+      "time": "17:00",
+      "end": "17:30",
+      "place": "T6",
+      "label": "Kappabashi отново",
+      "stay": "30 мин",
+      "text": "Повечето магазини затварят 17:00–17:30. Или се разходи в Asakusa."
+    },
+    {
+      "type": "note",
+      "time": "17:45",
+      "text": "НАПОМНЯНЕ: ако APA не могат да изпратят куфарите, предай ги в Asakusa Post Office (Nishi-Asakusa 1-1-1, до хотела; отворено до 19:00), Yu-Pack до HOTEL TAVINOS, доставка сб, 14-и. Запази си багаж за нощувката на пт, 13-и. Питай дали куфари, изпратени по-късно до Haneda, могат да чакат на летището до пн, 23-и."
+    },
+    {
+      "type": "travel",
+      "mode": "🚕",
+      "text": "Такси до Ryōgoku или влак: Toei Asakusa Line от Asakusa до Kuramae, после Ōedo Line до Ryōgoku.",
+      "dur": "~15–25 мин",
+      "est": true
+    },
+    {
+      "type": "stop",
+      "time": "18:30",
+      "place": "T5",
+      "stay": "1.5 ч",
+      "text": "Първи избор Chanko Kawasaki (Ryōgoku 2-13-1), само в брой, без резервация. Ако е пълно, потърси наоколо."
+    },
+    {
+      "type": "travel",
+      "mode": "🚇",
+      "text": "Обратно до хотела: Ōedo Line до Kuramae, Toei Asakusa Line до Asakusa, ~10 мин пеша. Или такси.",
+      "dur": "~25 мин",
+      "est": true
+    }
+  ],
+  "trivia": [
+    "matcha-bowl",
+    "chasen-takayama"
+  ]
+}
