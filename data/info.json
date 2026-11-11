@@ -412,6 +412,13 @@
     },
     {
       "group": "Restaurant",
+      "en": "Thank you (when leaving)",
+      "jp": "ありがとうございました",
+      "say": "arigatō gozaimashita",
+      "use": "Past tense: thanks for something finished. Say it at the door with gochisōsama deshita; staff say it to you too."
+    },
+    {
+      "group": "Restaurant",
       "en": "I can't eat ...",
       "jp": "…が食べられません",
       "say": "... ga taberaremasen",
