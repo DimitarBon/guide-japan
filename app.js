@@ -197,13 +197,13 @@ async function renderItem(it) {
   if (it.type === 'head') return `<h3 class="opthead">${esc(it.text)}</h3>`;
   const st = it.status ? (it.booking ? await bkStatus(it.booking, it.status) : it.status) : null;
   if (it.type === 'travel') {
-    return `<div class="leg"><span>${it.mode || '→'}</span><div>${it.time ? `<b>${esc(it.time)}</b> ` : ''}${esc(it.text)}
+    return `<div class="leg"><span>${it.mode || '→'}</span><div>${it.time ? `<b>${esc(it.time)}</b> ` : ''}${esc(it.text)}${it.map ? mapLink(it) : ''}
       <div class="meta">⏱ ${esc(it.dur || '')}${it.cost ? ' · ' + esc(it.cost) : ''}${it.est ? ` · <i>${L('est., verify')}</i>` : ''}${st ? ' ' + (it.booking ? `<button class="bk" data-id="${esc(it.booking)}">${STATUS[st]}</button>` : STATUS[st]) : ''}</div></div></div>`;
   }
   const p = it.place ? await getPlace(it.place) : null;
   const time = it.time ? `<div class="time">${esc(it.time)}${it.end ? '<br><span>' + esc(it.end) + '</span>' : ''}</div>` : '<div class="time"></div>';
   const head = it.place ? placeLine(it.place, p, it.label) + mapLink(p)
-    : `<b>${it.type === 'meal' ? '🍽️ ' : ''}${esc(it.text)}</b>`;
+    : `<b>${it.type === 'meal' ? '🍽️ ' : ''}${esc(it.text)}</b>${it.map ? mapLink(it) : ''}`;
   const alts = it.alt ? `<div class="meta">${L('Backups:')} ${(await Promise.all(it.alt.map(async c => placeLine(c, await getPlace(c))))).join(' ')}</div>` : '';
   return `<div class="stop ${it.type}${it.place && placeDone(it.place) ? ' done' : ''}"${it.place ? ` data-place="${esc(it.place)}"` : ''}>${time}<div class="body">
       ${it.type === 'optional' ? `<span class="badge opt">${L('Optional')}</span> ` : ''}${head}
