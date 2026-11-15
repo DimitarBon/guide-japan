@@ -174,3 +174,13 @@ main{max-width:720px;margin:0 auto;padding:0 16px}
 /* Ctrl+P outside the printable view: hint instead of a half page */
 @media print{ body:not(.printview) main{display:none} body:not(.printview)::after{content:"Open Info → Save as PDF for the full printable guide."} }
 .say{display:flex;gap:8px;margin:6px 0}.say button{min-width:44px;min-height:36px;font-size:18px;border:1px solid var(--line);border-radius:8px;background:transparent;cursor:pointer}
+
+/* Route maps */
+.routebtn{margin-top:8px}
+.routemap{border:1px solid var(--line);border-radius:12px;overflow:hidden;margin:8px 0}
+.routemap svg{display:block;width:100%;height:auto}
+.maplegend{display:flex;flex-wrap:wrap;gap:12px;font-size:12px;color:var(--muted);margin:4px 0}
+.maplegend span{display:inline-flex;align-items:center;gap:6px}
+.maplegend .sw{display:inline-block;width:22px;border-top:3px solid #d9480f}
+.maplegend .sw.o{border-top:3px dashed #7c4dff}
+.maplegend .sw.r{border-top:2px dashed #5f6670}

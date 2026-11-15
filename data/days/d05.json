@@ -1,154 +1,40 @@
 {
- "title": "Arashiyama and Ieyasu's palace",
- "pace": "demanding",
+ "title": "Nishiki, samurai museum and Ieyasu's palace",
+ "pace": "medium",
  "stay": "HOTEL TAVINOS Kyoto",
  "trivia": [
   "nightingale-floors",
   "toranaga-ieyasu",
   "shichi-go-san",
   "nijo-start-end",
-  "bamboo-sound"
+  "nishiki-jakuchu"
  ],
  "items": [
   {
    "type": "note",
-   "time": "06:00",
-   "text": "Leave the hotel. Konbini breakfast on the way."
-  },
-  {
-   "type": "travel",
-   "mode": "🚆",
-   "text": "Walk to Kyoto-Kawaramachi (~15 min), Hankyu Kyoto Line to Katsura, change to the Arashiyama Line to Arashiyama (¥240). Check the Sunday timetable.",
-   "dur": "~45 min door to door",
-   "est": true,
-   "map": "https://www.google.com/maps/search/?api=1&query=Hankyu%20Arashiyama%20Station&query_place_id=ChIJDWyLZ1EHAWARdNvzB02i3Fk"
-  },
-  {
-   "type": "optional",
-   "time": "06:50",
-   "end": "07:00",
-   "place": "K34",
-   "stay": "10 min",
-   "text": "~7 min from the station, on the way. Just after sunrise (~6:35). Free."
-  },
-  {
-   "type": "travel",
-   "mode": "🚶",
-   "text": "Togetsukyō → north to the lower end of the bamboo path (use the Bamboo path pin).",
-   "dur": "~10–12 min"
+   "text": "Changed on the day: Arashiyama moved to Tue 17 (D7). The morning had K31 and K23 instead."
   },
   {
    "type": "stop",
-   "time": "07:10",
-   "end": "07:30",
-   "place": "K5a",
-   "stay": "20 min",
-   "text": "Before the crowds. Open 24 h, free."
+   "time": "09:45",
+   "place": "K31",
+   "stay": "1–1.25 h",
+   "text": "Done. Eat at the stall where you buy. Aritsugu knives at the east end."
   },
   {
    "type": "stop",
-   "time": "07:30",
-   "end": "08:30",
-   "place": "K14",
-   "stay": "1 h",
-   "text": "Garden via the north gate on the bamboo path (¥500). Early opening from 7:30 on 14–30 Nov. Halls (+¥300, from 8:30) and Cloud Dragon don't fit before Ōkōchi."
-  },
-  {
-   "type": "optional",
-   "time": "08:30",
-   "end": "09:00",
-   "place": "K25",
-   "stay": "30 min",
-   "text": "Free gap before Ōkōchi opens: short climb to the gorge view."
-  },
-  {
-   "type": "optional",
-   "time": "08:30",
-   "end": "09:00",
-   "place": "K26",
-   "stay": "30 min",
-   "text": "Or a quiet walk in Kameyama park (the deck is inside it)."
-  },
-  {
-   "type": "optional",
-   "place": "K27",
-   "stay": "45 min",
-   "text": "Probably not: opens 9:00 (after the gap), ~200 steps, across the river."
-  },
-  {
-   "type": "optional",
-   "place": "K28",
-   "stay": "1 h",
-   "text": "Probably not: opens 9:00, clashes with Ōkōchi; across the river."
-  },
-  {
-   "type": "travel",
-   "mode": "🚶",
-   "text": "Up the top end of the bamboo path to Ōkōchi Sansō.",
-   "dur": "~5 min"
-  },
-  {
-   "type": "stop",
-   "time": "09:00",
-   "end": "10:15",
-   "place": "K5b",
-   "stay": "1 h 15 min",
-   "text": "Villa garden (¥1,000; keep the ticket for the matcha and sweet). This is the snack before the tour."
-  },
-  {
-   "type": "travel",
-   "mode": "🚶",
-   "text": "North through the Ogura-yama lanes, past Jōjakkō-ji and Nison-in, to Giō-ji.",
-   "dur": "~15–20 min (~1 km)"
-  },
-  {
-   "type": "stop",
-   "time": "10:35",
-   "end": "11:05",
-   "place": "K5c",
-   "stay": "30 min",
-   "stamp": true,
-   "text": "Moss garden (¥300). 📿 stamp."
-  },
-  {
-   "type": "optional",
-   "time": "11:05",
-   "end": "11:15",
-   "place": "K35",
-   "stay": "10 min",
-   "text": "~5 min north of Giō-ji. Free."
-  },
-  {
-   "type": "optional",
    "time": "11:15",
-   "end": "11:45",
-   "place": "K36",
-   "stay": "30 min",
-   "text": "8,000 stone memorials and a small quiet bamboo path (¥500, 9:00–16:30). Then ~25–30 min walk to Saga-Arashiyama Stn for the ~12:15 train. No slack."
-  },
-  {
-   "type": "note",
-   "text": "Skipping K35 and K36 gives ~40 min spare: walk straight from Giō-ji to the station (~20 min), earlier train, and a quick bite near Nijō before 12:50."
+   "place": "K23",
+   "stay": "1 h",
+   "text": "Done. Shared English tour, ~10 min from Nishiki."
   },
   {
    "type": "travel",
-   "mode": "🚶",
-   "text": "Walk to JR Saga-Arashiyama Stn.",
-   "dur": "~20 min from Giō-ji, ~25–30 min from Adashino",
-   "map": "https://www.google.com/maps/search/?api=1&query=Saga-Arashiyama%20Station&query_place_id=ChIJeVL-m_6pAWAR2fDtIzRBWRI"
-  },
-  {
-   "type": "travel",
-   "time": "~12:15",
-   "mode": "🚆",
-   "text": "JR Sagano Line Saga-Arashiyama → Nijō, then Tōzai Line one stop to Nijōjō-mae (exit by the castle), 2 min to Higashi-Ōte-mon. Or walk from JR Nijō along the south wall (~15 min).",
-   "dur": "~10 min + ~10 min",
+   "mode": "🚇",
+   "text": "Karasuma Line Shijō → Karasuma-Oike, Tōzai Line → Nijōjō-mae, 2 min to Higashi-Ōte-mon.",
+   "dur": "~15 min",
    "est": true,
-   "map": "https://www.google.com/maps/search/?api=1&query=Higashi%20Ote-mon%20Nijo%20Castle&query_place_id=ChIJnTMAQZcHAWARE9wQeAM_HzA"
-  },
-  {
-   "type": "note",
-   "text": "No lunch before the tour: grab something small near Nijō Stn if needed."
+   "map": "https://www.google.com/maps/search/?api=1&query=Higashi%20Ote-mon%20Nijo%20Castle"
   },
   {
    "type": "stop",

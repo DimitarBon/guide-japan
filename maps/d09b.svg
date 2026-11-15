@@ -1,0 +1,34 @@
+<svg class="rmap" viewBox="0 0 600 374" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Nara">
+<style>.rmap .lbl{font:600 12px -apple-system,system-ui,sans-serif;fill:#1f1d1a;paint-order:stroke;stroke:#fff;stroke-width:4px;stroke-linejoin:round}.rmap .sm{font:10.5px -apple-system,system-ui,sans-serif;fill:#6f6a62;paint-order:stroke;stroke:#fff;stroke-width:3px}.rmap .tm{font:700 10.5px -apple-system,system-ui,sans-serif;paint-order:stroke;stroke:#fff;stroke-width:3px}.rmap .num{font:700 11px -apple-system,system-ui,sans-serif;fill:#fff;text-anchor:middle;dominant-baseline:central}</style>
+<defs><marker id="d09bmain" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="d09bopt" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#7c4dff"/></marker><marker id="d09bride" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#2f6db5"/></marker><marker id="d09btaxi" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#5f6670"/></marker></defs>
+<rect width="600" height="374" fill="#fbfaf6"/>
+<polygon points="247,45 561,45 561,296 287,272" fill="#dbe8d2"/>
+<polyline fill="none" stroke-linecap="round" stroke-linejoin="round" points="119,179 179,243 184,312" stroke="#d9480f" stroke-width="4" marker-mid="url(#d09bmain)" marker-end="url(#d09bmain)"/>
+<polyline fill="none" stroke-linecap="round" stroke-linejoin="round" points="184,312 179,243 192,229 199,212" stroke="#d9480f" stroke-width="4" marker-end="url(#d09bmain)"/>
+<polyline fill="none" stroke-linecap="round" stroke-linejoin="round" points="213,190 268,124" stroke="#d9480f" stroke-width="4" marker-end="url(#d09bmain)"/>
+<polyline fill="none" stroke-linecap="round" stroke-linejoin="round" points="290,116 333,122" stroke="#d9480f" stroke-width="4" marker-end="url(#d09bmain)"/>
+<polyline fill="none" stroke-linecap="round" stroke-linejoin="round" points="348,111 358,70" stroke="#d9480f" stroke-width="4" marker-end="url(#d09bmain)"/>
+<polyline fill="none" stroke-linecap="round" stroke-linejoin="round" points="367,69 404,141 473,200 519,231" stroke="#d9480f" stroke-width="4" marker-mid="url(#d09bmain)" marker-end="url(#d09bmain)"/>
+<polyline fill="none" stroke-linecap="round" stroke-linejoin="round" points="527,226 512,153 487,93 466,61" stroke="#d9480f" stroke-width="4" marker-mid="url(#d09bmain)" marker-end="url(#d09bmain)"/>
+<polyline fill="none" stroke-linecap="round" stroke-linejoin="round" points="447,54 365,81 228,141 123,166" stroke="#d9480f" stroke-width="4" marker-mid="url(#d09bmain)" marker-end="url(#d09bmain)"/>
+<text x="164" y="230" class="tm" style="fill:#d9480f" text-anchor="end">~10 min</text>
+<text x="188" y="253" class="tm" style="fill:#d9480f" text-anchor="start">~10 min</text>
+<text x="249" y="161" class="tm" style="fill:#d9480f" text-anchor="start">7 min</text>
+<text x="437" y="156" class="tm" style="fill:#d9480f" text-anchor="start">~15 min, lantern path</text>
+<text x="511" y="126" class="tm" style="fill:#d9480f" text-anchor="start">~15 min uphill</text>
+<circle cx="179" cy="243" r="4" fill="#9a948a"/><text x="171" y="247" class="sm" text-anchor="end">Sarusawa Pond</text>
+<circle cx="487" cy="93" r="4" fill="#9a948a"/><text x="495" y="97" class="sm" text-anchor="start">Wakakusa gate</text>
+<text x="94" y="308" class="sm" text-anchor="start" style="fill:#d9480f;font-weight:600">7 → S: back ~20–25 min,</text>
+<text x="94" y="322" class="sm" text-anchor="start" style="fill:#d9480f;font-weight:600">dark lanes: phone torch</text>
+<a href="https://www.google.com/maps/search/?api=1&amp;query=Kintetsu%20Nara%20Station" target="_blank"><circle cx="110" cy="169" r="11" fill="#5f6670"/><text x="110" y="169" class="num">S</text><text x="120" y="140" class="lbl" text-anchor="middle">Kintetsu-Nara</text><text x="120" y="154" class="sm" text-anchor="middle">arrive 11:40 · 17:47 → Namba</text></a>
+<a href="https://www.google.com/maps/search/?api=1&amp;query=Naramachi%20Nara" target="_blank"><circle cx="185" cy="324" r="11" fill="#d9480f"/><text x="185" y="324" class="num">1</text><text x="185" y="349" class="lbl" text-anchor="middle">O6f Naramachi</text><text x="185" y="363" class="sm" text-anchor="middle">11:50–12:40 lunch</text></a>
+<a href="https://www.google.com/maps/search/?api=1&amp;query=Kofuku-ji%20Nara" target="_blank"><circle cx="204" cy="200" r="11" fill="#d9480f"/><text x="204" y="200" class="num">2</text><text x="228" y="231" class="lbl" text-anchor="middle">O6a Kōfuku-ji</text><text x="228" y="245" class="sm" text-anchor="middle">12:45–13:20</text></a>
+<a href="https://www.google.com/maps/search/?api=1&amp;query=Yoshikien%20Garden%20Nara" target="_blank"><circle cx="277" cy="114" r="11" fill="#d9480f"/><text x="277" y="114" class="num">3</text><text x="260" y="100" class="lbl" text-anchor="end">O6g Yoshikien</text><text x="260" y="114" class="sm" text-anchor="end">13:25–14:00</text></a>
+<a href="https://www.google.com/maps/search/?api=1&amp;query=Nara%20Park" target="_blank"><circle cx="346" cy="124" r="11" fill="#d9480f"/><text x="346" y="124" class="num">4</text><text x="356" y="149" class="lbl" text-anchor="middle">O6b Nara Park</text><text x="356" y="163" class="sm" text-anchor="middle">14:00–14:15</text></a>
+<a href="https://www.google.com/maps/search/?api=1&amp;query=Todai-ji" target="_blank"><circle cx="361" cy="57" r="11" fill="#d9480f"/><text x="361" y="57" class="num">5</text><text x="351" y="28" class="lbl" text-anchor="middle">O6c Tōdai-ji</text><text x="351" y="42" class="sm" text-anchor="middle">14:15–15:15 · 📿</text></a>
+<a href="https://www.google.com/maps/search/?api=1&amp;query=Kasuga%20Taisha" target="_blank"><circle cx="530" cy="239" r="11" fill="#d9480f"/><text x="530" y="239" class="num">6</text><text x="530" y="264" class="lbl" text-anchor="middle">O6d Kasuga Taisha</text><text x="530" y="278" class="sm" text-anchor="middle">15:25–16:10 · 📿</text></a>
+<a href="https://www.google.com/maps/search/?api=1&amp;query=Nigatsu-do%20Nara" target="_blank"><circle cx="459" cy="50" r="11" fill="#d9480f"/><text x="459" y="50" class="num">7</text><text x="449" y="21" class="lbl" text-anchor="middle">O6e Nigatsu-dō</text><text x="449" y="35" class="sm" text-anchor="middle">16:25–16:55 sunset</text></a>
+<g transform="translate(572,34)"><path d="M0,-16 L6,6 L0,1 L-6,6 Z" fill="#1f1d1a"/><text x="0" y="20" class="sm" text-anchor="middle">N</text></g>
+<g stroke="#1f1d1a" stroke-width="2"><line x1="486" y1="70" x2="550" y2="70"/><line x1="486" y1="66" x2="486" y2="74"/><line x1="550" y1="66" x2="550" y2="74"/></g>
+<text x="518" y="85" class="sm" text-anchor="middle">300 m</text>
+</svg>

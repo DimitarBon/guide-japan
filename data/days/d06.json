@@ -2,6 +2,16 @@
  "title": "Higashiyama and the east route",
  "pace": "medium",
  "stay": "HOTEL TAVINOS Kyoto",
+ "map": {
+  "maps": [
+   {
+    "title": "Higashiyama walk and east route, 6:30–16:15",
+    "file": "maps/d06.svg"
+   }
+  ],
+  "gmaps": "https://www.google.com/maps/dir/?api=1&travelmode=walking&origin=HOTEL+TAVINOS+Kyoto&destination=Ginkaku-ji&waypoints=Kiyomizu-dera%7CSannenzaka%7CYasaka%20Pagoda%7CKodai-ji%7CNanzen-ji%7CNyakuoji%20Bridge%20Kyoto",
+  "after": "From Ginkaku-ji: taxi to the hotel or Gion (~20–30 min), or bus 5/17/203 from Ginkakuji-michi."
+ },
  "trivia": [
   "kiyomizu-jump",
   "sannenzaka",

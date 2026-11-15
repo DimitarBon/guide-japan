@@ -2,6 +2,23 @@
  "title": "Fushimi Inari, Uji, Yoshino",
  "pace": "demanding",
  "stay": "Chikurinin Gunpoen, Yoshino",
+ "map": {
+  "maps": [
+   {
+    "before": "5:49 Keihan Kiyomizu-Gojō → Fushimi-Inari (7 min).",
+    "title": "Fushimi Inari, 6:00–8:15",
+    "file": "maps/d08a.svg",
+    "gmaps": "https://www.google.com/maps/dir/?api=1&travelmode=walking&origin=Fushimi-Inari+Station&destination=Inari+Station&waypoints=Fushimi%20Inari%20Taisha%7CYotsutsuji%20Fushimi%20Inari"
+   },
+   {
+    "before": "8:33 JR Inari → Uji (17 min).",
+    "title": "Uji, 8:50–11:52",
+    "file": "maps/d08b.svg",
+    "gmaps": "https://www.google.com/maps/dir/?api=1&travelmode=walking&origin=Uji+Station+JR&destination=Uji+Station+JR&waypoints=Byodoin%7CUjigami%20Shrine%7CTaihoan%20Uji"
+   }
+  ],
+  "after": "Then 11:52 JR Uji → Nara → Ōji → Yoshinoguchi, Kintetsu to Yoshino (14:21), inn shuttle 14:30. Yoshino ridge (15:00–16:45) is on the Thu 19 map."
+ },
  "trivia": [
   "inari-torii",
   "byodoin-coin",

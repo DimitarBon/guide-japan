@@ -2,6 +2,17 @@
  "title": "South route, castle at dusk",
  "pace": "demanding",
  "stay": "Hanastay Aya, Osaka",
+ "map": {
+  "maps": [
+   {
+    "before": "Morning by metro and tram (no map): 8:03 Tamade → Shitennō-ji (8:40–10:30) → Tennōji tram → Sumiyoshi Taisha (11:05–12:30) → Nankai to Namba.",
+    "title": "Afternoon and evening: Namba, Osaka Castle, Dōtonbori",
+    "file": "maps/d11b.svg",
+    "gmaps": "https://www.google.com/maps/dir/?api=1&travelmode=walking&origin=Nankai+Namba+Station&destination=Dotonbori&waypoints=Kuromon%20Market%7CHozenji%20Yokocho%7COsaka%20Castle%20Nishinomaru%20Garden%7COsaka-jo%20Hall"
+   }
+  ],
+  "after": "Then dinner near Dōtonbori (~20:15) and Namba → Tamade."
+ },
  "trivia": [
   "kongo-gumi",
   "godairiki-stones",

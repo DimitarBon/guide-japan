@@ -1,0 +1,25 @@
+<svg class="rmap" viewBox="0 0 600 298" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Uji">
+<style>.rmap .lbl{font:600 12px -apple-system,system-ui,sans-serif;fill:#1f1d1a;paint-order:stroke;stroke:#fff;stroke-width:4px;stroke-linejoin:round}.rmap .sm{font:10.5px -apple-system,system-ui,sans-serif;fill:#6f6a62;paint-order:stroke;stroke:#fff;stroke-width:3px}.rmap .tm{font:700 10.5px -apple-system,system-ui,sans-serif;paint-order:stroke;stroke:#fff;stroke-width:3px}.rmap .num{font:700 11px -apple-system,system-ui,sans-serif;fill:#fff;text-anchor:middle;dominant-baseline:central}</style>
+<defs><marker id="d08bmain" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="d08bopt" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#7c4dff"/></marker><marker id="d08bride" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#2f6db5"/></marker><marker id="d08btaxi" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#5f6670"/></marker></defs>
+<rect width="600" height="298" fill="#fbfaf6"/>
+<polyline points="537,435 430,283 395,153 359,23" fill="none" stroke="#a9cbe2" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="502" y="383" class="sm" text-anchor="start" style="font-style:italic">Uji River</text>
+<polyline fill="none" stroke-linecap="round" stroke-linejoin="round" points="113,220 189,205 281,227 329,244" stroke="#d9480f" stroke-width="4" marker-mid="url(#d08bmain)" marker-end="url(#d08bmain)"/>
+<polyline fill="none" stroke-linecap="round" stroke-linejoin="round" points="354,246 423,235 459,227 521,158" stroke="#7c4dff" stroke-width="3.5" stroke-dasharray="7 5" marker-mid="url(#d08bopt)" marker-end="url(#d08bopt)"/>
+<polyline fill="none" stroke-linecap="round" stroke-linejoin="round" points="518,155 438,196 408,196" stroke="#7c4dff" stroke-width="3.5" stroke-dasharray="7 5" marker-mid="url(#d08bopt)" marker-end="url(#d08bopt)"/>
+<polyline fill="none" stroke-linecap="round" stroke-linejoin="round" points="351,239 386,205" stroke="#d9480f" stroke-width="4" marker-end="url(#d08bmain)"/>
+<polyline fill="none" stroke-linecap="round" stroke-linejoin="round" points="391,184 377,140 253,153 146,175 118,192 107,211" stroke="#d9480f" stroke-width="4" marker-mid="url(#d08bmain)" marker-end="url(#d08bmain)"/>
+<text x="180" y="198" class="tm" style="fill:#d9480f" text-anchor="start">10–15 min, tea-shop street</text>
+<text x="469" y="218" class="tm" style="fill:#7c4dff" text-anchor="start">~10 min</text>
+<text x="471" y="198" class="tm" style="fill:#7c4dff" text-anchor="start">back ~8 min</text>
+<text x="334" y="226" class="tm" style="fill:#d9480f" text-anchor="start">5 min</text>
+<text x="279" y="143" class="tm" style="fill:#d9480f" text-anchor="start">~15 min</text>
+<circle cx="118" cy="192" r="4" fill="#9a948a"/><text x="128" y="210" class="sm" text-anchor="start">Nakamura Tōkichi</text>
+<a href="https://www.google.com/maps/search/?api=1&amp;query=Uji%20Station%20JR" target="_blank"><circle cx="100" cy="222" r="11" fill="#5f6670"/><text x="100" y="222" class="num">S</text><text x="100" y="247" class="lbl" text-anchor="middle">JR Uji</text><text x="100" y="261" class="sm" text-anchor="middle">arrive 8:50 · leave 11:52</text></a>
+<a href="https://www.google.com/maps/search/?api=1&amp;query=Byodoin%20Uji" target="_blank"><circle cx="342" cy="248" r="11" fill="#d9480f"/><text x="342" y="248" class="num">1</text><text x="342" y="277" class="lbl" text-anchor="middle">K18 Byōdō-in</text><text x="342" y="291" class="sm" text-anchor="middle">9:00–10:00 · ¥700</text></a>
+<a href="https://www.google.com/maps/search/?api=1&amp;query=Ujigami%20Shrine" target="_blank"><circle cx="530" cy="149" r="11" fill="#7c4dff"/><text x="530" y="149" class="num">2</text><text x="510" y="120" class="lbl" text-anchor="middle">K33 Ujigami Shrine</text><text x="510" y="134" class="sm" text-anchor="middle">10:10–10:30 · optional</text></a>
+<a href="https://www.google.com/maps/search/?api=1&amp;query=Taihoan%20Uji" target="_blank"><circle cx="395" cy="196" r="11" fill="#d9480f"/><text x="395" y="196" class="num">3</text><text x="335" y="167" class="lbl" text-anchor="middle">K18 Taihō-an</text><text x="335" y="181" class="sm" text-anchor="middle">11:00 tea (be there 10:50)</text></a>
+<g transform="translate(572,34)"><path d="M0,-16 L6,6 L0,1 L-6,6 Z" fill="#1f1d1a"/><text x="0" y="20" class="sm" text-anchor="middle">N</text></g>
+<g stroke="#1f1d1a" stroke-width="2"><line x1="472" y1="70" x2="550" y2="70"/><line x1="472" y1="66" x2="472" y2="74"/><line x1="550" y1="66" x2="550" y2="74"/></g>
+<text x="511" y="85" class="sm" text-anchor="middle">200 m</text>
+</svg>

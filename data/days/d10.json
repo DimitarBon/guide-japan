@@ -2,6 +2,17 @@
  "title": "Market, then Option 1, 3 or 4",
  "pace": "medium",
  "stay": "Hanastay Aya, Osaka",
+ "map": {
+  "maps": [
+   {
+    "before": "Drawn for Option 1. Option 3 uses the same area (LINKS Umeda lunch instead of Yoshino Sushi); Option 4 goes to Minoh first.",
+    "title": "Option 1: Hommachi → Umeda → Tenjinbashi → Fukushima",
+    "file": "maps/d10.svg",
+    "gmaps": "https://www.google.com/maps/dir/?api=1&travelmode=walking&origin=Hommachi+Station+Osaka&destination=JR+Fukushima+Station+Osaka&waypoints=Nakazakicho%20Osaka%7CPATHFINDER%20XNOBU%20Osaka%20Tenmangu%7CTenjinbashisuji%206-chome%7CUmeda%20Sky%20Building"
+   }
+  ],
+  "after": "Back: Fukushima → Tamade ~30 min."
+ },
  "trivia": [
   "umeda-lift"
  ],

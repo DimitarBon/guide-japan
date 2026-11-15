@@ -9,7 +9,7 @@ const cache = {};
 const BG = {
   '← Back':'← Назад','Yes':'Да','Cancel':'Отказ','✅ Booked':'✅ Резервирано','⚠️ To book':'⚠️ За резервиране','✔️ Done':'✔️ Готово',
   '✅ Included':'✅ Включено','❓ Optional':'❓ По избор','🌦️ If weather':'🌦️ Ако времето позволи','❌ Not included':'❌ Не е включено',
-  'Map ↗':'Карта ↗','Backups:':'Резервни:','est., verify':'прибл., провери','Optional':'По избор','📿 stamp':'📿 печат',
+  'Map ↗':'Карта ↗','🗺️ Route map':'🗺️ Карта на маршрута','main route':'основен маршрут','optional':'по избор','railway':'железница','Open the walking route in Google Maps ↗':'Отвори маршрута в Google Maps ↗','Drawn to scale from map coordinates; paths are approximate. Tap a stop to open it in Google Maps.':'Начертано в мащаб по координати; пътеките са приблизителни. Докосни спирка, за да я отвориш в Google Maps.','Backups:':'Резервни:','est., verify':'прибл., провери','Optional':'По избор','📿 stamp':'📿 печат',
   '🧠 Trivia to check today':'🧠 Любопитни факти за днес','pace:':'темпо:',
   '🕘 Hours':'🕘 Работно време','💴 Price':'💴 Цена','⌛ Time there':'⌛ Време там','🚉 Getting there':'🚉 Как се стига','🎫 Booking':'🎫 Резервация','📋 Status':'📋 Статус',
   '👀 What to see':'👀 Какво да видиш','🚶 How to walk it':'🚶 Маршрут','Enter:':'Вход:','Exit:':'Изход:','🧠 Facts':'🧠 Факти','💡 Tips':'💡 Съвети','🧠 Trivia':'🧠 Любопитни факти',
@@ -240,12 +240,14 @@ async function renderDays(keepScroll) {
     const items = (await Promise.all(data.items.map(renderItem))).join('');
     const trivia = data.trivia?.length ? `<div class="card"><h3>${L('🧠 Trivia to check today')}</h3>${await triviaList(data.trivia)}</div>` : '';
     body = `<div class="card"><h2>${esc(d.chip)} · ${esc(d.label)} · ${esc(data.title)}</h2>
-      <p class="muted">${esc(d.base)} · ${L('pace:')} ${esc(data.pace)}${data.stay ? ' · 🛏️ ' + esc(data.stay) : ''}</p></div>
+      <p class="muted">${esc(d.base)} · ${L('pace:')} ${esc(data.pace)}${data.stay ? ' · 🛏️ ' + esc(data.stay) : ''}</p>
+      ${data.map ? `<button class="btn routebtn" data-file="${esc(d.file)}">${L('🗺️ Route map')}</button>` : ''}</div>
       <div class="timeline">${items}</div>${trivia}`;
   } else if (d) {
     body = `<div class="card"><h2>${esc(d.chip)} · ${esc(d.label)}</h2><p class="muted">${esc(d.base)}</p></div>` + body;
   }
   view.innerHTML = `<div class="chips">${chips}</div>${body}`;
+  view.querySelector('.routebtn')?.addEventListener('click', () => showRouteMap(d, data));
   view.querySelectorAll('.chip').forEach(b =>
     b.addEventListener('click', () => { currentDay = +b.dataset.day; renderDays(); }));
   if (!keepScroll) view.querySelector('.chip.on')?.scrollIntoView({ inline: 'center', block: 'nearest' });
@@ -257,6 +259,25 @@ async function renderDays(keepScroll) {
   }
 }
 let focusPlace = null;
+
+// Route map pop-up: one or more drawn SVG maps per day (maps/dNN*.svg), plus a Google Maps walking-route link
+const svgCache = {};
+const fetchText = path => fetch(path, { cache: 'no-cache' }).then(r => (r.ok ? r.text() : '')).catch(() => '');
+async function showRouteMap(d, data) {
+  const m = data.map;
+  const parts = await Promise.all((m.maps || []).map(async x => {
+    if (!svgCache[x.file]) svgCache[x.file] = fetchText(x.file);
+    return `${x.before ? `<p class="muted">${esc(x.before)}</p>` : ''}${x.title ? `<h3>${esc(x.title)}</h3>` : ''}<div class="routemap">${await svgCache[x.file]}</div>
+      ${x.gmaps ? `<a class="btn ghost" href="${esc(x.gmaps)}" target="_blank" rel="noopener">${L('Open the walking route in Google Maps ↗')}</a>` : ''}
+      ${x.note ? `<p class="muted">${esc(x.note)}</p>` : ''}`;
+  }));
+  openModal(`<h2>${L('🗺️ Route map')} · ${esc(d.chip)} · ${esc(d.label)}</h2>
+    <p class="muted">${L('Drawn to scale from map coordinates; paths are approximate. Tap a stop to open it in Google Maps.')}</p>
+    <div class="maplegend"><span><i class="sw"></i>${L('main route')}</span><span><i class="sw o"></i>${L('optional')}</span><span><i class="sw r"></i>${L('railway')}</span></div>
+    ${parts.join('')}
+    ${m.gmaps ? `<a class="btn" href="${esc(m.gmaps)}" target="_blank" rel="noopener">${L('Open the walking route in Google Maps ↗')}</a>` : ''}
+    ${m.after ? `<p>${esc(m.after)}${m.after_map ? ` <a class="map" href="${esc(m.after_map)}" target="_blank" rel="noopener">${L('Map ↗')}</a>` : ''}</p>` : ''}`, false);
+}
 
 // Place details in the bottom sheet (no page change)
 const sec = (title, html) => html ? `<h3>${title}</h3>${html}` : '';

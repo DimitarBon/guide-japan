@@ -1,0 +1,38 @@
+<svg class="rmap" viewBox="0 0 600 786" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Osaka Option 1">
+<style>.rmap .lbl{font:600 12px -apple-system,system-ui,sans-serif;fill:#1f1d1a;paint-order:stroke;stroke:#fff;stroke-width:4px;stroke-linejoin:round}.rmap .sm{font:10.5px -apple-system,system-ui,sans-serif;fill:#6f6a62;paint-order:stroke;stroke:#fff;stroke-width:3px}.rmap .tm{font:700 10.5px -apple-system,system-ui,sans-serif;paint-order:stroke;stroke:#fff;stroke-width:3px}.rmap .num{font:700 11px -apple-system,system-ui,sans-serif;fill:#fff;text-anchor:middle;dominant-baseline:central}</style>
+<defs><marker id="d10main" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker><marker id="d10opt" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#7c4dff"/></marker><marker id="d10ride" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#2f6db5"/></marker><marker id="d10taxi" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#5f6670"/></marker></defs>
+<rect width="600" height="786" fill="#fbfaf6"/>
+<polyline points="-58,506 218,517 402,529 586,484 770,517" fill="none" stroke="#a9cbe2" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="71" y="545" class="sm" text-anchor="start" style="font-style:italic">Dōjima / Ōkawa rivers</text>
+<polyline fill="none" stroke-linecap="round" stroke-linejoin="round" points="286,725 349,620" stroke="#d9480f" stroke-width="4" marker-end="url(#d10main)"/>
+<polyline fill="none" stroke-linecap="round" stroke-linejoin="round" points="353,597 277,317" stroke="#2f6db5" stroke-width="3" stroke-dasharray="8 6" marker-end="url(#d10ride)"/>
+<polyline fill="none" stroke-linecap="round" stroke-linejoin="round" points="283,297 392,208" stroke="#d9480f" stroke-width="4" marker-end="url(#d10main)"/>
+<polyline fill="none" stroke-linecap="round" stroke-linejoin="round" points="410,210 532,362" stroke="#2f6db5" stroke-width="3" stroke-dasharray="8 6" marker-end="url(#d10ride)"/>
+<polyline fill="none" stroke-linecap="round" stroke-linejoin="round" points="539,385 535,442" stroke="#d9480f" stroke-width="4" marker-end="url(#d10main)"/>
+<polyline fill="none" stroke-linecap="round" stroke-linejoin="round" points="534,442 517,117" stroke="#d9480f" stroke-width="4" marker-end="url(#d10main)"/>
+<polyline fill="none" stroke-linecap="round" stroke-linejoin="round" points="508,113 319,331" stroke="#2f6db5" stroke-width="3" stroke-dasharray="8 6" marker-end="url(#d10ride)"/>
+<polyline fill="none" stroke-linecap="round" stroke-linejoin="round" points="299,334 149,249" stroke="#d9480f" stroke-width="4" marker-end="url(#d10main)"/>
+<polyline fill="none" stroke-linecap="round" stroke-linejoin="round" points="132,254 65,418" stroke="#d9480f" stroke-width="4" marker-end="url(#d10main)"/>
+<text x="325" y="683" class="tm" style="fill:#d9480f" text-anchor="start">walk</text>
+<text x="307" y="451" class="tm" style="fill:#2f6db5" text-anchor="end">Midōsuji Line</text>
+<text x="344" y="244" class="tm" style="fill:#d9480f" text-anchor="start">10 min</text>
+<text x="479" y="280" class="tm" style="fill:#2f6db5" text-anchor="start">Tanimachi Line</text>
+<text x="532" y="241" class="tm" style="fill:#d9480f" text-anchor="start">1.5 h</text>
+<text x="419" y="214" class="tm" style="fill:#2f6db5" text-anchor="start">Tanimachi Line</text>
+<text x="91" y="330" class="tm" style="fill:#d9480f" text-anchor="end">15 min</text>
+<text x="60" y="629" class="sm" text-anchor="start" style="fill:#1f1d1a;font-weight:600">Morning: O15 Kizu Market 9:00–10:00</text>
+<text x="60" y="643" class="sm" text-anchor="start" style="fill:#1f1d1a;font-weight:600">(off map, south of Namba)</text>
+<a href="https://www.google.com/maps/search/?api=1&amp;query=Hommachi%20Station%20Osaka" target="_blank"><circle cx="279" cy="737" r="11" fill="#5f6670"/><text x="279" y="737" class="num">S</text><text x="279" y="762" class="lbl" text-anchor="middle">Hommachi Stn</text><text x="279" y="776" class="sm" text-anchor="middle">~11:40 from Tamade</text></a>
+<a href="https://www.google.com/maps/search/?api=1&amp;query=%E5%90%89%E9%87%8E%E5%AF%BF%E5%8F%B8%20%E6%B7%A1%E8%B7%AF%E7%94%BA" target="_blank"><circle cx="356" cy="609" r="11" fill="#d9480f"/><text x="356" y="609" class="num">1</text><text x="373" y="607" class="lbl" text-anchor="start">O17 Yoshino Sushi</text><text x="373" y="621" class="sm" text-anchor="start">11:40–12:30</text></a>
+<a href="https://www.google.com/maps/search/?api=1&amp;query=Nakazakicho%20Osaka" target="_blank"><circle cx="402" cy="200" r="11" fill="#d9480f"/><text x="402" y="200" class="num">2</text><text x="402" y="171" class="lbl" text-anchor="middle">O11 Nakazakichō</text><text x="402" y="185" class="sm" text-anchor="middle">13:00–14:10</text></a>
+<a href="https://www.google.com/maps/search/?api=1&amp;query=PATHFINDER%20XNOBU%20Osaka%20Tenmangu" target="_blank"><circle cx="534" cy="455" r="11" fill="#d9480f"/><text x="534" y="455" class="num">3</text><text x="517" y="463" class="lbl" text-anchor="end">O21 Pathfinder XNOBU</text><text x="517" y="477" class="sm" text-anchor="end">14:30 coffee</text></a>
+<a href="https://www.google.com/maps/search/?api=1&amp;query=Tenjinbashisuji%20Shopping%20Street" target="_blank"><circle cx="516" cy="104" r="11" fill="#d9480f"/><text x="516" y="104" class="num">4</text><text x="499" y="92" class="lbl" text-anchor="end">O3 Tenjinbashi-suji</text><text x="499" y="106" class="sm" text-anchor="end">14:45–16:15 (walk north)</text></a>
+<a href="https://www.google.com/maps/search/?api=1&amp;query=Umeda%20Station%20Midosuji" target="_blank"><circle cx="273" cy="305" r="6" fill="#5f6670"/><text x="273" y="305" class="num"></text><text x="261" y="303" class="lbl" text-anchor="end">Umeda</text></a>
+<a href="https://www.google.com/maps/search/?api=1&amp;query=Higashi-Umeda%20Station" target="_blank"><circle cx="310" cy="341" r="6" fill="#5f6670"/><text x="310" y="341" class="num"></text><text x="310" y="361" class="lbl" text-anchor="middle">Higashi-Umeda</text></a>
+<a href="https://www.google.com/maps/search/?api=1&amp;query=Umeda%20Sky%20Building" target="_blank"><circle cx="137" cy="242" r="11" fill="#d9480f"/><text x="137" y="242" class="num">5</text><text x="137" y="213" class="lbl" text-anchor="middle">O8 Umeda Sky</text><text x="137" y="227" class="sm" text-anchor="middle">16:40–17:40 sunset</text></a>
+<a href="https://www.google.com/maps/search/?api=1&amp;query=JR%20Fukushima%20Station%20Osaka" target="_blank"><circle cx="60" cy="430" r="11" fill="#d9480f"/><text x="60" y="430" class="num">6</text><text x="60" y="455" class="lbl" text-anchor="middle">O26 Fukushima</text><text x="60" y="469" class="sm" text-anchor="middle">18:00–19:45 dinner</text></a>
+<a href="https://www.google.com/maps/search/?api=1&amp;query=Kobe%20Steak%20Ishida%20LINKS%20UMEDA" target="_blank"><circle cx="255" cy="238" r="7" fill="#7c4dff"/><text x="255" y="238" class="num"></text><text x="268" y="244" class="lbl" text-anchor="start">O5e Kobe steak (alt.)</text></a>
+<g transform="translate(572,34)"><path d="M0,-16 L6,6 L0,1 L-6,6 Z" fill="#1f1d1a"/><text x="0" y="20" class="sm" text-anchor="middle">N</text></g>
+<g stroke="#1f1d1a" stroke-width="2"><line x1="450" y1="70" x2="550" y2="70"/><line x1="450" y1="66" x2="450" y2="74"/><line x1="550" y1="66" x2="550" y2="74"/></g>
+<text x="500" y="85" class="sm" text-anchor="middle">500 m</text>
+</svg>

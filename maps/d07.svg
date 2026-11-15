@@ -1,0 +1,103 @@
+<svg class="rmap" viewBox="0 0 600 740" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Arashiyama walking route">
+  <style>
+    .rmap .lbl{font:600 12px -apple-system,system-ui,sans-serif;fill:#1f1d1a;paint-order:stroke;stroke:#fff;stroke-width:4px;stroke-linejoin:round}
+    .rmap .sm{font:10.5px -apple-system,system-ui,sans-serif;fill:#6f6a62;paint-order:stroke;stroke:#fff;stroke-width:3px}
+    .rmap .tm{font:700 10.5px -apple-system,system-ui,sans-serif;fill:#d9480f;paint-order:stroke;stroke:#fff;stroke-width:3px}
+    .rmap .to{fill:#7c4dff}
+    .rmap .num{font:700 11px -apple-system,system-ui,sans-serif;fill:#fff;text-anchor:middle;dominant-baseline:central}
+  </style>
+  <defs>
+    <marker id="d07a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#d9480f"/></marker>
+    <marker id="d07o" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#7c4dff"/></marker>
+    <marker id="d07t" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#5f6670"/></marker>
+  </defs>
+  <rect width="600" height="740" fill="#fbfaf6"/>
+
+  <!-- hills, river, railways -->
+  <path d="M0,600 C80,560 160,575 250,600 C330,622 420,640 600,660 L600,740 L0,740 Z" fill="#dbe8d2"/>
+  <text x="120" y="690" class="sm">Arashiyama (hills)</text>
+  <path d="M0,330 C40,300 70,330 90,380 C110,440 120,500 110,560 L0,580 Z" fill="#dbe8d2"/>
+  <text x="14" y="470" class="sm">Ogurayama</text>
+  <path d="M0,585 C90,560 170,560 260,580 C340,598 400,600 440,610 C500,625 550,640 600,655" fill="none" stroke="#a9cbe2" stroke-width="16" stroke-linecap="round"/>
+  <text x="250" y="572" class="sm">Katsura River (Ōi River)</text>
+  <path d="M600,410 L513,401 L400,392 L300,382 L230,372" fill="none" stroke="#5f6670" stroke-width="2" stroke-dasharray="6 4"/>
+  <text x="300" y="372" class="sm">JR Sagano Line</text>
+  <path d="M600,712 L549,701" fill="none" stroke="#5f6670" stroke-width="2" stroke-dasharray="6 4"/>
+  <text x="545" y="728" class="sm">Hankyu</text>
+  <line x1="431" y1="621" x2="404" y2="558" stroke="#9a948a" stroke-width="6" stroke-linecap="round" opacity=".6"/>
+
+  <!-- route -->
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <polyline points="549,701 490,660 431,621" stroke="#d9480f" stroke-width="4" marker-end="url(#d07a)"/>
+    <polyline points="431,621 404,558 420,488 377,441" stroke="#d9480f" stroke-width="4" marker-mid="url(#d07a)" marker-end="url(#d07a)"/>
+    <polyline points="377,441 330,446 290,448 250,450 205,452" stroke="#d9480f" stroke-width="5" marker-mid="url(#d07a)" marker-end="url(#d07a)"/>
+    <polyline points="205,458 260,460 310,460" stroke="#d9480f" stroke-width="3" stroke-dasharray="2 5" marker-end="url(#d07a)"/>
+    <path d="M318,466 C340,500 300,510 295,478" stroke="#d9480f" stroke-width="2.5" marker-end="url(#d07a)"/>
+    <polyline points="310,470 240,476 195,490 176,510" stroke="#7c4dff" stroke-width="3.5" stroke-dasharray="7 5" marker-end="url(#d07o)"/>
+    <polyline points="168,505 165,475 170,456" stroke="#7c4dff" stroke-width="3.5" stroke-dasharray="7 5" marker-end="url(#d07o)"/>
+    <polyline points="178,438 198,398 218,345 210,290 204,238 172,196 148,168" stroke="#d9480f" stroke-width="4" marker-mid="url(#d07a)" marker-end="url(#d07a)"/>
+    <polyline points="140,158 100,132 82,108" stroke="#7c4dff" stroke-width="3.5" stroke-dasharray="7 5" marker-end="url(#d07o)"/>
+  </g>
+
+  <!-- walking times -->
+  <text x="474" y="672" class="tm">7 min</text>
+  <text x="424" y="520" class="tm">10–12 min</text>
+  <text x="268" y="438" class="tm">20 min stroll</text>
+  <text x="240" y="473" class="tm">5 min back</text>
+  <text x="196" y="504" class="tm to">10 min</text>
+  <text x="226" y="300" class="tm">15–20 min</text>
+  <text x="96" y="150" class="tm to">5 + 5 min</text>
+
+  <polyline points="160,150 300,118 470,100 585,92" fill="none" stroke="#5f6670" stroke-width="3" stroke-dasharray="3 6" stroke-linecap="round" marker-end="url(#d07t)"/>
+  <text x="300" y="104" class="sm" style="fill:#1f1d1a;font-weight:600">🚕 taxi to K37 Ryōan-ji, ~15–20 min</text>
+  <text x="300" y="138" class="sm">(~4 km east, off the map) 11:10–12:00</text>
+  <!-- passed on the way -->
+  <circle cx="218" cy="345" r="4" fill="#9a948a"/><text x="226" y="348" class="sm">Jōjakkō-ji (pass)</text>
+  <circle cx="204" cy="238" r="4" fill="#9a948a"/><text x="212" y="241" class="sm">Nison-in (pass)</text>
+  <circle cx="198" cy="398" r="4" fill="#9a948a"/><text x="206" y="402" class="sm">Ogura Pond</text>
+
+  <!-- stops -->
+  <a href="https://www.google.com/maps/search/?api=1&amp;query=Hankyu%20Arashiyama%20Station" target="_blank">
+    <circle cx="549" cy="701" r="11" fill="#5f6670"/><text x="549" y="701" class="num">S</text>
+    <text x="470" y="700" class="lbl" text-anchor="end">Hankyu Arashiyama Stn</text><text x="470" y="714" class="sm" text-anchor="end">arrive ~6:40</text>
+  </a>
+  <a href="https://www.google.com/maps/search/?api=1&amp;query=Togetsukyo%20Bridge" target="_blank">
+    <circle cx="418" cy="590" r="11" fill="#7c4dff"/><text x="418" y="590" class="num">1</text>
+    <text x="436" y="588" class="lbl">K34 Togetsukyō Bridge</text><text x="436" y="602" class="sm">6:50–7:00 · 10 min</text>
+  </a>
+  <a href="https://www.google.com/maps/search/?api=1&amp;query=Arashiyama%20Bamboo%20Forest" target="_blank">
+    <circle cx="377" cy="441" r="11" fill="#d9480f"/><text x="377" y="441" class="num">2</text>
+    <text x="394" y="436" class="lbl">K5a Bamboo grove</text><text x="394" y="450" class="sm">7:10–7:30 · 20 min</text>
+  </a>
+  <a href="https://www.google.com/maps/search/?api=1&amp;query=Tenryu-ji%20North%20Gate" target="_blank">
+    <circle cx="318" cy="466" r="11" fill="#d9480f"/><text x="318" y="466" class="num">3</text>
+    <text x="318" y="530" class="lbl" text-anchor="middle">K14 Tenryū-ji garden</text><text x="318" y="544" class="sm" text-anchor="middle">7:30–8:30 · 1 h · north gate</text>
+  </a>
+  <a href="https://www.google.com/maps/search/?api=1&amp;query=Arashiyama%20Park%20Kameyama%20Observation%20Deck" target="_blank">
+    <circle cx="174" cy="515" r="11" fill="#7c4dff"/><text x="174" y="515" class="num">4</text>
+    <text x="164" y="540" class="lbl" text-anchor="middle">K25 / K26 Kameyama Park</text><text x="164" y="554" class="sm" text-anchor="middle">8:30–9:00 · optional</text>
+  </a>
+  <a href="https://www.google.com/maps/search/?api=1&amp;query=Okochi%20Sanso" target="_blank">
+    <circle cx="174" cy="448" r="11" fill="#d9480f"/><text x="174" y="448" class="num">5</text>
+    <text x="30" y="418" class="lbl">K5b Ōkōchi Sansō</text><text x="30" y="432" class="sm">9:00–10:00 · 1 h · matcha</text>
+  </a>
+  <a href="https://www.google.com/maps/search/?api=1&amp;query=Gio-ji%20Kyoto" target="_blank">
+    <circle cx="144" cy="162" r="11" fill="#d9480f"/><text x="144" y="162" class="num">6</text>
+    <text x="162" y="160" class="lbl">K5c Giō-ji 📿</text><text x="162" y="174" class="sm">10:20–10:50 · 30 min</text>
+  </a>
+  <a href="https://www.google.com/maps/search/?api=1&amp;query=Saga%20Toriimoto%20Preserved%20Street" target="_blank">
+    <circle cx="97" cy="128" r="9" fill="#7c4dff"/><text x="97" y="128" class="num">7</text>
+    <text x="14" y="80" class="lbl">K35 Saga-Toriimoto street</text><text x="14" y="94" class="sm">10:55–11:05 · optional</text>
+  </a>
+  <a href="https://www.google.com/maps/search/?api=1&amp;query=Adashino%20Nenbutsu-ji" target="_blank">
+    <circle cx="78" cy="102" r="11" fill="#7c4dff"/><text x="78" y="102" class="num">8</text>
+    <text x="14" y="36" class="lbl">K36 Adashino Nenbutsu-ji</text><text x="14" y="50" class="sm">11:10–11:40 · optional</text>
+  </a>
+
+  <!-- north arrow + scale -->
+  <g transform="translate(565,190)"><path d="M0,-18 L7,6 L0,1 L-7,6 Z" fill="#1f1d1a"/><text x="0" y="22" class="sm" text-anchor="middle">N</text></g>
+  <g transform="translate(470,225)" stroke="#1f1d1a" stroke-width="2">
+    <line x1="0" y1="0" x2="60" y2="0"/><line x1="0" y1="-4" x2="0" y2="4"/><line x1="60" y1="-4" x2="60" y2="4"/>
+  </g>
+  <text x="500" y="241" class="sm" text-anchor="middle">200 m</text>
+</svg>

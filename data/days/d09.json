@@ -2,6 +2,22 @@
  "title": "Yoshino, Nara, Osaka",
  "pace": "demanding",
  "stay": "Hanastay Aya, Osaka",
+ "map": {
+  "maps": [
+   {
+    "title": "Yoshino, 8:10–9:45",
+    "file": "maps/d09a.svg",
+    "gmaps": "https://www.google.com/maps/dir/?api=1&travelmode=walking&origin=Chikurinin+Gunpoen+Yoshino&destination=Yoshino+Ropeway&waypoints=Kinpusen-ji%20Zao-do%7CYoshimizu%20Shrine%20Yoshino"
+   },
+   {
+    "before": "10:07 Kintetsu Yoshino → Kashiharajingu-mae → Yamato-Saidaiji → Kintetsu-Nara (11:40).",
+    "title": "Nara, 11:40–17:10",
+    "file": "maps/d09b.svg",
+    "gmaps": "https://www.google.com/maps/dir/?api=1&travelmode=walking&origin=Kintetsu+Nara+Station&destination=Kintetsu+Nara+Station&waypoints=Naramachi%20Nara%7CKofuku-ji%20Nara%7CYoshikien%20Garden%20Nara%7CTodai-ji%7CKasuga%20Taisha%7CNigatsu-do%20Nara"
+   }
+  ],
+  "after": "Then 17:47 Kintetsu-Nara → Osaka-Namba (~18:30), suitcases at Yamato Namba, Yotsubashi Line to Tamade; Shinsekai dinner ~19:30."
+ },
  "trivia": [
   "wooden-halls",
   "yoshitsune-yoshino",

@@ -1,7 +1,7 @@
 // Offline support: every file of the guide is stored on the phone on first visit.
 // Online: fresh files from the network (3 s limit), cache updated. Offline: the stored copy.
 // Generated; the version changes whenever any file changes, so phones pick up updates.
-const VERSION = 'bf362e088c';
+const VERSION = 'c2a60c25d3';
 const CACHE = 'japan-guide-' + VERSION;
 const FILES = [
 "./",
@@ -56,6 +56,14 @@ const FILES = [
 "icon-512.png",
 "index.html",
 "manifest.json",
+"maps/d06.svg",
+"maps/d07.svg",
+"maps/d08a.svg",
+"maps/d08b.svg",
+"maps/d09a.svg",
+"maps/d09b.svg",
+"maps/d10.svg",
+"maps/d11b.svg",
 "tickets/sharpening-2.png",
 "tickets/sharpening.png",
 "tickets/tea.png",
