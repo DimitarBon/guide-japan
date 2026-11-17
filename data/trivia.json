@@ -43,7 +43,7 @@
   "check": "At Nakajima no Ochaya (Thu 12) and at the Taihō-an tea ceremony in Uji (Wed 18).",
   "places": [
    "T27",
-   "K18"
+   "K18b"
   ]
  },
  "chasen-takayama": {
@@ -57,7 +57,7 @@
   "check": "At the teahouse in Hamarikyū (Thu 12) and Taihō-an (Wed 18).",
   "places": [
    "T27",
-   "K18"
+   "K18b"
   ]
  },
  "vending-machines": {
@@ -189,7 +189,7 @@
   "check": "At Kennin-ji, look for the small tea garden near the Hōjō, planted in Eisai's honour.",
   "places": [
    "K3",
-   "K18"
+   "K18b"
   ]
  },
  "ginkakuji-silver": {
@@ -241,7 +241,7 @@
   ],
   "check": "Walk back down: you only see the writing on the uphill side of each torii.",
   "places": [
-   "K7"
+   "K7b"
   ]
  },
  "byodoin-coin": {
@@ -254,7 +254,7 @@
   ],
   "check": "Hold a 10-yen coin up in front of the hall and compare.",
   "places": [
-   "K18"
+   "K18a"
   ]
  },
  "wooden-halls": {
@@ -818,7 +818,7 @@
   ],
   "check": "At Taihō-an, notice how bare the room is, then think of it in gold.",
   "places": [
-   "K18",
+   "K18b",
    "T27",
    "O1"
   ]
@@ -846,7 +846,7 @@
   ],
   "check": "Look for the purchase-limit sign at the counter.",
   "places": [
-   "K18"
+   "K18b"
   ]
  },
  "hankai-tram": {

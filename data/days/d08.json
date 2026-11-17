@@ -56,11 +56,34 @@
   {
    "type": "stop",
    "time": "06:00",
-   "end": "08:15",
-   "place": "K7",
-   "stay": "2 h 15 min",
+   "end": "06:10",
+   "place": "K7a",
+   "stay": "10 min",
    "stamp": true,
-   "text": "Sunrise ~6:15. Senbon Torii up to the Yotsutsuji lookout (40–50 min) and a bit beyond, then back down. The full summit loop doesn't fit. 📿 stamp if the office is open."
+   "text": "Rōmon gate and main hall. Sunrise ~6:15. 📿 stamp if the office is open (likely closed this early; try on the way down)."
+  },
+  {
+   "type": "stop",
+   "time": "06:10",
+   "end": "06:50",
+   "place": "K7b",
+   "stay": "40 min with the climb",
+   "text": "Senbon Torii, then up past Okusha towards Yotsutsuji."
+  },
+  {
+   "type": "stop",
+   "time": "06:50",
+   "end": "07:30",
+   "place": "K7c",
+   "stay": "40 min",
+   "text": "Yotsutsuji lookout, a bit beyond if time allows. The full summit loop doesn't fit."
+  },
+  {
+   "type": "travel",
+   "time": "07:30",
+   "mode": "🚶",
+   "text": "Back down the same path to the main gate and JR Inari.",
+   "dur": "~40 min"
   },
   {
    "type": "travel",
@@ -84,7 +107,7 @@
    "type": "stop",
    "time": "09:00",
    "end": "10:00",
-   "place": "K18",
+   "place": "K18a",
    "stay": "1 h",
    "text": "Byōdō-in (opens 8:45, ¥700; Phoenix Hall interior +¥300, slots from 9:30). Hōshōkan museum. Hold up a 10-yen coin."
   },
@@ -99,7 +122,7 @@
    "type": "stop",
    "time": "10:50",
    "end": "11:30",
-   "place": "K18",
+   "place": "K18b",
    "stay": "40 min",
    "status": "booked",
    "booking": "k18-taihoan",

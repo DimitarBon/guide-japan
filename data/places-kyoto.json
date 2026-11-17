@@ -710,7 +710,7 @@
   "days": [
    "D8"
   ],
-  "desc": "Torii tunnels up a forested mountain at dawn",
+  "desc": "Torii tunnels up a forested mountain at dawn (K7a–K7c)",
   "map": "https://www.google.com/maps/search/?api=1&query=Fushimi%20Inari%20Taisha",
   "why": "Torii tunnels up a forested mountain; before 8:00 is the quiet window.",
   "hours": "Grounds 24 h, free. Shrine office (📿 stamp) ~8:30–16:30 (verify).",
@@ -752,6 +752,111 @@
   "pending": null,
   "decision": null,
   "verified": "6 Nov 2026"
+ },
+ "K7a": {
+  "name": "Fushimi Inari main gate and hall",
+  "icon": "⛩️",
+  "p": 1,
+  "inc": "yes",
+  "days": [
+   "D8"
+  ],
+  "desc": "Rōmon gate and main shrine; 📿 stamp office",
+  "map": "https://www.google.com/maps/search/?api=1&query=Fushimi%20Inari%20Taisha",
+  "why": "Start of the climb, right across from JR Inari.",
+  "hours": "Grounds 24 h. Shrine office (📿 stamp) ~8:30–16:30 (verify).",
+  "price": "Free.",
+  "stay": "~10 min (6:00)",
+  "access": "Keihan Fushimi-Inari 5 min walk; JR Inari Stn opposite the gate.",
+  "booking": "No booking.",
+  "see": [
+   "Rōmon gate (1589, donated by Hideyoshi).",
+   "Main hall (1499).",
+   "Fox statues holding keys and jewels."
+  ],
+  "route": null,
+  "facts": [
+   "Founded in 711; head shrine of about 30,000 Inari shrines in Japan."
+  ],
+  "tips": [
+   "📿 stamp office is likely closed at 6:00; try on the way down."
+  ],
+  "trivia": [
+   "shinto-buddhism",
+   "purity-water"
+  ],
+  "pending": null,
+  "decision": "Wed 18 ~6:00",
+  "verified": "17 Nov 2026"
+ },
+ "K7b": {
+  "name": "Senbon Torii",
+  "icon": "⛩️",
+  "p": 1,
+  "inc": "yes",
+  "days": [
+   "D8"
+  ],
+  "desc": "The double tunnel of red gates",
+  "map": "https://www.google.com/maps/search/?api=1&query=Senbon%20Torii%20Fushimi%20Inari",
+  "why": "The famous torii tunnel, nearly empty at dawn.",
+  "hours": "Open 24 h.",
+  "price": "Free.",
+  "stay": "~10 min, then the climb (6:10)",
+  "access": "Just behind the main hall (K7a).",
+  "booking": "No booking.",
+  "see": [
+   "Two parallel tunnels of torii; walk up the right one.",
+   "Okusha and the Omokaru stones just after."
+  ],
+  "route": null,
+  "facts": [
+   "There are about 10,000 torii; each is donated by a person or company, with the name and date on the back."
+  ],
+  "tips": [
+   "Sunrise ~6:15: the first torii are dark; a phone torch helps."
+  ],
+  "trivia": [
+   "inari-torii"
+  ],
+  "pending": null,
+  "decision": "Wed 18 ~6:10",
+  "verified": "17 Nov 2026"
+ },
+ "K7c": {
+  "name": "Yotsutsuji lookout",
+  "icon": "🌄",
+  "p": 1,
+  "inc": "yes",
+  "days": [
+   "D8"
+  ],
+  "desc": "City view at the halfway crossroads",
+  "map": "https://www.google.com/maps/search/?api=1&query=Yotsutsuji%20Intersection%20Fushimi%20Inari",
+  "why": "View over south Kyoto at sunrise; crowds thin above it.",
+  "hours": "Open 24 h.",
+  "price": "Free.",
+  "stay": "~40 min (6:50–7:30)",
+  "access": "40–50 min up from the main gate.",
+  "booking": "No booking.",
+  "see": [
+   "Yotsutsuji crossroads: view over south Kyoto.",
+   "A little beyond if time allows; the full summit loop (2–3 h) does not fit."
+  ],
+  "route": null,
+  "facts": [
+   "The foxes are Inari's messengers; many hold a key to the rice granary in their mouth."
+  ],
+  "tips": [
+   "Toilets at Yotsutsuji.",
+   "Back down the same path, ~40 min, for the 8:33 train."
+  ],
+  "trivia": [
+   "new-year"
+  ],
+  "pending": null,
+  "decision": "Wed 18 ~6:50–7:30",
+  "verified": "17 Nov 2026"
  },
  "K8": {
   "name": "East route",
@@ -1257,7 +1362,7 @@
   "days": [
    "D8"
   ],
-  "desc": "Taihō-an tea ceremony, Byōdō-in, old tea shops",
+  "desc": "Taihō-an tea ceremony, Byōdō-in, old tea shops (K18a–K18b)",
   "map": "https://www.google.com/maps/search/?api=1&query=Taihoan%20Uji",
   "why": "Byōdō-in and an authentic short tea ceremony; only worth it combined with Fushimi Inari (K7).",
   "hours": "Byōdō-in 8:45–17:30 (last entry 17:15). Taihō-an 10:00–16:00 (last start 15:30), closed the last day of each month.",
@@ -1298,6 +1403,78 @@
   "pending": null,
   "decision": "Your pick",
   "verified": "6 Nov 2026"
+ },
+ "K18a": {
+  "name": "Byōdō-in",
+  "icon": "🛕",
+  "p": 2,
+  "inc": "yes",
+  "days": [
+   "D8"
+  ],
+  "desc": "Phoenix Hall, the temple on the 10-yen coin",
+  "map": "https://www.google.com/maps/search/?api=1&query=Byodoin%20Uji",
+  "why": "Japan's best-known Heian-era hall, 10–15 min from JR Uji.",
+  "hours": "8:45–17:30 (last entry 17:15); treasure house 9:00–17:00; no closed days.",
+  "price": "¥700 (+¥300 Phoenix Hall interior tour, Japanese, every ~20 min from 9:30).",
+  "stay": "1 h (9:00–10:00)",
+  "access": "JR Uji → Byōdō-in along the tea-shop street, 10–15 min.",
+  "booking": "No booking.",
+  "see": [
+   "Phoenix Hall over its pond.",
+   "Hōshōkan museum: the original bronze phoenixes and 26 of the 52 Bodhisattvas on clouds."
+  ],
+  "route": null,
+  "facts": [
+   "Byōdō-in was a Fujiwara villa turned into a temple in 1052; the Phoenix Hall (1053) is on the 10-yen coin."
+  ],
+  "tips": [
+   "Phoenix Hall interior tours are in Japanese; the outside is the main sight."
+  ],
+  "trivia": [
+   "byodoin-coin"
+  ],
+  "pending": null,
+  "decision": "Wed 18 ~9:00",
+  "verified": "17 Nov 2026"
+ },
+ "K18b": {
+  "name": "Taihō-an tea ceremony",
+  "icon": "🍵",
+  "p": 2,
+  "inc": "yes",
+  "days": [
+   "D8"
+  ],
+  "desc": "Usucha in Uji's city tea house (booked)",
+  "map": "https://www.google.com/maps/search/?api=1&query=Taihoan%20Uji",
+  "why": "Authentic short tea ceremony in Uji's city tea house.",
+  "hours": "10:00–16:00 (last start 15:30), closed the last day of each month.",
+  "price": "Usucha booked, ¥3,000 for both.",
+  "stay": "~30 min (11:00–11:30)",
+  "access": "~5 min from Byōdō-in (K18a). Be there 10:50.",
+  "booking": "BOOKED: Wed 18 11:00, RSV_261118_16 (show the QR at reception).",
+  "see": [
+   "Usucha with a seasonal sweet in a small tea room."
+  ],
+  "route": null,
+  "facts": [
+   "Uji tea has been famous since the 1300s; Hideyoshi and the Tokugawa shoguns had Uji tea sent to them in a yearly procession."
+  ],
+  "tips": [
+   "Same-day cancellation charged 100%.",
+   "Matcha shops limit purchases to ~1 per person."
+  ],
+  "trivia": [
+   "matcha-bowl",
+   "chasen-takayama",
+   "eisai-tea",
+   "rikyu-gold",
+   "matcha-shortage"
+  ],
+  "pending": null,
+  "decision": "Booked Wed 18 11:00",
+  "verified": "17 Nov 2026"
  },
  "K19": {
   "name": "Camellia Flower Teahouse, Ninenzaka",
