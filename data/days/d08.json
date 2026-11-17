@@ -171,11 +171,11 @@
    "type": "travel",
    "time": "14:30",
    "mode": "🚐",
-   "text": "Chikurinin free shuttle from Yoshino Station to the inn, Chikurinin Gunpoen (Yoshinoyama 2142) (confirmed by the inn).",
+   "text": "Chikurinin free shuttle: pickup in front of Kintetsu Yoshino Station (近鉄吉野駅), to the inn, ~10 min (confirmed by the inn).",
    "dur": "~10 min",
    "status": "booked",
    "booking": "chikurinin-shuttle",
-   "map": "https://www.google.com/maps/search/?api=1&query=%E7%AB%B9%E6%9E%97%E9%99%A2%E7%BE%A4%E8%8A%B3%E5%9C%92%20%E5%90%89%E9%87%8E"
+   "map": "https://www.google.com/maps/search/?api=1&query=%E8%BF%91%E9%89%84%E5%90%89%E9%87%8E%E9%A7%85"
   },
   {
    "type": "note",
