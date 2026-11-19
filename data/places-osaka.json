@@ -541,7 +541,7 @@
   ],
   "verified": "6 Nov 2026",
   "pending": "",
-  "decision": "",
+  "decision": "Fri 20 ~15:20",
   "trivia": [
    "kansai-kanto",
    "osaka-tokyo"
@@ -670,7 +670,7 @@
   "desc": "Teppanyaki counter steak",
   "map": "https://www.google.com/maps/search/?api=1&query=Kobe%20Steak%20Ishida%20LINKS%20UMEDA",
   "why": "Chef-grilled Kobe beef at the counter, 1 min from JR Osaka, right after Umeda Sky.",
-  "hours": "11:00–23:00 (L.O. 21:30), open daily.",
+  "hours": "Lunch 11:00–15:00; dinner 16:30–23:00 (L.O. 21:30); open daily.",
   "price": "Dinner courses from ¥6,380 (A5 wagyu); Kobe beef courses higher (~¥13,000+).",
   "stay": "1.5–2 h",
   "access": "LINKS UMEDA 8F, Ōfukachō, Kita-ku; JR Osaka Stn 1 min.",
@@ -683,10 +683,68 @@
    "Ishida is a Kobe-based group; a Kansai Walker article says the shop serves Kobe beef with its 'Kobe-no-niku' certificate."
   ],
   "tips": [
-   "Courses with 'A5 黒毛和牛' are wagyu, not Kobe beef: choose a course labelled 神戸牛 / Kobe beef."
+   "Ask for A5 黒毛和牛 (Kuroge wagyu), not 神戸牛 (Kobe beef): that's our choice.",
+   "Check the bill."
   ],
-  "decision": "Option 3, Fri 20 lunch; or Fri 20 evening",
+  "decision": "Fri 20 lunch option ~13:30 (A5 Kuroge wagyu, not Kobe)",
   "verified": "6 Nov 2026",
+  "pending": "",
+  "trivia": []
+ },
+ "O5f": {
+  "name": "Yakiniku Ushigoro Umeda",
+  "icon": "🥩",
+  "p": 2,
+  "inc": "maybe",
+  "days": [
+   "D10"
+  ],
+  "desc": "Yakiniku: A5 Kuroge wagyu, thin slices you grill yourselves",
+  "map": "https://www.google.com/maps/search/?api=1&query=%E7%84%BC%E8%82%89%E3%81%86%E3%81%97%E3%81%94%E3%82%8D%20%E6%A2%85%E7%94%B0%E5%BA%97",
+  "why": "A5 wagyu (not Kobe), well rated (Ikyu 4.22, 146 reviews), by Osaka Station.",
+  "hours": "Mon–Fri 11:00–15:00 (L.O. 14:00), 17:00–23:00; Sat, Sun, holidays 11:00–23:00. Open daily.",
+  "price": "Lunch ~¥6,000–8,000 pp.",
+  "stay": "~1 h",
+  "access": "2 min from JR Osaka Stn, Umekita underground exit.",
+  "booking": "Tel. 06-6372-1129; online via Ikyu or Gurunavi.",
+  "see": [],
+  "route": null,
+  "facts": [],
+  "tips": [
+   "Weekday lunch last order 14:00: arrive by 13:30."
+  ],
+  "decision": "Fri 20 lunch option ~13:30",
+  "verified": "19 Nov 2026",
+  "pending": "",
+  "trivia": []
+ },
+ "O5g": {
+  "name": "Murakami, Grand Front Osaka",
+  "icon": "🥩",
+  "p": 2,
+  "inc": "maybe",
+  "days": [
+   "D10"
+  ],
+  "desc": "Teppanyaki: thick A5 Kuroge wagyu steak cooked by the chef; you choose cut and grams",
+  "map": "https://www.google.com/maps/search/?api=1&query=Kobe%20Beef%20Steak%20Murakami%20Grand%20Front%20Osaka",
+  "why": "A5 wagyu steak (not Kobe) at a teppan counter, right by Umeda Sky.",
+  "hours": "Lunch 11:00–16:00 (L.O. 15:00); dinner later.",
+  "price": "A5 Kuroge lean steak course 100 g ¥8,580; lunch from ¥3,630.",
+  "stay": "~1 h 15 min",
+  "access": "Grand Front Osaka South Bldg 8F, Ōfukachō 4-20; JR Osaka Stn ~4 min.",
+  "booking": "TableCheck (Kobe Beef Steak Murakami Grand Front Osaka); tel. 06-6485-7299.",
+  "see": [
+   "Teppanyaki: the chef cooks in front of you."
+  ],
+  "route": null,
+  "facts": [],
+  "tips": [
+   "Skip the cheap lunch set: it's Sakura Beef (Japanese Black × dairy cross), not A5.",
+   "Ask for 黒毛和牛 A5, not 神戸牛 (Kobe)."
+  ],
+  "decision": "Fri 20 lunch option ~13:30",
+  "verified": "19 Nov 2026",
   "pending": "",
   "trivia": []
  },
@@ -772,7 +830,7 @@
    "Windy and cold on the roof in November: jacket.",
    "Sunset ~16:50; at 18:15 it's the night view."
   ],
-  "decision": "Your pick; on the route",
+  "decision": "Fri 20 ~18:00, night view",
   "verified": "6 Nov 2026",
   "pending": "",
   "trivia": [
@@ -863,7 +921,7 @@
   "name": "Nakazakichō",
   "icon": "🏘️",
   "p": 2,
-  "inc": "maybe",
+  "inc": "yes",
   "days": [
    "D10",
    "Hnd"
@@ -887,7 +945,7 @@
   "tips": [
    "Residential: quiet voices, no photos of people's homes."
   ],
-  "decision": "Fri 20, by option, or Sun 22 morning",
+  "decision": "Fri 20 ~16:50",
   "verified": "6 Nov 2026",
   "pending": "",
   "trivia": []
@@ -1026,7 +1084,7 @@
    "Cash only.",
    "Shops close towards 11:00: be there by 9:00."
   ],
-  "decision": "Your pick; morning, near the stay",
+  "decision": "Fri 20, 8:30 fish breakfast",
   "verified": "6 Nov 2026",
   "pending": "",
   "trivia": []
@@ -1069,10 +1127,8 @@
   "name": "Yoshino Sushi",
   "icon": "🍜",
   "p": 3,
-  "inc": "maybe",
-  "days": [
-   "D10"
-  ],
+  "inc": "no",
+  "days": [],
   "desc": "Inventor of hako-zushi pressed sushi, since 1841",
   "map": "https://www.google.com/maps/search/?api=1&query=%E5%90%89%E9%87%8E%E5%AF%BF%E5%8F%B8%20%E6%B7%A1%E8%B7%AF%E7%94%BA",
   "why": "Great history, but closed Sat, Sun and holidays, so only Fri 20 lunch is possible.",
@@ -1091,7 +1147,7 @@
   "tips": [
    "Takeaway boxes travel well."
   ],
-  "decision": "Option 1, Fri 20 lunch",
+  "decision": "Not placed: closed Sat, Sun and holidays; no sushi outside the market",
   "verified": "6 Nov 2026",
   "pending": "",
   "trivia": []
@@ -1222,7 +1278,7 @@
   "tips": [
    "Tenmangu stand is takeaway only."
   ],
-  "decision": "Your pick; on the route",
+  "decision": "Fri 20 ~15:05",
   "verified": "6 Nov 2026",
   "pending": "",
   "trivia": []
@@ -1231,17 +1287,17 @@
   "name": "Katsuō-ji, Minoh",
   "icon": "🛕🍁",
   "p": 2,
-  "inc": "maybe",
+  "inc": "yes",
   "days": [
    "D10"
   ],
   "desc": "Mountain 'winning daruma' temple, autumn colour",
   "map": "https://www.google.com/maps/search/?api=1&query=Katsuoji%20Temple%20Minoh",
-  "why": "Daruma-filled mountain temple at peak foliage, but a half day away; dropped.",
+  "why": "Daruma-filled mountain temple at peak foliage; the day's nature and autumn colour.",
   "hours": "8:00–17:00 (verify).",
   "price": "~¥500.",
-  "stay": "Half day",
-  "access": "Minoh-Kayano Stn + bus ~25 min.",
+  "stay": "1.5 h",
+  "access": "Midōsuji Line to Minoh-Kayano (check the train goes all the way), then Hankyu Bus 30 from stop No. 8, ~25 min, ¥800, 2–3/h; ~1 h 10 min from Daikokuchō.",
   "booking": "No booking.",
   "see": [
    "Thousands of small red daruma on every ledge."
@@ -1251,7 +1307,7 @@
    "Its name means 'victory' temple; people leave daruma there after a win."
   ],
   "tips": [],
-  "decision": "Option 4, Fri 20",
+  "decision": "Fri 20 morning, after Kizu",
   "verified": "6 Nov 2026",
   "pending": "",
   "trivia": []
@@ -1313,7 +1369,7 @@
   ],
   "trivia": null,
   "pending": null,
-  "decision": "Your pick; Fri 20 dinner",
+  "decision": "Fri 20 dinner ~19:15",
   "verified": "9 Nov 2026"
  },
  "O26a": {
