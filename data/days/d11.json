@@ -1,18 +1,7 @@
 {
- "title": "South route, castle at dusk",
+ "title": "South route, Sakai knives, castle at dusk",
  "pace": "demanding",
  "stay": "Hanastay Aya, Osaka",
- "map": {
-  "maps": [
-   {
-    "before": "Morning by metro and tram (no map): 8:03 Tamade → Shitennō-ji (8:40–10:30) → Tennōji tram → Sumiyoshi Taisha (11:05–12:30) → Nankai to Namba.",
-    "title": "Afternoon and evening: Namba, Osaka Castle, Dōtonbori",
-    "file": "maps/d11b.svg",
-    "gmaps": "https://www.google.com/maps/dir/?api=1&travelmode=walking&origin=Nankai+Namba+Station&destination=Dotonbori&waypoints=Kuromon%20Market%7CHozenji%20Yokocho%7COsaka%20Castle%20Nishinomaru%20Garden%7COsaka-jo%20Hall"
-   }
-  ],
-  "after": "Then dinner near Dōtonbori (~20:15) and Namba → Tamade."
- },
  "trivia": [
   "kongo-gumi",
   "godairiki-stones",
@@ -68,77 +57,51 @@
   {
    "type": "stop",
    "time": "11:05",
-   "end": "12:30",
+   "end": "12:15",
    "place": "O7",
-   "stay": "1 h 25 min",
+   "stay": "1 h 10 min",
    "stamp": true,
    "text": "Sori-hashi bridge, the four halls, the 五大力 stones. 📿 stamp."
   },
   {
    "type": "travel",
-   "time": "13:11",
-   "mode": "🚆",
-   "text": "Nankai Main Line local (not limited express) Sumiyoshitaisha → Nankai-Namba (Jorudan 13:11 → 13:21). An earlier train works if you finish sooner.",
-   "dur": "10 min",
-   "cost": "¥240 pp"
+   "time": "~12:20",
+   "mode": "🚋",
+   "text": "Hankai tram Sumiyoshi-toriimae → Myōkokuji-mae (same line, going south); pay when you get off. Check the timetable.",
+   "dur": "~15–20 min",
+   "cost": "¥230 pp",
+   "est": true
   },
   {
    "type": "head",
-   "text": "Afternoon: Namba"
-  },
-  {
-   "type": "travel",
-   "mode": "🚶",
-   "text": "Nankai Namba → Kuromon.",
-   "dur": "~10 min"
+   "text": "Midday: Sakai knives"
   },
   {
    "type": "stop",
-   "time": "13:35",
+   "time": "12:45",
    "end": "14:00",
-   "place": "O12",
-   "stay": "25 min",
-   "text": "Walk-through only; long queues on weekends."
+   "place": "O27",
+   "stay": "1 h 15 min",
+   "text": "1F TAKUMI SHOP: knives and whetstones from 24 Sakai businesses; 2F CUT knife museum. Free. Ask for ginsan; ask early how long engraving takes. Tax-free: show passport."
   },
   {
    "type": "meal",
    "time": "14:00",
-   "end": "14:45",
-   "text": "Lunch near Hōzen-ji, decide later: O19 fugu (book), O16 kitsune udon (to 18:00) or O18 takoyaki/okonomiyaki. Don't let lunch run long: the garden's last entry is 16:00.",
-   "stay": "45 min",
-   "alt": [
-    "O19",
-    "O16",
-    "O18"
-   ]
+   "end": "14:40",
+   "text": "Lunch in Sakai, near the hall, chosen on the spot.",
+   "stay": "40 min"
   },
   {
-   "type": "stop",
-   "time": "14:45",
-   "end": "15:05",
-   "place": "O9",
-   "stay": "20 min",
-   "text": "Splash water on the mossy Fudō."
-  },
-  {
-   "type": "stop",
-   "time": "15:05",
-   "end": "15:15",
-   "place": "O20",
-   "stay": "10 min",
-   "text": "Pork buns (2 for ¥420), eat quickly."
+   "type": "travel",
+   "time": "~14:45",
+   "mode": "🚆",
+   "text": "Walk to Nankai Sakai Stn (~15 min), Nankai Main Line → Nankai-Namba (~15 min), metro → Tanimachi 4-chōme (~20 min), then walk. Check the TK8364 terminal on ANA Flight Status (by phone).",
+   "dur": "~1 h",
+   "est": true
   },
   {
    "type": "head",
    "text": "Afternoon and evening: Osaka Castle"
-  },
-  {
-   "type": "travel",
-   "mode": "🚇",
-   "text": "Metro Namba → Tanimachi 4-chōme, then walk. Check the TK8364 terminal on ANA Flight Status (by phone).",
-   "dur": "~30 min",
-   "est": true,
-   "time": "~15:15"
   },
   {
    "type": "stop",
@@ -188,6 +151,21 @@
   {
    "type": "stop",
    "time": "19:30",
+   "place": "O9",
+   "stay": "15 min",
+   "text": "Splash water on the mossy Fudō.",
+   "end": "19:45"
+  },
+  {
+   "type": "stop",
+   "time": "19:45",
+   "place": "O20",
+   "stay": "10 min",
+   "text": "Pork buns (2 for ¥420); shop open to 21:30."
+  },
+  {
+   "type": "stop",
+   "time": "19:55",
    "end": "20:15",
    "place": "O13",
    "stay": "45 min",

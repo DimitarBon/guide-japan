@@ -762,7 +762,7 @@
   "hours": "Oct–Mar 6:30–17:00 (outer gate 16:00); shrine office for stamps ~9:00–17:00.",
   "price": "Free. Tram ¥230; goshuin ¥300–500.",
   "stay": "1 h 25 min",
-  "access": "Hankai Uemachi Line Tennōji-ekimae → Sumiyoshi-toriimae (~20 min); stop at the gate. Back: Nankai Sumiyoshitaisha Stn, 3 min.",
+  "access": "Hankai Uemachi Line Tennōji-ekimae → Sumiyoshi-toriimae (~20 min); stop at the gate. Back: Nankai Sumiyoshitaisha Stn, 3 min. The Hankai tram continues south to Myōkokuji-mae for O27 Sakai.",
   "booking": "No booking.",
   "see": [
    "Sori-hashi, the steep red arched bridge.",
@@ -865,7 +865,7 @@
   "tips": [
    "Ladle water onto the statue and make a wish; it's how the moss grew."
   ],
-  "decision": "Sat 21 ~14:45",
+  "decision": "Sat 21 ~19:30, with Dōtonbori",
   "verified": "6 Nov 2026",
   "pending": "",
   "trivia": [
@@ -954,10 +954,8 @@
   "name": "Kuromon Market",
   "icon": "🐟",
   "p": 2,
-  "inc": "yes",
-  "days": [
-   "D11"
-  ],
+  "inc": "no",
+  "days": [],
   "desc": "Walk-through only; touristy",
   "map": "https://www.google.com/maps/search/?api=1&query=Kuromon%20Market",
   "why": "Quick look only; touristy and overpriced.",
@@ -976,7 +974,7 @@
   "tips": [
    "Prices are high; compare with Kizu (O15)."
   ],
-  "decision": "Sat 21 ~13:10",
+  "decision": "Dropped on Sat 21 for Sakai (O27)",
   "verified": "6 Nov 2026",
   "pending": "",
   "trivia": [
@@ -1119,7 +1117,7 @@
   "trivia": [
    "kitsune-udon"
   ],
-  "decision": "Lunch, decide later",
+  "decision": "Not placed: Sat lunch is in Sakai; closes 18:00, closed Sun",
   "verified": "6 Nov 2026",
   "pending": ""
  },
@@ -1213,7 +1211,7 @@
   "tips": [
    "Non-smoking; cards and PayPay accepted."
   ],
-  "decision": "Lunch, decide later",
+  "decision": "Not placed: Sat lunch is in Sakai",
   "verified": "6 Nov 2026",
   "pending": "",
   "trivia": []
@@ -1248,7 +1246,7 @@
   "trivia": [
    "number-551"
   ],
-  "decision": "Sat 21 ~15:05",
+  "decision": "Sat 21 ~19:45, with Dōtonbori",
   "verified": "6 Nov 2026",
   "pending": ""
  },
@@ -1402,5 +1400,41 @@
   "pending": null,
   "decision": "Suggestion for Fri 20 dinner",
   "verified": "9 Nov 2026"
+ },
+ "O27": {
+  "name": "Sakai Denshōkan (Sakai Traditional Crafts Hall)",
+  "icon": "🔪🏛️",
+  "p": 1,
+  "inc": "yes",
+  "days": [
+   "D11"
+  ],
+  "desc": "Sakai's crafts hall: knife shop with many Sakai makers, plus a knife museum",
+  "map": "https://www.google.com/maps/search/?api=1&query=Sakai%20Denshokan",
+  "why": "Buy a knife in Sakai, Japan's main knife-making city: knives and whetstones from 24 Sakai businesses in one room, open on Saturday.",
+  "hours": "10:00–17:00; closed 3rd Tue and 29 Dec–3 Jan.",
+  "price": "Free entry.",
+  "stay": "~1 h 15 min",
+  "access": "Zaimokuchō-nishi 1-1-30, Sakai-ku; Hankai tram Myōkokuji-mae ~100 m; Nankai Sakai Stn ~1.1 km (~15 min walk). Tel. 072-227-1001.",
+  "booking": "No booking.",
+  "see": [
+   "1F TAKUMI SHOP: knives and whetstones from 24 Sakai makers.",
+   "2F CUT knife museum: history, making process, HIBANA chandelier."
+  ],
+  "route": null,
+  "facts": [
+   "A Sakai knife passes through three craftsmen: smith (kajiya), sharpener (togishi) and handle maker; the shop sells it under its own brand.",
+   "Sakai's tobacco knives got a shogunate seal in the Edo era, which made Sakai blades famous across Japan."
+  ],
+  "tips": [
+   "Ask for ginsan (silver #3) first; aogami/shirogami if you accept carbon steel.",
+   "Smith-named lines cost more for the same steel.",
+   "Tax-free: show passport (min ¥5,000); refund at Haneda customs before checking the bag; knife in the checked suitcase.",
+   "Good Namba backups: Sakai Ichimonji Mitsuhide, Jikko Uranamba. Skip: Tower Knives (tourist-aimed), Takahashi Kusu (no retail), Tojiro (Niigata, not Sakai)."
+  ],
+  "decision": "Sat 21 12:45–14:00, after Sumiyoshi Taisha",
+  "verified": "20 Nov 2026",
+  "pending": "",
+  "trivia": []
  }
 }
