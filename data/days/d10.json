@@ -1,6 +1,6 @@
 {
- "title": "Market, Katsuō-ji, A5 wagyu, Tenjinbashi, Umeda at night",
- "pace": "demanding",
+ "title": "Market, castle garden, Tenjinbashi, A5 wagyu, Umeda sunset",
+ "pace": "medium",
  "stay": "Hanastay Aya, Osaka",
  "trivia": [
   "umeda-lift"
@@ -27,38 +27,60 @@
    "type": "travel",
    "time": "~09:35",
    "mode": "🚇",
-   "text": "Daikokuchō → Midōsuji Line to Minoh-Kayano (check the train goes all the way), then Hankyu Bus 30 from stop No. 8 (~25 min, 2–3/h, IC or exact cash). Arrive ~10:45.",
-   "dur": "~1 h 10 min",
-   "cost": "¥800 pp bus + metro",
+   "text": "Metro Daikokuchō → Tanimachi 4-chōme, then walk ~10 min.",
+   "dur": "~30 min",
    "est": true
   },
   {
    "type": "stop",
-   "time": "10:45",
-   "end": "12:15",
-   "place": "O22",
-   "stay": "1.5 h",
-   "text": "Daruma-filled mountain temple, autumn colour. 8:00–17:00 (last entry 16:30), ¥500 (verify).",
-   "stamp": true
+   "time": "10:00",
+   "end": "10:50",
+   "place": "O1a",
+   "stay": "50 min",
+   "text": "Castle garden with a view of the keep. ¥300; Nov–Feb 9:00–16:30 (last entry 16:00), closed Mon."
   },
   {
    "type": "travel",
-   "time": "~12:20",
-   "mode": "🚌",
-   "text": "Bus back → Minoh-Kayano → Midōsuji Line to Umeda, arriving ~13:20.",
-   "dur": "~1 h",
+   "time": "~11:00",
+   "mode": "🚇",
+   "text": "Tanimachi Line Tanimachi 4-chōme → Minami-morimachi, then 5 min walk.",
+   "dur": "~10 min",
+   "est": true
+  },
+  {
+   "type": "stop",
+   "time": "11:15",
+   "place": "O21",
+   "stay": "15 min",
+   "text": "Coffee to go. Osaka Tenmangū is next door (9:00–17:00): 📿 stamp there.",
+   "stamp": true
+  },
+  {
+   "type": "stop",
+   "time": "11:30",
+   "end": "12:50",
+   "place": "O3",
+   "stay": "1 h 20 min",
+   "text": "Walk north along the arcade; light snacks only."
+  },
+  {
+   "type": "travel",
+   "time": "~13:00",
+   "mode": "🚶",
+   "text": "Walk to Umeda.",
+   "dur": "~20 min",
    "est": true
   },
   {
    "type": "meal",
    "time": "13:30",
-   "text": "A5 wagyu lunch (not Kobe): pick one of the three below on the day. If late: light lunch instead, and the beef moves to Sat 21."
+   "text": "A5 wagyu lunch (not Kobe): pick one of the three below on the day."
   },
   {
    "type": "optional",
    "place": "O5f",
    "stay": "~1 h",
-   "text": "Yakiniku: thin slices you grill yourselves. ~¥6,000–8,000 pp. Lunch last order 14:00, so only if on time."
+   "text": "Yakiniku: thin slices you grill yourselves. ~¥6,000–8,000 pp. Lunch last order 14:00."
   },
   {
    "type": "optional",
@@ -73,48 +95,24 @@
    "text": "Teppanyaki steak. Ask for A5 Kuroge wagyu, not Kobe; non-Kobe price not found. Lunch until 15:00."
   },
   {
-   "type": "travel",
-   "time": "~14:50",
-   "mode": "🚇",
-   "text": "Tanimachi Line Higashi-Umeda → Minami-morimachi, then 5 min walk.",
-   "dur": "~10 min",
-   "est": true
-  },
-  {
    "type": "stop",
-   "time": "15:05",
-   "place": "O21",
-   "stay": "15 min",
-   "text": "Coffee to go (closes ~18:00). Osaka Tenmangū is next door (9:00–17:00): 📿 stamp there.",
-   "stamp": true
-  },
-  {
-   "type": "stop",
-   "time": "15:20",
-   "end": "16:45",
-   "place": "O3",
-   "stay": "1 h 25 min",
-   "text": "Walk north along the arcade; snacks."
-  },
-  {
-   "type": "stop",
-   "time": "16:50",
-   "end": "17:40",
+   "time": "15:00",
+   "end": "16:15",
    "place": "O11",
-   "stay": "50 min",
-   "text": "Pre-war lanes; many cafés close early. Then walk to Umeda Sky (~15 min)."
+   "stay": "1 h 15 min",
+   "text": "Pre-war lanes with the cafés open; ~10 min from Umeda."
   },
   {
    "type": "stop",
-   "time": "18:00",
-   "end": "19:00",
+   "time": "16:30",
+   "end": "17:30",
    "place": "O8",
    "stay": "1 h",
-   "text": "¥2,000; rooftop night view."
+   "text": "¥2,000. Sunset ~16:55, then city lights."
   },
   {
    "type": "travel",
-   "time": "~19:00",
+   "time": "~17:45",
    "mode": "🚶",
    "text": "Walk to Fukushima.",
    "dur": "~15 min",
@@ -122,8 +120,8 @@
   },
   {
    "type": "stop",
-   "time": "19:15",
-   "end": "21:00",
+   "time": "18:00",
+   "end": "19:45",
    "place": "O26",
    "stay": "~1.5 h",
    "text": "Dinner in Fukushima. Suggestion for chicken skin: O26a Ichiya.",
@@ -133,9 +131,9 @@
   },
   {
    "type": "travel",
-   "time": "~21:00",
+   "time": "~19:45",
    "mode": "🚇",
-   "text": "Fukushima → Tamade (walk to Nishi-Umeda, Yotsubashi Line).",
+   "text": "Walk to Nishi-Umeda, Yotsubashi Line → Tamade. Home ~20:30.",
    "dur": "~30 min",
    "est": true
   }

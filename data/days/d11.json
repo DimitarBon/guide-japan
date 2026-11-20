@@ -95,29 +95,40 @@
    "type": "travel",
    "time": "~14:45",
    "mode": "🚆",
-   "text": "Walk to Nankai Sakai Stn (~15 min), Nankai Main Line → Nankai-Namba (~15 min), metro → Tanimachi 4-chōme (~20 min), then walk. Check the TK8364 terminal on ANA Flight Status (by phone).",
-   "dur": "~1 h",
+   "text": "Walk to Nankai Sakai Stn (~15 min), Nankai Main Line → Nankai-Namba (~15 min), arriving ~15:15.",
+   "dur": "~35 min",
+   "est": true
+  },
+  {
+   "type": "head",
+   "text": "Afternoon: Namba"
+  },
+  {
+   "type": "stop",
+   "time": "15:15",
+   "place": "O9",
+   "stay": "20 min",
+   "text": "Splash water on the mossy Fudō.",
+   "end": "15:35"
+  },
+  {
+   "type": "stop",
+   "time": "15:40",
+   "place": "O20",
+   "stay": "10 min",
+   "text": "Pork buns (2 for ¥420), eat quickly."
+  },
+  {
+   "type": "travel",
+   "time": "~16:00",
+   "mode": "🚇",
+   "text": "Metro from Namba towards Osaka Castle, then walk to the meeting point. Be there by 16:50: back exit of the Starbucks on Jo Terrace, in front of Osaka-Jo Hall (JR Osakajōkōen Stn), not the Morinomiya Starbucks. Check the TK8364 terminal on ANA Flight Status (by phone).",
+   "dur": "~35–40 min",
    "est": true
   },
   {
    "type": "head",
    "text": "Afternoon and evening: Osaka Castle"
-  },
-  {
-   "type": "stop",
-   "time": "15:45",
-   "end": "16:25",
-   "place": "O1a",
-   "stay": "40 min",
-   "text": "¥300. Closes 16:30, last entry 16:00."
-  },
-  {
-   "type": "travel",
-   "time": "~16:25",
-   "mode": "🚶",
-   "text": "Walk past the walls to the meeting point. Be there by 16:50: back exit of the Starbucks on Jo Terrace, in front of Osaka-Jo Hall (JR Osakajōkōen Stn), not the Morinomiya Starbucks.",
-   "dur": "~20–25 min",
-   "est": true
   },
   {
    "type": "stop",
@@ -151,21 +162,6 @@
   {
    "type": "stop",
    "time": "19:30",
-   "place": "O9",
-   "stay": "15 min",
-   "text": "Splash water on the mossy Fudō.",
-   "end": "19:45"
-  },
-  {
-   "type": "stop",
-   "time": "19:45",
-   "place": "O20",
-   "stay": "10 min",
-   "text": "Pork buns (2 for ¥420); shop open to 21:30."
-  },
-  {
-   "type": "stop",
-   "time": "19:55",
    "end": "20:15",
    "place": "O13",
    "stay": "45 min",

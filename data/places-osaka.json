@@ -450,9 +450,9 @@
   "name": "Nishinomaru Garden",
   "icon": "🌳",
   "p": 2,
-  "inc": "maybe",
+  "inc": "yes",
   "days": [
-   "D11"
+   "D10"
   ],
   "desc": "Castle garden, autumn colour",
   "map": "https://www.google.com/maps/search/?api=1&query=Osaka%20Castle%20Nishinomaru%20Garden",
@@ -472,7 +472,7 @@
    "The Hōshō-an teahouse was donated in 1969 by Matsushita Kōnosuke, founder of Panasonic."
   ],
   "tips": [],
-  "decision": "Sat 21 ~15:45, before the tour",
+  "decision": "Fri 20 ~10:00, after Kizu (moved from Sat 21)",
   "verified": "6 Nov 2026",
   "pending": "",
   "trivia": []
@@ -541,7 +541,7 @@
   ],
   "verified": "6 Nov 2026",
   "pending": "",
-  "decision": "Fri 20 ~15:20",
+  "decision": "Fri 20 ~11:30",
   "trivia": [
    "kansai-kanto",
    "osaka-tokyo"
@@ -830,7 +830,7 @@
    "Windy and cold on the roof in November: jacket.",
    "Sunset ~16:50; at 18:15 it's the night view."
   ],
-  "decision": "Fri 20 ~18:00, night view",
+  "decision": "Fri 20 ~16:30, sunset",
   "verified": "6 Nov 2026",
   "pending": "",
   "trivia": [
@@ -865,7 +865,7 @@
   "tips": [
    "Ladle water onto the statue and make a wish; it's how the moss grew."
   ],
-  "decision": "Sat 21 ~19:30, with Dōtonbori",
+  "decision": "Sat 21 ~15:15, after Sakai",
   "verified": "6 Nov 2026",
   "pending": "",
   "trivia": [
@@ -945,7 +945,7 @@
   "tips": [
    "Residential: quiet voices, no photos of people's homes."
   ],
-  "decision": "Fri 20 ~16:50",
+  "decision": "Fri 20 ~15:00, after the beef lunch",
   "verified": "6 Nov 2026",
   "pending": "",
   "trivia": []
@@ -1246,7 +1246,7 @@
   "trivia": [
    "number-551"
   ],
-  "decision": "Sat 21 ~19:45, with Dōtonbori",
+  "decision": "Sat 21 ~15:40, after Hōzen-ji",
   "verified": "6 Nov 2026",
   "pending": ""
  },
@@ -1276,7 +1276,7 @@
   "tips": [
    "Tenmangu stand is takeaway only."
   ],
-  "decision": "Fri 20 ~15:05",
+  "decision": "Fri 20 ~11:15",
   "verified": "6 Nov 2026",
   "pending": "",
   "trivia": []
@@ -1285,13 +1285,11 @@
   "name": "Katsuō-ji, Minoh",
   "icon": "🛕🍁",
   "p": 2,
-  "inc": "yes",
-  "days": [
-   "D10"
-  ],
+  "inc": "no",
+  "days": [],
   "desc": "Mountain 'winning daruma' temple, autumn colour",
   "map": "https://www.google.com/maps/search/?api=1&query=Katsuoji%20Temple%20Minoh",
-  "why": "Daruma-filled mountain temple at peak foliage; the day's nature and autumn colour.",
+  "why": "Daruma-filled mountain temple at peak foliage, but a half day away; dropped.",
   "hours": "8:00–17:00 (verify).",
   "price": "~¥500.",
   "stay": "1.5 h",
@@ -1305,7 +1303,7 @@
    "Its name means 'victory' temple; people leave daruma there after a win."
   ],
   "tips": [],
-  "decision": "Fri 20 morning, after Kizu",
+  "decision": "Dropped on 20 Nov",
   "verified": "6 Nov 2026",
   "pending": "",
   "trivia": []
@@ -1367,7 +1365,7 @@
   ],
   "trivia": null,
   "pending": null,
-  "decision": "Fri 20 dinner ~19:15",
+  "decision": "Fri 20 dinner ~18:00",
   "verified": "9 Nov 2026"
  },
  "O26a": {
