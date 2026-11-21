@@ -9,43 +9,66 @@
  "items": [
   {
    "type": "head",
-   "text": "Morning: Osaka"
+   "text": "Morning: Noda market festival (🧳 = where the suitcases are)"
   },
   {
    "type": "note",
-   "text": "Free morning at Hanastay Aya: pack, last breakfast nearby. Self check-out by 11:00. Closed on Sun: O16 Usami-tei and O17 Yoshino Sushi.",
-   "status": "booked",
-   "booking": "aya"
+   "time": "~08:15",
+   "text": "Self check-out at Hanastay Aya with the suitcases. 🧳 with us. Closed on Sun: O16 Usami-tei, O17 Yoshino Sushi, Endo Sushi.",
+   "map": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%B8%82%E8%A5%BF%E6%88%90%E5%8C%BA%E7%8E%89%E5%87%BA%E4%B8%AD2-8-16"
   },
   {
-   "type": "optional",
-   "time": "10:45",
-   "place": "O11",
-   "stay": "1–1.5 h",
-   "text": "Only if not done on Fri 20: leave with the bags, lockers at Shin-Osaka (~11:30, sizes not verified), JR to Osaka (~4 min). Sunday cafés open ~11:00. Back at Shin-Osaka by 13:30."
+   "type": "travel",
+   "time": "~08:20",
+   "mode": "🚇",
+   "text": "Yotsubashi Line Tamade → Nishi-Umeda (no change), then walk to JR Osaka Station. 🧳 with us.",
+   "dur": "~25 min",
+   "est": true,
+   "map": "https://www.google.com/maps/dir/?api=1&origin=%E5%A4%A7%E9%98%AA%E5%B8%82%E8%A5%BF%E6%88%90%E5%8C%BA%E7%8E%89%E5%87%BA%E4%B8%AD2-8-16&destination=JR%E5%A4%A7%E9%98%AA%E9%A7%85&travelmode=transit"
+  },
+  {
+   "type": "note",
+   "time": "~08:45",
+   "text": "🧳 Coin lockers at JR Osaka Station: largest size, many take Suica. Note the locker number and take a photo. If no large locker fits the 150 cm suitcase: staffed luggage storage in the station, or Crosta Shin-Osaka (opens 9:00; then ~10 min late for the show).",
+   "map": "https://www.google.com/maps/search/?api=1&query=JR%E5%A4%A7%E9%98%AA%E9%A7%85%20%E3%82%B3%E3%82%A4%E3%83%B3%E3%83%AD%E3%83%83%E3%82%AB%E3%83%BC"
+  },
+  {
+   "type": "travel",
+   "time": "~08:55",
+   "mode": "🚆",
+   "text": "JR Loop Line Osaka → Noda (2 stops), then walk to the market. 🧳 in the locker.",
+   "dur": "~20 min",
+   "est": true,
+   "map": "https://www.google.com/maps/dir/?api=1&origin=JR%E5%A4%A7%E9%98%AA%E9%A7%85&destination=%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8D%B8%E5%A3%B2%E5%B8%82%E5%A0%B4%20%E6%9C%AC%E5%A0%B4&travelmode=transit"
+  },
+  {
+   "type": "stop",
+   "time": "09:15",
+   "end": "12:45",
+   "place": "O2",
+   "stay": "3.5 h",
+   "text": "95th-anniversary market festival (9:00–14:00). Tuna-cutting show 9:35–10:10 on the stage by the general information desk (総合案内所): be there by ~9:20. Taiko 9:00–9:20, Awa-odori 10:15–11:00, mock auctions of produce and seafood. Breakfast and lunch at the stalls. Cash only; bring a shopping bag. 🧳 in the locker."
+  },
+  {
+   "type": "travel",
+   "time": "~12:45",
+   "mode": "🚆",
+   "text": "JR Noda → Osaka, collect the suitcases at the locker (🧳 with us again), then JR Kyoto Line Osaka → Shin-Osaka (4 min).",
+   "dur": "~40 min",
+   "est": true,
+   "map": "https://www.google.com/maps/dir/?api=1&origin=%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8D%B8%E5%A3%B2%E5%B8%82%E5%A0%B4%20%E6%9C%AC%E5%A0%B4&destination=%E6%96%B0%E5%A4%A7%E9%98%AA%E9%A7%85&travelmode=transit"
+  },
+  {
+   "type": "note",
+   "time": "~13:30",
+   "text": "Shin-Osaka: ekiben and drinks; 551 Hōrai buns are sold in the station (9:00–21:30). 🧳 with us.",
+   "map": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%A4%A7%E9%98%AA%E9%A7%85"
   },
   {
    "type": "optional",
    "time": "10:30",
    "text": "Backup knife shop if Sakai didn't work out: Sakai Ichimonji Mitsuhide or Jikko Uranamba, Doguyasuji, Namba (Yotsubashi Line Tamade → Namba ~10 min). Means checking out early and carrying the suitcases.",
    "map": "https://www.google.com/maps/search/?api=1&query=Sakai%20Ichimonji%20Mitsuhide%20Doguyasuji"
-  },
-  {
-   "type": "note",
-   "text": "Option, if the suitcases come with us: Crosta Shin-Osaka (9:00–20:00, ¥1,000 per bag, book online) for the optional morning; lockers uncertain."
-  },
-  {
-   "type": "travel",
-   "time": "12:03",
-   "mode": "🚇",
-   "text": "If no optional morning: Yotsubashi Line Tamade → Daikokuchō, change to the Midōsuji Line → Shin-Osaka (Jorudan 12:03 → 12:32).",
-   "dur": "29 min",
-   "cost": "¥290 pp"
-  },
-  {
-   "type": "note",
-   "time": "~12:45",
-   "text": "Shin-Osaka: ekiben and drinks; 551 Hōrai buns are sold in the station (9:00–21:30)."
   },
   {
    "type": "head",

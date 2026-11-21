@@ -478,19 +478,21 @@
   "trivia": []
  },
  "O2": {
-  "name": "Noda Central Market, Endo Sushi",
+  "name": "Noda Central Market: 95th-anniversary festival",
   "icon": "🐟🍜",
   "p": 2,
-  "inc": "no",
-  "days": null,
-  "desc": "Market sushi breakfast since 1931",
-  "map": "https://www.google.com/maps/search/?api=1&query=Endo%20Sushi%20Osaka%20Central%20Wholesale%20Market",
-  "why": "Sushi breakfast inside a working wholesale market; dropped for a lighter Friday (Kizu instead).",
-  "hours": "Endo 5:00–14:00 Mon–Sat; market closed Sun, holidays and some Wed (not re-checked: not included).",
-  "price": "~¥1,100–2,500 per set.",
-  "stay": "45 min",
-  "access": "JR Noda / Tamagawa Stn, ~10 min.",
-  "booking": "Online booking possible.",
+  "inc": "yes",
+  "days": [
+   "D12"
+  ],
+  "desc": "Osaka's main wholesale market, open to the public for one day",
+  "map": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8D%B8%E5%A3%B2%E5%B8%82%E5%A0%B4%20%E6%9C%AC%E5%A0%B4",
+  "why": "A real wholesale market opened to the public for its 95th anniversary, on our last Osaka morning: fish market, tuna-cutting show, market food.",
+  "hours": "Sun 22 Nov 9:00–14:00. Tuna-cutting show 9:35–10:10 (stage by the general information desk); taiko 9:00–9:20; Awa-odori 10:15–11:00.",
+  "price": "Free entry; cash only at the stalls.",
+  "stay": "3.5 h",
+  "access": "Fukushima-ku Noda 1-1-86; JR Loop Line Noda or Osaka Metro Sennichimae Line Tamagawa. From JR Osaka Station: Loop Line 2 stops.",
+  "booking": "No booking.",
   "see": [
    "Five pieces of sushi per plate, the classic order."
   ],
@@ -498,9 +500,13 @@
   "facts": [
    "Endo has served market workers since 1931."
   ],
-  "tips": [],
-  "decision": "Lighter Fri",
-  "verified": "6 Nov 2026",
+  "tips": [
+   "Bring your own shopping bag.",
+   "Be at the stage by ~9:20 for the tuna show.",
+   "A paid parcel-shipping desk is on site."
+  ],
+  "decision": "Sun 22 9:15–12:45, market festival (Endo Sushi closed on Sundays)",
+  "verified": "21 Nov 2026",
   "pending": "",
   "trivia": []
  },
