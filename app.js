@@ -32,7 +32,7 @@ let lang = 'en';
 try { if (localStorage.getItem('jp-lang') === 'bg') lang = 'bg'; } catch {}
 const L = s => (lang === 'bg' && BG[s]) || s;
 let STATUS, INC;
-const TAB_LABELS = { days: 'Days', places: 'Places', bookings: 'Bookings', info: 'Info' };
+const TAB_LABELS = { days: 'Days', places: 'Places', bookings: 'Bookings', info: 'Info', expenses: 'Expenses' };
 function applyLang() {
   document.documentElement.lang = lang;
   STATUS = {
@@ -609,8 +609,70 @@ async function renderPrint() {
   $('#doprint')?.addEventListener('click', () => { try { window.print(); } catch {} });
 }
 
-// ---------- Router (#days, #places, #bookings, #info, #print) ----------
-const pages = { days: renderDays, places: renderPlaces, bookings: renderBookings, info: renderInfo, print: renderPrint };
+// ---------- Expenses (#expenses): the data is encrypted (AES-GCM, key from the password via PBKDF2) and decrypted only in this browser ----------
+const EXP_KEY = 'jp-exp-pw';
+let expData = null;
+const b64 = s => Uint8Array.from(atob(s), c => c.charCodeAt(0));
+async function decryptExpenses(pw) {
+  const f = await fetchJson('data/expenses.enc.json');
+  if (!f) throw new Error('missing');
+  const base = await crypto.subtle.importKey('raw', new TextEncoder().encode(pw), 'PBKDF2', false, ['deriveKey']);
+  const key = await crypto.subtle.deriveKey({ name: 'PBKDF2', salt: b64(f.salt), iterations: f.iter, hash: 'SHA-256' },
+    base, { name: 'AES-GCM', length: 256 }, false, ['decrypt']);
+  const pt = await crypto.subtle.decrypt({ name: 'AES-GCM', iv: b64(f.iv) }, key, b64(f.ct));
+  return JSON.parse(new TextDecoder().decode(pt));
+}
+const eur = n => (n < 0 ? '−€' : '€') + Math.abs(n).toLocaleString('en-GB', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+function expLock(msg) {
+  view.innerHTML = `<div class="card"><h2>🔒 Expenses</h2><p class="muted">Enter the password to see the trip expenses.</p>
+    <form id="expForm" class="expform"><input type="password" id="expPw" autocomplete="current-password" placeholder="Password" required>
+    <label class="check"><input type="checkbox" id="expRem"> <span>Remember on this phone</span></label>
+    <button class="btn" type="submit">Unlock</button>${msg ? `<p class="experr">${esc(msg)}</p>` : ''}</form></div>`;
+  $('#expForm').addEventListener('submit', async e => {
+    e.preventDefault();
+    const pw = $('#expPw').value, rem = $('#expRem').checked;
+    view.querySelector('.btn').textContent = 'Unlocking…';
+    try {
+      expData = await decryptExpenses(pw);
+      if (rem) { try { localStorage.setItem(EXP_KEY, pw); } catch {} }
+      renderExpenses();
+    } catch { expLock('Wrong password, or the data could not be loaded.'); }
+  });
+}
+async function renderExpenses() {
+  if (!expData) {
+    let saved = null;
+    try { saved = localStorage.getItem(EXP_KEY); } catch {}
+    if (saved) {
+      view.innerHTML = placeholder('Unlocking…');
+      try { expData = await decryptExpenses(saved); } catch { try { localStorage.removeItem(EXP_KEY); } catch {} }
+    }
+  }
+  if (currentTab !== 'expenses') return;
+  if (!expData) return expLock();
+  const d = expData;
+  const count = d.cats.reduce((n, c) => n + c.subs.reduce((m, s) => m + s.items.length, 0), 0);
+  const share = x => Math.max(0, Math.round(x / d.total * 100));
+  const day = s => `${+s.slice(8)} Nov`;
+  const item = i => `<div class="exi"><span class="exd">${day(i.d)}</span><span class="ext">${esc(i.t)}</span><span class="exa">${eur(i.e)}</span></div>`;
+  const sub = s => `<details class="exs"><summary><span>${esc(s.name)} <span class="muted small">· ${s.items.length}</span></span><b class="exa">${eur(s.total)}</b></summary>
+    ${s.note ? `<p class="muted small"><i>${esc(s.note)}</i></p>` : ''}${s.items.map(item).join('')}</details>`;
+  const cat = c => `<details class="card info exc"><summary><span>${c.icon} <b>${esc(c.name)}</b><span class="exbar"><i style="width:${share(c.total)}%"></i></span></span>
+    <span class="exr"><b>${eur(c.total)}</b><span class="muted small">${share(c.total)}%</span></span></summary>${c.subs.map(sub).join('')}</details>`;
+  view.innerHTML = `<div class="card"><h2>💶 Expenses</h2>
+    <div class="extot"><div><span class="muted small">Total</span><b>${eur(d.total)}</b></div>
+    <div><span class="muted small">Per person</span><b>${eur(d.total / d.people)}</b></div>
+    <div><span class="muted small">Payments</span><b>${count}</b></div></div>
+    <button class="btn ghost" id="expOpen">Expand all</button><button class="btn ghost" id="expClose">Collapse all</button><button class="btn ghost" id="expLockBtn">🔒 Lock</button></div>
+    ${d.cats.map(cat).join('')}
+    <div class="card"><ul class="muted small">${(d.notes || []).map(n => `<li>${esc(n)}</li>`).join('')}</ul><p class="muted small">Updated ${esc(d.updated)}.</p></div>`;
+  $('#expOpen').addEventListener('click', () => view.querySelectorAll('details').forEach(x => { x.open = true; }));
+  $('#expClose').addEventListener('click', () => view.querySelectorAll('details').forEach(x => { x.open = false; }));
+  $('#expLockBtn').addEventListener('click', () => { expData = null; try { localStorage.removeItem(EXP_KEY); } catch {} expLock(); });
+}
+
+// ---------- Router (#days, #places, #bookings, #info, #expenses, #print) ----------
+const pages = { days: renderDays, places: renderPlaces, bookings: renderBookings, info: renderInfo, expenses: renderExpenses, print: renderPrint };
 function route() {
   const tab = pages[location.hash.slice(1)] ? location.hash.slice(1) : 'days';
   currentTab = tab;

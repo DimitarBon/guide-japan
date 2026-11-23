@@ -184,3 +184,26 @@ main{max-width:720px;margin:0 auto;padding:0 16px}
 .maplegend .sw{display:inline-block;width:22px;border-top:3px solid #d9480f}
 .maplegend .sw.o{border-top:3px dashed #7c4dff}
 .maplegend .sw.r{border-top:2px dashed #5f6670}
+
+/* Expenses tab */
+.extot{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin:8px 0 4px}
+.extot div{background:var(--bg);border:1px solid var(--line);border-radius:10px;padding:8px}
+.extot span{display:block}
+.extot b{font-size:17px;font-variant-numeric:tabular-nums}
+.exc summary{align-items:flex-start}
+.exr{display:flex;flex-direction:column;align-items:flex-end;font-variant-numeric:tabular-nums}
+.exbar{display:block;height:4px;background:var(--line);border-radius:2px;margin-top:6px;max-width:180px;overflow:hidden}
+.exbar i{display:block;height:100%;background:var(--accent)}
+.exs{border-top:1px solid var(--line);padding:8px 0}
+.exs:last-child{padding-bottom:0}
+.exs>summary{font-size:15px;margin-bottom:0!important}
+.exs>summary::after{transform:none!important}
+.exs[open]>summary::after{transform:rotate(90deg)!important}
+.exs[open]>summary{margin-bottom:6px!important}
+.exi{display:grid;grid-template-columns:48px 1fr auto;gap:8px;font-size:14px;padding:5px 0 5px 4px;border-bottom:1px dashed var(--line)}
+.exi:last-child{border-bottom:0}
+.exd{color:var(--muted);font-size:13px}
+.exa{font-variant-numeric:tabular-nums;white-space:nowrap;text-align:right}
+.expform input[type=password]{width:100%;box-sizing:border-box;font:inherit;font-size:16px;padding:9px 12px;border:1px solid var(--line);border-radius:10px;background:var(--bg);color:var(--ink);margin:6px 0}
+.experr{color:var(--accent);font-size:14px}
+.tabs a{min-width:0}
